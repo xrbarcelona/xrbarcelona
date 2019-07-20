@@ -135,10 +135,6 @@ yarn build:lambda
 
 We actively welcome your pull requests!
 
-If you need help with Git or our workflow, please ask on [Gitter.im](https://gitter.im/netlify/NetlifyCMS). We want your contributions even if you're just learning Git. Our maintainers are happy to help!
-
-Netlify CMS uses the [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) + [Feature Branches](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). Additionally, PR's should be [rebased](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) on master when opened, and again before merging.
-
 1. Fork the repo.
 2. Create a branch from `master`. If you're addressing a specific issue, prefix your branch name with the issue number.
 2. If you've added code that should be tested, add tests.
@@ -150,5 +146,4 @@ Netlify CMS uses the [Forking Workflow](https://www.atlassian.com/git/tutorials/
 
 ## License
 
-By contributing to the Gatsby - Netlify CMS starter, you agree that your contributions will be licensed
-under its [MIT license](LICENSE).
+By contributing to the XR Barcelona website, you agree that your contributions will be licensed under [MIT license](LICENSE).

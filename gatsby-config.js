@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Rebel·lió o Extinció - XR Barcelona',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Moviment internacional de desobediència civil. En basem en l\'acció directa no violenta.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
