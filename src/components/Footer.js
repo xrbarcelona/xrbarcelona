@@ -39,21 +39,6 @@ const Footer = class extends React.Component {
                         Events
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
                   </ul>
                 </section>
               </div>
@@ -69,6 +54,16 @@ const Footer = class extends React.Component {
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
+                    </li>
+                    <li>
+                      <a
+                        className="navbar-item"
+                        href="/admin/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Admin
+                      </a>
                     </li>
                   </ul>
                 </section>
