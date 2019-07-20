@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Rebel·lió o Extinció - XR Barcelona
+title: Rebel·lió o Extinció - Barcelona - Work in progress
 image: /img/home-jumbotron.jpg
-heading: Rebel·lió o Extinció - XR Barcelona
+heading: Rebel·lió o Extinció - Barcelona
 subheading: Moviment internacional de desobediència civil. En basem en l'acció directa no violenta.
 mainpitch:
   title: Main pitch
