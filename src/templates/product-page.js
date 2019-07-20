@@ -27,9 +27,9 @@ export const ProductPageTemplate = ({
         })`,
       }}
     >
-      <h2 className="home-title has-text-weight-bold is-size-1">
+      <h1 className="home-title has-text-weight-bold is-size-1">
         {title}
-      </h2>
+      </h1>
     </div>
     <section className="section section--gradient">
       <div className="container">
