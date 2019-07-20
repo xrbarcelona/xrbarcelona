@@ -12,12 +12,6 @@ $body-color: $black
 body
   background-color: $xr-green
 
-.navbar
-  background-color: $xr-green !important
-
-.navbar .navbar-menu
-  box-shadow:none !important
-
 .home-title
   box-shadow: $xr-green 0.5rem 0px 0px, $xr-green -0.5rem 0px 0px
   background-color: $xr-green 
@@ -73,7 +67,7 @@ body
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: $xr-green
     text-align: center
     -webkit-box-shadow: inset 0 0 0 2px $xr-green
     box-shadow: inset 0 0 0 2px $xr-green
@@ -83,8 +77,19 @@ body
 .margin-top-0
   margin-top: 0 !important
 
+nav.navbar
+  background-color: $xr-green
+nav.navbar .navbar-menu
+  box-shadow:none
+
+nav a.navbar-item
+  color: $black
+nav a.navbar-item:hover
+  color: $white
+
 .navbar-item .icon
-  color: $primary
+  color: $black
+
 // Override for use of svg's from https://simpleicons.org/
 .icon svg
   width: 1.5rem
@@ -126,7 +131,7 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: #ffffff99;
 .blog-list-item header
   display: flex;
   margin-bottom: 1em;
@@ -136,7 +141,6 @@ $menu-label-color: $white-ter
 
 
 @import "~bulma"
-
 
 // responsiveness
 +tablet-only
