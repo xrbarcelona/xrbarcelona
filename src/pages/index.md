@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Rebel·lió o Extinció - XR Barcelona
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Rebel·lió o Extinció - XR Barcelona
+subheading: Moviment internacional de desobediència civil. En basem en l'acció directa no violenta.
 mainpitch:
   title: Why Kaldi
   description: >
