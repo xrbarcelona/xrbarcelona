@@ -5,6 +5,7 @@ import logo from '../img/logo-white-xr.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
+import github from '../img/social/github.svg'
 import mail from '../img/social/mail.svg'
 
 const Footer = class extends React.Component {
@@ -79,6 +80,12 @@ const Footer = class extends React.Component {
                   <img
                     src={instagram}
                     alt="Instagram"
+                  />
+                </a>
+                <a title="github" href="https://github.com/xrbarcelona/">
+                  <img
+                    src={github}
+                    alt="Github"
                   />
                 </a>
                 <a title="email" href="mailto:xrbarcelona@riseup.net">
