@@ -1,10 +1,12 @@
 var proxy = require('http-proxy-middleware')
+const languages = require('./src/data/languages');
 
 module.exports = {
   siteMetadata: {
     title: 'Rebel·lió o Extinció - Barcelona',
     description:
       'Moviment internacional de desobediència civil. En basem en l\'acció directa no violenta.',
+    languages
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -30,6 +32,32 @@ module.exports = {
         path: `${__dirname}/src/img`,
         name: 'images',
       },
+    },
+    {
+      resolve: 'gatsby-plugin-i18n',
+      options: {
+        langKeyForNull: 'es',
+        langKeyDefault: languages.defaultLangKey,
+        useLangKeyLayout: false,
+        prefixDefault: false,
+        markdownRemark: {
+          postPage: 'src/templates/index-page.js',
+          query: `
+            {
+              allMarkdownRemark {
+                edges {
+                  node {
+                    fields {
+                      slug,
+                      langKey
+                    }
+                  }
+                }
+              }
+            }
+          `
+        }
+      }
     },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
