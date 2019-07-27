@@ -87,10 +87,22 @@ nav a.navbar-item
 nav a.navbar-item:hover
   color: $white
 
-.navbar-item .icon
+nav a.navbar-item .icon
   color: $black
-nav .navbar-item img
+nav a.navbar-item img
   min-height: 3em
+
+nav button.language-link 
+  background: none
+  border: none
+  color: inherit
+  cursor: pointer
+
+nav button.language-link:hover
+  color: $white
+
+nav button.language-selected 
+  color: $white
 
 // Override for use of svg's from https://simpleicons.org/
 .icon svg

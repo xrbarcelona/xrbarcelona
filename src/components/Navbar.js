@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import Language from "./Language"
 import logo from '../img/logo-xr-full.png'
 
 const Navbar = class extends React.Component {
@@ -73,6 +74,7 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
+              <Language />
             </div>
           </div>
         </div>

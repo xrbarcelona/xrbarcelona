@@ -1,0 +1,11 @@
+{
+  "title": "Title in English",
+  "description": "Description [EN]",
+  "index": {
+    "see_all_events": "See all events [EN]"
+  },
+  "notfound": {
+    "header": "NOT FOUND [EN]",
+    "description": "You just hit a route that doesn't exist... the sadness."
+  }
+}

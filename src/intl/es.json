@@ -1,0 +1,11 @@
+{
+  "title": "Titolo el Espanol",
+  "description": "Description [ES]",
+  "index": {
+    "see_all_events": "See all events [ES]"
+  },
+  "notfound": {
+    "header": "NOT FOUND [ES]",
+    "description": "You just hit a route that doesn't exist... the sadness. [ES]"
+  }
+}
