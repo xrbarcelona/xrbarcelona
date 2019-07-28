@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import { injectIntl, Link, FormattedMessage } from 'gatsby-plugin-intl'
+import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
@@ -73,7 +72,7 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/events">
-                      <FormattedMessage id="index.see_all_events" />                      
+                      See all events
                     </Link>
                   </div>
                 </div>
@@ -135,7 +134,7 @@ IndexPage.propTypes = {
   }),
 }
 
-export default injectIntl(IndexPage)
+export default IndexPage
 
 export const pageQuery = graphql`
   query IndexPageTemplate {

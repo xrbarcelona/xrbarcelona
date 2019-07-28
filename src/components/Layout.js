@@ -5,7 +5,7 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 
-const LayoutWrapper = ({ children }) => {
+const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
     <div>
@@ -52,4 +52,4 @@ const LayoutWrapper = ({ children }) => {
   )
 }
 
-export default LayoutWrapper
+export default TemplateWrapper
