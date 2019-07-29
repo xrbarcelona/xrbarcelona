@@ -2,7 +2,7 @@ import React from 'react'
 import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
-import Layout from '../../components/Layout'
+import Layout from '../../../components/Layout'
 
 const TagsPage = ({
   data: {
@@ -12,7 +12,7 @@ const TagsPage = ({
     },
   },
 }) => (
-  <Layout>
+  <Layout languageKey="en">
     <section className="section">
       <Helmet title={`Tags | ${title}`} />
       <div className="container content">
@@ -47,7 +47,7 @@ export const tagPageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(limit: 1000) {
+    allMarkdownRemark(limit: 1000, filter: {frontmatter: {languageKey: {eq: "en"}}}) {
       group(field: frontmatter___tags) {
         fieldValue
         totalCount

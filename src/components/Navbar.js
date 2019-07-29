@@ -1,6 +1,8 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import logo from '../img/logo-xr-full.png'
+import NavbarLanguages from './NavbarLanguages';
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -32,6 +34,8 @@ const Navbar = class extends React.Component {
   }
 
   render() {
+    const languageKey = this.props.languageKey
+
     return (
       <nav
         className="navbar is-transparent"
@@ -40,7 +44,7 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
+            <Link to={`/${languageKey}/`} className="navbar-item" title="Homepage">
               <img src={logo} alt="Extintion Rebellion Logo" />
             </Link>
             {/* Hamburger menu */}
@@ -59,26 +63,31 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
+              <Link className="navbar-item" to={`/${languageKey}/about`}>
                 About
               </Link>
-              <Link className="navbar-item" to="/events">
+              <Link className="navbar-item" to={`/${languageKey}/events`}>
                 Events
               </Link>
-              <Link className="navbar-item" to="/blog">
+              <Link className="navbar-item" to={`/${languageKey}/blog`}>
                 Blog
               </Link>
-              <Link className="navbar-item" to="/contact">
+              <Link className="navbar-item" to={`/${languageKey}/contact`}>
                 Contact
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
+              <NavbarLanguages languageKey={languageKey} />
             </div>
           </div>
         </div>
       </nav>
     )
   }
+}
+
+Navbar.propTypes = {
+  languageKey: PropTypes.string,
 }
 
 export default Navbar

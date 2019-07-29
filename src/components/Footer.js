@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 
 import logo from '../img/logo-white-xr.svg'
@@ -10,6 +11,8 @@ import mail from '../img/social/mail.svg'
 
 const Footer = class extends React.Component {
   render() {
+    const languageKey = this.props.languageKey
+
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered has-background-black has-text-white-ter">
@@ -19,17 +22,17 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
-                      <Link to="/" className="navbar-item">
+                      <Link to={`/${languageKey}/`}  className="navbar-item">
                         Home
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about">
+                      <Link className="navbar-item" to={`/${languageKey}/about`}>
                         About
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/events">
+                      <Link className="navbar-item" to={`/${languageKey}/events`}>
                         Events
                       </Link>
                     </li>
@@ -40,12 +43,12 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="/blog">
+                      <Link className="navbar-item" to={`/${languageKey}/blog`}>
                         Latest Stories
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
+                      <Link className="navbar-item" to={`/${languageKey}/contact`}>
                         Contact
                       </Link>
                     </li>
@@ -108,6 +111,10 @@ const Footer = class extends React.Component {
       </footer>
     )
   }
+}
+
+Footer.propTypes = {
+  languageKey: PropTypes.string,
 }
 
 export default Footer

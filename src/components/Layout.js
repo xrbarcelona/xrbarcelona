@@ -1,12 +1,14 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 
-const TemplateWrapper = ({ children }) => {
+const Layout = ({ languageKey, children }) => {
   const { title, description } = useSiteMetadata()
+
   return (
     <div>
       <Helmet>
@@ -45,11 +47,17 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:image" content="/img/og-image.jpg" />
         <meta name="robots" content="noindex"/>
       </Helmet>
-      <Navbar />
+      <Navbar languageKey={languageKey} />
       <div>{children}</div>
-      <Footer />
+      <Footer languageKey={languageKey} />
     </div>
   )
 }
 
-export default TemplateWrapper
+
+Layout.propTypes = {
+  languageKey: PropTypes.string,
+}
+
+
+export default Layout

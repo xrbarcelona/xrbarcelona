@@ -1,7 +1,8 @@
 ---
 templateKey: 'event-page'
-path: /events
-title: Our Coffee
+languageKey: ca
+path: /ca/events
+title: Our Events [CA]
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-

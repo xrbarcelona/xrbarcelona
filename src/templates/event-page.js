@@ -112,7 +112,7 @@ const EventPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <Layout>
+    <Layout languageKey={frontmatter.languageKey}>
       <EventPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
@@ -141,6 +141,7 @@ export const eventPageQuery = graphql`
   query EventPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
+        languageKey
         title
         image {
           childImageSharp {
