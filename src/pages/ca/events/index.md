@@ -2,8 +2,8 @@
 templateKey: 'event-page'
 languageKey: ca
 path: /ca/events
-title: Our Events [CA]
-image: /img/jumbotron.jpg
+title: Esdeveniments
+image: /img/banner-events.jpg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
