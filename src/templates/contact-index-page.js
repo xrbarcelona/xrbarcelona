@@ -1,6 +1,8 @@
 import React from 'react'
+import PropTypes from 'prop-types'
+import { graphql } from 'gatsby'
 import { navigate } from 'gatsby-link'
-import Layout from '../../../components/Layout'
+import Layout from '../components/Layout'
 
 function encode(data) {
   return Object.keys(data)
@@ -8,7 +10,9 @@ function encode(data) {
     .join('&')
 }
 
-export default class Index extends React.Component {
+class ContactIndexPage extends React.Component {
+  // = ({ data }) => {
+  //const markdown = data.markdownRemark
   constructor(props) {
     super(props)
     this.state = { isValidated: false }
@@ -34,16 +38,19 @@ export default class Index extends React.Component {
   }
 
   render() {
+    const markdown = this.props.data.markdownRemark
+    const languageKey = markdown.frontmatter.languageKey
+
     return (
-      <Layout languageKey="en">
+      <Layout languageKey={languageKey}>
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>{markdown.frontmatter.title}</h1>
               <form
                 name="contact"
                 method="post"
-                action="/contact/thanks/"
+                action={`/${languageKey}/contact/thanks/`}
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -58,7 +65,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                      {markdown.frontmatter.contact.name}
                   </label>
                   <div className="control">
                     <input
@@ -73,7 +80,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'email'}>
-                    Email
+                    {markdown.frontmatter.contact.email}
                   </label>
                   <div className="control">
                     <input
@@ -88,7 +95,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    {markdown.frontmatter.contact.message}
                   </label>
                   <div className="control">
                     <textarea
@@ -102,7 +109,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    {markdown.frontmatter.contact.send}
                   </button>
                 </div>
               </form>
@@ -113,3 +120,38 @@ export default class Index extends React.Component {
     )
   }
 }
+
+ContactIndexPage.propTypes = {
+  data: PropTypes.shape({
+    markdownRemark: PropTypes.shape({
+      frontmatter: PropTypes.shape({
+        languageKey: PropTypes.string,
+        title: PropTypes.string,
+      }),
+    }),
+  }),
+}
+
+export default ContactIndexPage
+
+export const pageQuery = graphql`
+  query ContactIndexPage($languageKey: String!) {
+    markdownRemark(frontmatter: { 
+          templateKey: { eq: "contact-index-page" }
+          languageKey: { eq: $languageKey }
+        }) {
+      id
+      html
+      frontmatter {
+        title
+        languageKey
+        contact {
+          name
+          email
+          message
+          send
+        }
+      }
+    }
+  }
+`
