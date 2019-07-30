@@ -5,7 +5,6 @@ Website for the XR Bacelona community
 Deployment status:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7a4772d5-779b-4eb5-a928-a2637d5fa329/deploy-status)](https://app.netlify.com/sites/youthful-stonebraker-c356f5/deploys)
 
-
 # Access Locally
 ```
 $ git clone https://github.com/xrbarcelona/xrbarcelona.git
@@ -19,7 +18,6 @@ To test the CMS locally, you'll need run a production build of the site:
 $ npm run build
 $ npm run serve
 ```
-
 
 # Based on Gatsby + Netlify CMS Starter
 
