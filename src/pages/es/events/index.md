@@ -3,7 +3,6 @@ templateKey: 'event-page'
 languageKey: es
 path: /es/events
 title: Eventos
-image: /img/banner-events.jpg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their

@@ -13,7 +13,7 @@ const BlogIndexPage = ({ data }) => {
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/img/blog-index.jpg')`,
+          backgroundImage: `url('/img/banner-blog.jpg')`,
         }}
       >
         <h1 className="home-title has-text-weight-bold is-size-1">

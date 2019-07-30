@@ -46,9 +46,7 @@ class ContactIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url(${
-              !!markdown.frontmatter.image.childImageSharp ? markdown.frontmatter.image.childImageSharp.fluid.src : markdown.frontmatter.image
-            })`,
+            backgroundImage: `url('/img/banner-contact.jpg')`,
           }}
         >
           <h1 className="home-title has-text-weight-bold is-size-1">
@@ -136,7 +134,6 @@ ContactIndexPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.shape({
-        image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
         languageKey: PropTypes.string,
         title: PropTypes.string,
       }),
@@ -157,13 +154,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         languageKey
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         contact {
           name
           email
