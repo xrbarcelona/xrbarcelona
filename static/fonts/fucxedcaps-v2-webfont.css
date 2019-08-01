@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'FUCXED CAPS';
+    src: url('fucxedcaps-v2-webfont.woff2') format('woff2'),
+         url('fucxedcaps-v2-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
