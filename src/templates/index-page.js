@@ -56,7 +56,7 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/events">
+                    <Link className="btn" to={`/${languageKey}/blog`}>
                       See all events
                     </Link>
                   </div>
@@ -67,7 +67,7 @@ export const IndexPageTemplate = ({
                   </h3>
                   { localizedBlogRoll(languageKey) }
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
+                    <Link className="btn" to={`/${languageKey}/blog`}>
                       Read more
                     </Link>
                   </div>
