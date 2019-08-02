@@ -8,7 +8,6 @@ heading: Rebel·lió o Extinció - Barcelona
 subheading: Moviment internacional de desobediència civil. En basem en l'acció directa no violenta.
 description: >-
   Aquí podeu posar la vostra pròpia descripció de la pàgina web.
-intro:
   blurbs:
     - image: /img/coffee.png
       text: >
