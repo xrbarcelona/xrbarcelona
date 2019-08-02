@@ -4,9 +4,10 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+import localizedBlogRoll from '../components/LocalizedBlogRoll'
 
 export const IndexPageTemplate = ({
+  languageKey,
   image,
   title,
   heading,
@@ -64,7 +65,7 @@ export const IndexPageTemplate = ({
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
                   </h3>
-                  <BlogRoll />
+                  { localizedBlogRoll(languageKey) }
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
                       Read more
@@ -81,6 +82,7 @@ export const IndexPageTemplate = ({
 )
 
 IndexPageTemplate.propTypes = {
+  languageKey: PropTypes.string,
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
@@ -97,6 +99,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout languageKey={frontmatter.languageKey}>
       <IndexPageTemplate
+        languageKey={frontmatter.languageKey}
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}

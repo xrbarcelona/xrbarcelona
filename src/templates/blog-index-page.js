@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import BlogRoll from '../components/BlogRoll'
+import localizedBlogRoll from '../components/LocalizedBlogRoll'
 
 const BlogIndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
@@ -23,7 +23,7 @@ const BlogIndexPage = ({ data }) => {
       <section className="section">
         <div className="container">
           <div className="content">
-            <BlogRoll />
+          { localizedBlogRoll(frontmatter.languageKey) }
           </div>
         </div>
       </section>
