@@ -24,7 +24,7 @@ If you want us to give a talk or offer a spot at a fair or festival:
 #### [xrxerrades@protonmail.com](xrxerrades@protonmail.com) 
 
 ### General inquires
-For any other reason:  
+Press and any other reason:  
 #### [xrbarcelona@riseup.net](xrbarcelona@riseup.net)  
 
 ### Other groups
