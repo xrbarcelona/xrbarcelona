@@ -2,9 +2,8 @@
 templateKey: 'october-page'
 languageKey: en
 path: /en/october-seventh
-title: October Rebellion
+title: International Rebellion of October, Madrid, 2019
 ---
-# International Rebellion of October, Madrid, 2019  
   
 In April we rose up. In October we will rise again.  
 This time, across cities, countries and continents.  

@@ -2,9 +2,8 @@
 templateKey: 'october-page'
 languageKey: en
 path: /en/october-seventh
-title: Rebelión de Octubre
+title: Rebelión Internacional de Octubre, Madrid, 2019
 ---
-# Rebelión Internacional de Octubre, Madrid, 2019  
   
 En abril nos alzamos, en octubre nos volveremos a alzar.  
 Esta vez, en más ciudades, países y continentes.   

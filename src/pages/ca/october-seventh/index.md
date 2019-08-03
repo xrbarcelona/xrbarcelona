@@ -2,9 +2,8 @@
 templateKey: 'october-page'
 languageKey: en
 path: /en/october-seventh
-title: REBEL·LIÓ DE L’OCTUBRE
+title:  Rebel·lió Internacional de l’Octubre, Madrid, 2019
 ---
-# REBEL·LIÓ INTERNACIONAL DE L’OCTUBRE, Madrid, 2019  
   
 A l'abril ens vam alçar, a l'octubre ho tornarem a fer.  
 Aquesta vegada, en més ciutats, països i continents.  
