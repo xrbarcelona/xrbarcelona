@@ -6,7 +6,7 @@ title: Rebelión de Octubre
 ---
 # Rebelión Internacional de Octubre, Madrid, 2019  
   
-En abril nos alzamos, en octubre nos volveremos a lazar.  
+En abril nos alzamos, en octubre nos volveremos a alzar.  
 Esta vez, en más ciudades, países y continentes.   
 La Rebelión Internacional continúa el 7 de octubre de 2019. 
 
