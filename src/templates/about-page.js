@@ -4,6 +4,8 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
+const baseColorClass = "bg-xr-warm-yellow"
+
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
@@ -14,7 +16,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
         style={{
           backgroundImage: `url('/img/banner-about.jpg')`,
         }} >
-        <h1 className="home-title has-text-weight-bold is-size-1">
+        <h1 className={`home-title ${baseColorClass} has-text-weight-bold is-size-1`}>
           {title}
         </h1>
       </div>
@@ -43,7 +45,7 @@ const AboutPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout languageKey={post.frontmatter.languageKey}>
+    <Layout languageKey={post.frontmatter.languageKey} baseColorClass={baseColorClass}>
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

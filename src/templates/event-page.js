@@ -6,6 +6,8 @@ import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
+const baseColorClass="bg-xr-light-blue"
+
 export const EventPageTemplate = ({
   title,
   heading,
@@ -22,7 +24,7 @@ export const EventPageTemplate = ({
         backgroundImage: `url('/img/banner-events.jpg')`,
       }}
     >
-      <h1 className="home-title has-text-weight-bold is-size-1">
+      <h1 className={`home-title ${baseColorClass} has-text-weight-bold is-size-1`}>
         {title}
       </h1>
     </div>
@@ -108,7 +110,7 @@ const EventPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <Layout languageKey={frontmatter.languageKey}>
+    <Layout languageKey={frontmatter.languageKey} baseColorClass={baseColorClass} >
       <EventPageTemplate
         title={frontmatter.title}
         heading={frontmatter.heading}

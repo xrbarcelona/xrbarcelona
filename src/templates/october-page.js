@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import flyerImage from '../img/october.jpg'
 
+const baseColorClass='bg-xr-light-blue'
 
 export const OctoberPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
@@ -13,7 +14,7 @@ export const OctoberPageTemplate = ({ title, content, contentComponent }) => {
     <section className="section section--gradient">
       <div className="container">
         <div className="container">
-          <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+          <h1 className={`title ${baseColorClass} is-size-2 has-text-weight-bold is-bold-light`}>
             {title}
           </h1>
           <div className="columns">
@@ -42,7 +43,7 @@ const OctoberPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout languageKey={post.frontmatter.languageKey}>
+    <Layout languageKey={post.frontmatter.languageKey} baseColorClass={baseColorClass} >
       <OctoberPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

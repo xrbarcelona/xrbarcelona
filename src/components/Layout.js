@@ -6,7 +6,7 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 
-const Layout = ({ languageKey, children }) => {
+const Layout = ({ languageKey, baseColorClass, children }) => {
   const { title, description } = useSiteMetadata()
 
   return (
@@ -31,9 +31,11 @@ const Layout = ({ languageKey, children }) => {
         
         <meta name="robots" content="noindex"/>
       </Helmet>
-      <Navbar languageKey={languageKey} />
-      <div>{children}</div>
-      <Footer languageKey={languageKey} />
+      <div className={baseColorClass}>
+        <Navbar languageKey={languageKey} />
+        <div>{children}</div>
+        <Footer languageKey={languageKey} />
+      </div>
     </div>
   )
 }
@@ -41,6 +43,7 @@ const Layout = ({ languageKey, children }) => {
 
 Layout.propTypes = {
   languageKey: PropTypes.string,
+  baseColorClass: PropTypes.string,
 }
 
 

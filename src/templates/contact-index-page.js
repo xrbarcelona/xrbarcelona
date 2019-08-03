@@ -5,6 +5,8 @@ import { navigate } from 'gatsby-link'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 
+const baseColorClass='bg-xr-pink'
+
 function encode(data) {
   return Object.keys(data)
     .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
@@ -43,14 +45,14 @@ class ContactIndexPage extends React.Component {
     const languageKey = markdown.frontmatter.languageKey
 
     return (
-      <Layout languageKey={languageKey}>
+      <Layout languageKey={languageKey} baseColorClass={baseColorClass}>
         <div
           className="full-width-image-container margin-top-0"
           style={{
             backgroundImage: `url('/img/banner-contact.jpg')`,
           }}
         >
-          <h1 className="home-title has-text-weight-bold is-size-1">
+          <h1 className={`home-title ${baseColorClass} has-text-weight-bold is-size-1`}>
             {markdown.frontmatter.title}
           </h1>
         </div>
