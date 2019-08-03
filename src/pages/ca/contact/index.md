@@ -29,9 +29,9 @@ Per qualsevol altre motiu:
 #### [xrbarcelona@riseup.net](xrbarcelona@riseup.net)  
 
 ### Altres nodes
-Si voleu contactar amb la xarxa d’Espanya veure:  
+Si voleu contactar la xarxa d’Espanya veure:  
 [https://www.extinctionrebellion.es/portal/contacto/](https://www.extinctionrebellion.es/portal/contacto/) 
 
-Si desea contactar con la red de Rebellion International veure:  
+Si desea contactar la red de Rebellion International veure:  
 [https://rebellion.earth/contact/](https://rebellion.earth/contact/)
 
