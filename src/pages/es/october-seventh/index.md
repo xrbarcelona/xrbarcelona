@@ -14,8 +14,7 @@ La Rebelión Internacional continúa el 7 de octubre de 2019.
 #### Más detalles próximamente - guarda la fecha!  
   
 ### DECLARAMOS:  
-LA REBELIÓN INTERNACIONAL NO VIOLENTA EN CONTRA DE LOS  
-GOBIERNOS POR INACCIÓN CRIMINAL SOBRE LA CRISIS CLIMÁTICA 
+LA REBELIÓN INTERNACIONAL NO VIOLENTA EN CONTRA DE LOS GOBIERNOS POR INACCIÓN CRIMINAL SOBRE LA CRISIS CLIMÁTICA 
   
 ### EXIGIMOS:
 1) QUE LOS GOBIERNOS DIGAN LA VERDAD SOBRE LA CRISIS ECOLÓGICA  
@@ -23,8 +22,8 @@ GOBIERNOS POR INACCIÓN CRIMINAL SOBRE LA CRISIS CLIMÁTICA
 3) DEMOCRACIA REAL  
 
   
-### Si quieres venir con nosotres a Madrid desde Barcelona, 
-### escríbenos a: [xrbarcelona@riseup.net](mailto:xrbarcelona@riseup.net)  
+### Si quieres venir con nosotres a Madrid desde Barcelona, escríbenos a:  
+### [xrbarcelona@riseup.net](mailto:xrbarcelona@riseup.net)  
   
 &nbsp;
   

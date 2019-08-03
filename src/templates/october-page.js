@@ -10,13 +10,20 @@ export const OctoberPageTemplate = ({ title, content, contentComponent }) => {
   return (
     <section className="section section--gradient">
       <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
-              </h2>
-              <PageContent className="content" content={content} align="center"/>
+        <div className="section">
+          <div className="columns">
+            <div className="column is-6">
+              <div className="section">
+                <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
+                  {title}
+                </h2>
+                <PageContent className="content" content={content} align="center"/>
+              </div>
+            </div>
+            <div className="column is-6">
+              <div className="section">
+                <img alt="Flyer" src="/img/october.png" />
+              </div>
             </div>
           </div>
         </div>
