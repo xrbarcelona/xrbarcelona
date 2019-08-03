@@ -8,20 +8,28 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-                {title}
-              </h1>
-              <PageContent className="content" content={content} />
+    <div>
+      <div
+        className="full-width-image-container margin-top-0"
+        style={{
+          backgroundImage: `url('/img/banner-about.jpg')`,
+        }} >
+        <h1 className="home-title has-text-weight-bold is-size-1">
+          {title}
+        </h1>
+      </div>
+      <section className="section section--gradient">
+        <div className="container">
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <div className="section">
+                <PageContent className="content" content={content} />
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </div>
   )
 }
 
