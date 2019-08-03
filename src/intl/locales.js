@@ -4,7 +4,7 @@ const intl = {
     defaultLocale: 'ca',
     languageNames: {
         ca: "Català",
-        es: "Español",
+        es: "Castellano",
         en: "English",
     },
 }
