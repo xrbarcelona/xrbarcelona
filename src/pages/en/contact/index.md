@@ -10,29 +10,28 @@ contact:
   send: Send
 ---
 
-XRBarcelona is a the Barcelona node of the Extintion Rebellion global campaign run by a global network of individuals. We try our best to reply to all the messages we receive, given our limited capacity and resources.
+XRBarcelona is the local group in Barcelona of the international movement Extinction Rebellion.
 
-You can reach out to us directly via e-mail throught the following channels.
+Contact us through these channels:
 
-### New rebels
-If you want to join and become a new rebel and active member  
+### Become a rebel
+If you want to join as new active member:  
 #### [xrbarcelona-benvinguda@riseup.net](xrbarcelona-benvinguda@riseup.net) 
 
 
-### Press, talk or training and infopoints
-For press contacts, or if you want to invite us to talk and present.  
-Additionally if you can offer a space in a fair or festival.  
+### Talks and information points
+If you want us to give a talk or offer a spot at a fair or festival:  
 #### [xrxerrades@protonmail.com](xrxerrades@protonmail.com) 
 
 ### General inquires
 For any other reason:  
 #### [xrbarcelona@riseup.net](xrbarcelona@riseup.net)  
 
-### Other nodes
-If you want to contact the Spain network see:  
+### Other groups
+If you want to contact the national group contact:  
 [https://www.extinctionrebellion.es/portal/contacto/](https://www.extinctionrebellion.es/portal/contacto/) 
 
-If you want to contact the Rebellion International network see:  
+If you want to contact the international group contact:  
 [https://rebellion.earth/contact/](https://rebellion.earth/contact/)
 
 

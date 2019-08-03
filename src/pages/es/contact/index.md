@@ -2,7 +2,7 @@
 templateKey: contact-index-page
 languageKey: es
 title: Contacto
-formTitle: Contact Form
+formTitle: Formulario de contacto
 contact:
   name: Nombre
   email: Correo electrónico
@@ -10,28 +10,27 @@ contact:
   send: Enviar
 ---
 
-XRBarcelona es el grupo local en Barcelona del movimiento internacional Extintion Rebellion. Hacemos todo lo posible para responder a todos los mensajes que recibimos, con nuestra capacidad y recursos limitados.
+XRBarcelona es el grupo local en Barcelona del movimiento internacional Extinction Rebellion.
 
-Puedes contactarnos a través de los siguientes canales:
+Contactanos a través de los siguientes canales:
 
 ### Hazte rebel
-Si quieres unirte como un nueva persona activa  
+Si quieres unirte como nueva persona activa:  
 #### [xrbarcelona-benvinguda@riseup.net](xrbarcelona-benvinguda@riseup.net) 
 
 
-### Prensa, charlas o formación y puntos de información
-Para contactos de prensa, o si desea invitarnos a hablar y presentar una charla.  
-Si puede ofrecer un espacio en una feria o festival.  
+### Charlas y puntos de información
+Si quieres invitarnos a dar una charla, o puedes ofrecernos  un espacio en una feria o festival:  
 #### [xrxerrades@protonmail.com](xrxerrades@protonmail.com) 
 
 ### Contacto general
-Para cualquier otro motivo:  
+Prensa y cualquier otro motivo:  
 #### [xrbarcelona@riseup.net](xrbarcelona@riseup.net)  
 
 ### Otros grupos
-Si quieres contactar con el grupo estatal consulta:  
+Si quieres contactar con e grupo estatal:  
 [https://www.extinctionrebellion.es/portal/contacto/](https://www.extinctionrebellion.es/portal/contacto/) 
 
-Si quieres contactar con la red de international consulta:  
+Si quieres contactar el grupo internacional contacta:  
 [https://rebellion.earth/contact/](https://rebellion.earth/contact/)
 
