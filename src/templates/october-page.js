@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import flyerImage from '../img/october.png'
+import flyerImage from '../img/october.jpg'
 
 
 export const OctoberPageTemplate = ({ title, content, contentComponent }) => {
