@@ -3,9 +3,9 @@ const intl = {
     locales: ['ca', 'es', 'en'],
     defaultLocale: 'ca',
     languageNames: {
-        ca: "Català",
-        es: "Castellano",
-        en: "English",
+        ca: "CA",
+        es: "ES",
+        en: "EN",
     },
 }
 
