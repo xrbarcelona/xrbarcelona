@@ -2,7 +2,7 @@
 templateKey: 'october-page'
 languageKey: en
 path: /en/october-seventh
-title: October Rebellion
+title: Rebelión de Octubre
 ---
 # Rebelión Internacional de Octubre, Madrid, 2019  
   
