@@ -3,6 +3,8 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import flyerImage from '../img/october.png'
+
 
 export const OctoberPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
@@ -10,23 +12,21 @@ export const OctoberPageTemplate = ({ title, content, contentComponent }) => {
   return (
     <section className="section section--gradient">
       <div className="container">
-        <div className="section">
+        <div className="container">
+          <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+            {title}
+          </h1>
           <div className="columns">
             <div className="column is-6">
-              <div className="section">
-                <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-                  {title}
-                </h1>
-                <PageContent className="content" content={content} align="center"/>
-              </div>
+              <PageContent className="content" content={content} align="center"/>
             </div>
             <div className="column is-6">
-              <div className="section">
-                <img alt="Flyer" src="/img/october.png" />
+              <div className="flyer">
+                <img alt="Flyer" src={flyerImage} />
               </div>
             </div>
           </div>
-        </div>
+        </div>        
       </div>
     </section>
   )
