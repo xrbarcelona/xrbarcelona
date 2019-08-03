@@ -2,19 +2,13 @@
 templateKey: 'about-page'
 languageKey: en
 path: /en/about
-title: About our values
+title: About us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Extinction Rebellion is an international movement that uses non-violent civil disobedience in an attempt to halt mass extinction and minimise the risk of social collapse.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+After the November blockades of the five main bridges in London, Extinction Rebellion became a bit more known here in Spain. A group of thirty people motivated to do something similar here, decided to gather at a café on the 28th of December of 2018. That day, after a long deliberation, Extinction Rebellion Barcelona was born. 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+We got to the conclusion that the Extinction Rebellion campaign was a big opportunity to unify forces all over the world, and fight against the de facto powers that are leading us to the destruction of the ecosystems, and human extinction. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Since then, we have been working in cooperation with other national groups and international groups, as well as with other local movements that align with our demands and principles. 

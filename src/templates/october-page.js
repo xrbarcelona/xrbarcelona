@@ -14,9 +14,9 @@ export const OctoberPageTemplate = ({ title, content, contentComponent }) => {
           <div className="columns">
             <div className="column is-6">
               <div className="section">
-                <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
+                <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
                   {title}
-                </h2>
+                </h1>
                 <PageContent className="content" content={content} align="center"/>
               </div>
             </div>
