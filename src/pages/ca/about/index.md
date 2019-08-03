@@ -4,17 +4,11 @@ languageKey: ca
 path: /ca/about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Extinction Rebellion és un moviment internacional que utilitza la desobediència civil no violenta per a frenar l'extinció massiva i minimitzar el risc de col·lapse social.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Després del bloqueig al novembre dels cinc ponts principals de Londres, Extinction Rebellion es va fer una mica més conegut internacionalment. Un grup de persones motivades per fer quelcom semblant aquí a Barcelona, va decidir reunir-se en una cafeteria el 28 de desembre de 2018. Aquest dia, després d’un llarg debat, va néixer _Rebel·lió o Extinció  Barcelona_.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Vam arribar a la conclusió que la campanya d’ Extinction Rebellion és una gran oportunitat per unir forces a tot el món i lluitar contra els poders fàctics que ens estan dirigint cap a la destrucció dels ecosistemes i l'extinció humana.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Des d’aleshores, hem estat treballant en cooperació amb altres grups nacionals i internacionals, així com amb altres moviments locals que s’alineen amb les nostres demandes i principis.
