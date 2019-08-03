@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import { navigate } from 'gatsby-link'
 import Layout from '../components/Layout'
+import { HTMLContent } from '../components/Content'
 
 function encode(data) {
   return Object.keys(data)
@@ -55,73 +56,77 @@ class ContactIndexPage extends React.Component {
         </div>
         <section className="section">
           <div className="container">
-            <div className="content">
-              <form
-                name="contact"
-                method="post"
-                action={`/${languageKey}/contact/thanks/`}
-                data-netlify="true"
-                data-netlify-honeypot="bot-field"
-                onSubmit={this.handleSubmit}
-              >
-                {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type="hidden" name="form-name" value="contact" />
-                <div hidden>
-                  <label>
-                    Don’t fill this out:{' '}
-                    <input name="bot-field" onChange={this.handleChange} />
-                  </label>
-                </div>
-                <div className="field">
-                  <label className="label" htmlFor={'name'}>
-                      {markdown.frontmatter.contact.name}
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'text'}
-                      name={'name'}
-                      onChange={this.handleChange}
-                      id={'name'}
-                      required={true}
-                    />
+            <div className="content columns">
+              <div className="column is-10 is-offset-1">
+                <HTMLContent content={markdown.html} />
+                <h3>{markdown.frontmatter.formTitle}</h3>
+                <form
+                  name="contact"
+                  method="post"
+                  action={`/${languageKey}/contact/thanks/`}
+                  data-netlify="true"
+                  data-netlify-honeypot="bot-field"
+                  onSubmit={this.handleSubmit}
+                >
+                  {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
+                  <input type="hidden" name="form-name" value="contact" />
+                  <div hidden>
+                    <label>
+                      Don’t fill this out:{' '}
+                      <input name="bot-field" onChange={this.handleChange} />
+                    </label>
                   </div>
-                </div>
-                <div className="field">
-                  <label className="label" htmlFor={'email'}>
-                    {markdown.frontmatter.contact.email}
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'email'}
-                      name={'email'}
-                      onChange={this.handleChange}
-                      id={'email'}
-                      required={true}
-                    />
+                  <div className="field">
+                    <label className="label" htmlFor={'name'}>
+                        {markdown.frontmatter.contact.name}
+                    </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'name'}
+                        onChange={this.handleChange}
+                        id={'name'}
+                        required={true}
+                      />
+                    </div>
                   </div>
-                </div>
-                <div className="field">
-                  <label className="label" htmlFor={'message'}>
-                    {markdown.frontmatter.contact.message}
-                  </label>
-                  <div className="control">
-                    <textarea
-                      className="textarea"
-                      name={'message'}
-                      onChange={this.handleChange}
-                      id={'message'}
-                      required={true}
-                    />
+                  <div className="field">
+                    <label className="label" htmlFor={'email'}>
+                      {markdown.frontmatter.contact.email}
+                    </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'email'}
+                        name={'email'}
+                        onChange={this.handleChange}
+                        id={'email'}
+                        required={true}
+                      />
+                    </div>
                   </div>
-                </div>
-                <div className="field">
-                  <button className="button is-link" type="submit">
-                    {markdown.frontmatter.contact.send}
-                  </button>
-                </div>
-              </form>
+                  <div className="field">
+                    <label className="label" htmlFor={'message'}>
+                      {markdown.frontmatter.contact.message}
+                    </label>
+                    <div className="control">
+                      <textarea
+                        className="textarea"
+                        name={'message'}
+                        onChange={this.handleChange}
+                        id={'message'}
+                        required={true}
+                      />
+                    </div>
+                  </div>
+                  <div className="field">
+                    <button className="button is-link" type="submit">
+                      {markdown.frontmatter.contact.send}
+                    </button>
+                  </div>
+                </form>
+              </div>
             </div>
           </div>
         </section>
@@ -133,9 +138,11 @@ class ContactIndexPage extends React.Component {
 ContactIndexPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
+      html: PropTypes.node.isRequired,
       frontmatter: PropTypes.shape({
         languageKey: PropTypes.string,
         title: PropTypes.string,
+        formTitle: PropTypes.string
       }),
     }),
   }),
@@ -154,6 +161,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         languageKey
+        formTitle
         contact {
           name
           email
