@@ -5,18 +5,20 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import localizedBlogRoll from '../components/LocalizedBlogRoll'
 
+const baseColorClass="bg-xr-green"
+
 const BlogIndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <Layout languageKey={frontmatter.languageKey}>
+    <Layout languageKey={frontmatter.languageKey} baseColorClass={baseColorClass}>
       <div
         className="full-width-image-container margin-top-0"
         style={{
           backgroundImage: `url('/img/banner-blog.jpg')`,
         }}
       >
-        <h1 className="home-title has-text-weight-bold is-size-1">
+        <h1 className={`home-title ${baseColorClass} has-text-weight-bold is-size-1`}>
           {frontmatter.title}
         </h1> 
       </div>

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
+import EventsGrid from '../components/EventsGrid'
 import localizedBlogRoll from '../components/LocalizedBlogRoll'
 
 export const IndexPageTemplate = ({
@@ -53,7 +53,7 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <Features gridItems={intro.blurbs} />
+                <EventsGrid gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to={`/${languageKey}/blog`}>
