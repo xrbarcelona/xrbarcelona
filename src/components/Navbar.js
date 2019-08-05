@@ -91,9 +91,9 @@ const Navbar = class extends React.Component {
                 <a title="instagram" href="https://www.instagram.com/xrbarcelona/">
                   <img src={instagram} alt="Instagram" />
                 </a>
-                {/* <a title="email" href="mailto:xrbarcelona@riseup.net">
+                <a title="email" href="mailto:xrbarcelona@riseup.net">
                   <img src={mail} alt="Email" />
-                </a> */}
+                </a>
               </div>
               <NavbarLanguages languageKey={languageKey} />
             </div>
