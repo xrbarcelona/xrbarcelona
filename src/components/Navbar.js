@@ -3,6 +3,10 @@ import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import logo from '../img/logo-xr-full.png'
 import NavbarLanguages from './NavbarLanguages';
+import facebook from "../img/social/facebook_navbar.svg";
+import twitter from "../img/social/twitter_navbar.svg";
+import instagram from "../img/social/instagram_navbar.svg";
+import mail from "../img/social/email_navbar.svg";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -58,10 +62,7 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
+          <div id="navMenu" className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item main-menu" to={`/${languageKey}/about`}>
                 About
@@ -78,6 +79,20 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item main-menu" to={`/${languageKey}/contact`}>
                 Contact
               </Link>
+            </div>
+            <div className="navbar-end is-paddingless" style={{paddingTop: '20px', marginLeft: '33%'}}>
+              <a title="facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
+                <img src={facebook} alt="Facebook" width="35px" height="35px" style={{paddingRight: '0.5em'}}/>
+              </a>
+              <a title="twitter" href="https://twitter.com/XRBarcelona">
+                <img className="fas fa-lg" src={twitter} alt="Twitter" width="35px" height="35px" style={{paddingRight: '0.5em'}}/>
+              </a>
+              <a title="instagram" href="https://www.instagram.com/xrbarcelona/">
+                <img src={instagram} alt="Instagram" width="35px" height="35px" style={{paddingRight: '0.5em'}}/>
+              </a>
+              <a title="email" href="mailto:xrbarcelona@riseup.net">
+                <img src={mail} alt="Email" width="35px" height="35px" style={{paddingRight: '0.5em'}}/>
+              </a>
             </div>
             <div className="navbar-end has-text-centered">
               <NavbarLanguages languageKey={languageKey} />
