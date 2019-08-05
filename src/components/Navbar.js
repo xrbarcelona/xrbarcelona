@@ -3,6 +3,10 @@ import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import logo from '../img/logo-xr-full.png'
 import NavbarLanguages from './NavbarLanguages';
+import facebook from "../img/social/facebook_black.svg";
+import twitter from "../img/social/twitter_black.svg";
+import instagram from "../img/social/instagram_black.svg";
+import mail from "../img/social/mail_black.svg";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -58,10 +62,7 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
+          <div id="navMenu" className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item main-menu" to={`/${languageKey}/about`}>
                 About
@@ -80,6 +81,20 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
+              <div className="navbar-item">
+                <a title="facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
+                  <img src={facebook} alt="Facebook" />
+                </a>
+                <a title="twitter" href="https://twitter.com/XRBarcelona">
+                  <img className="fas fa-lg" src={twitter} alt="Twitter" />
+                </a>
+                <a title="instagram" href="https://www.instagram.com/xrbarcelona/">
+                  <img src={instagram} alt="Instagram" />
+                </a>
+                {/* <a title="email" href="mailto:xrbarcelona@riseup.net">
+                  <img src={mail} alt="Email" />
+                </a> */}
+              </div>
               <NavbarLanguages languageKey={languageKey} />
             </div>
           </div>
