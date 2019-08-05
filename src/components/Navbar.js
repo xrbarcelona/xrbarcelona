@@ -3,10 +3,10 @@ import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import logo from '../img/logo-xr-full.png'
 import NavbarLanguages from './NavbarLanguages';
-import facebook from "../img/social/facebook_navbar.svg";
-import twitter from "../img/social/twitter_navbar.svg";
-import instagram from "../img/social/instagram_navbar.svg";
-import mail from "../img/social/email_navbar.svg";
+import facebook from "../img/social/facebook_black.svg";
+import twitter from "../img/social/twitter_black.svg";
+import instagram from "../img/social/instagram_black.svg";
+import mail from "../img/social/mail_black.svg";
 
 const Navbar = class extends React.Component {
   constructor(props) {

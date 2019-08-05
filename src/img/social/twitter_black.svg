@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
    viewBox="0 0 300 300"
    version="1.1"
-   id="svg6"
-   sodipodi:docname="mail.svg"
+   sodipodi:docname="twitter_black.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata12">
+     id="metadata17">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,7 +25,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs15" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -35,28 +35,31 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1687"
-     inkscape:window-height="1154"
-     id="namedview8"
+     inkscape:window-width="1752"
+     inkscape:window-height="1098"
+     id="namedview13"
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="0.78666667"
-     inkscape:cx="-229.44915"
+     inkscape:cx="150"
      inkscape:cy="150"
      inkscape:window-x="0"
      inkscape:window-y="55"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="Layer_1" />
+  <style
+     id="style2">
+    .st0{fill:#fff}
+  </style>
   <circle
-     cx="151.69"
-     cy="148.96"
-     r="135.04"
-     id="circle2"
-     style="fill:#ffffff" />
+     cx="150"
+     cy="150"
+     id="circle4"
+     style="stroke-width:0.99970388"
+     r="135" />
   <path
-     style="fill:#000000;stroke-width:7.4153409"
-     d="m 86.014972,95 c -2.287752,0 -4.498722,0.424134 -6.530501,1.22181 l 70.523729,70.71504 70.52379,-70.70164 c -2.0318,-0.797395 -4.24285,-1.221736 -6.5306,-1.221736 H 86.014972 Z M 70.04795,107.90249 c -0.01598,0.28184 -0.03197,0.57055 -0.03197,0.85927 v 82.48968 H 70 c 0,1.21673 0.202377,2.40995 0.562339,3.55793 l 46.385631,-39.87546 z m 159.90487,0 -46.90126,47.03142 46.4013,39.87546 c 0.35997,-1.14798 0.54715,-2.3412 0.54715,-3.55793 h -0.016 v -82.48968 c 0,-0.28872 -0.007,-0.57743 -0.032,-0.85927 z M 127.40123,165.40625 81.874856,204.5298 C 83.21071,204.83915 84.59912,205 86.014972,205 H 214.00139 c 1.41585,0 2.80434,-0.16085 4.1402,-0.4702 l -45.52635,-39.12355 -22.60704,22.66322 z"
-     id="path4"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccscccsccccccccccscccsscccc" />
+     style="fill:#ffffff"
+     d="m 242.59093,96.510023 a 70.794,70.794 0 0 1 -20.32,5.569997 c 7.3,-4.379997 12.92,-11.309997 15.56,-19.579997 -6.84,4.06 -14.41,7 -22.47,8.59 a 35.316,35.316 0 0 0 -25.83,-11.17 c -19.54,0 -35.39,15.84 -35.39,35.379997 0,2.77 0.31,5.47 0.92,8.06 -29.41,-1.48 -55.479996,-15.56 -72.929996,-36.969997 a 35.175,35.175 0 0 0 -4.79,17.789997 c 0,12.28 6.25,23.11 15.74,29.45 -5.8,-0.18 -11.26,-1.78 -16.03,-4.43 v 0.45 c 0,17.14 12.2,31.45 28.379996,34.7 -2.97,0.81 -6.099996,1.24 -9.319996,1.24 -2.28,0 -4.5,-0.22 -6.66,-0.63 4.5,14.06 17.569996,24.29 33.059996,24.57 -12.11,9.49 -27.369996,15.15 -43.949996,15.15 -2.86,0 -5.67,-0.17 -8.44,-0.5 15.66,10.04 34.259996,15.9 54.239996,15.9 65.09,0 100.68,-53.92 100.68,-100.68 0,-1.53 -0.03,-3.06 -0.1,-4.58 a 72.13,72.13 0 0 0 17.65,-18.309997 z"
+     id="path4" />
 </svg>

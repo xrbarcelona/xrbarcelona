@@ -14,8 +14,7 @@ export default class NavbarLanguages extends React.Component {
           to={`/${locale}/`}
           className={ currentLocale === locale ? 
             'navbar-item language-selected' :
-            'navbar-item ' }
-        >
+            'navbar-item ' } >
           {intl.languageNames[locale]}
         </Link>
       ))

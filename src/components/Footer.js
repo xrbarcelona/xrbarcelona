@@ -27,14 +27,19 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to={`/${languageKey}/about`}>
-                        About
+                      <Link className="navbar-item" to={`/${languageKey}/october-seventh`}>
+                        7Oct
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to={`/${languageKey}/events`}>
                         Events
                       </Link>
+                    </li>
+                    <li>
+                      <a className="navbar-item" href="/admin/" target="_blank" rel="noopener noreferrer">
+                        Admin
+                      </a>
                     </li>
                   </ul>
                 </section>
@@ -43,8 +48,8 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to={`/${languageKey}/blog`}>
-                        Blog
+                      <Link className="navbar-item" to={`/${languageKey}/about`}>
+                        About
                       </Link>
                     </li>
                     <li>
@@ -53,30 +58,14 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to={`/${languageKey}/october-seventh`}>
-                        7Oct
+                      <Link className="navbar-item" to={`/${languageKey}/blog`}>
+                        Blog
                       </Link>
                     </li>
                   </ul>
                 </section>
               </div>
-              <div className="column is-3">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <a
-                          className="navbar-item"
-                          href="/admin/"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-3 social">
+              <div className="column is-6 social">
                 <a title="facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
                   <img
                     src={facebook}
