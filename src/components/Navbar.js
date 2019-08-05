@@ -80,21 +80,21 @@ const Navbar = class extends React.Component {
                 Contact
               </Link>
             </div>
-            <div className="navbar-end is-paddingless" style={{paddingTop: '20px', marginLeft: '33%'}}>
-              <a title="facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
-                <img src={facebook} alt="Facebook" width="35px" height="35px" style={{paddingRight: '0.5em'}}/>
-              </a>
-              <a title="twitter" href="https://twitter.com/XRBarcelona">
-                <img className="fas fa-lg" src={twitter} alt="Twitter" width="35px" height="35px" style={{paddingRight: '0.5em'}}/>
-              </a>
-              <a title="instagram" href="https://www.instagram.com/xrbarcelona/">
-                <img src={instagram} alt="Instagram" width="35px" height="35px" style={{paddingRight: '0.5em'}}/>
-              </a>
-              <a title="email" href="mailto:xrbarcelona@riseup.net">
-                <img src={mail} alt="Email" width="35px" height="35px" style={{paddingRight: '0.5em'}}/>
-              </a>
-            </div>
             <div className="navbar-end has-text-centered">
+              <div className="navbar-item">
+                <a title="facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
+                  <img src={facebook} alt="Facebook" />
+                </a>
+                <a title="twitter" href="https://twitter.com/XRBarcelona">
+                  <img className="fas fa-lg" src={twitter} alt="Twitter" />
+                </a>
+                <a title="instagram" href="https://www.instagram.com/xrbarcelona/">
+                  <img src={instagram} alt="Instagram" />
+                </a>
+                {/* <a title="email" href="mailto:xrbarcelona@riseup.net">
+                  <img src={mail} alt="Email" />
+                </a> */}
+              </div>
               <NavbarLanguages languageKey={languageKey} />
             </div>
           </div>
