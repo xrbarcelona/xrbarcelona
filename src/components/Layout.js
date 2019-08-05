@@ -12,7 +12,7 @@ const Layout = ({ languageKey, baseColorClass, children }) => {
   return (
     <div>
       <Helmet>
-        <html lang="en" />
+        <html lang={languageKey} />
         <title>{title}</title>
         <meta name="description" content={description} />
 

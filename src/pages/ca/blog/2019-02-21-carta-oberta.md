@@ -11,12 +11,8 @@ tags:
   - mitjans de comunicació
 ---
 
-Carta oberta sobre el tractament informatiu de l'emergència climàtica
-=====================================================================
+Febrer 21, 2019
 
-[@XRBarcelona](https://telegra.ph/Declaraci%C3%B3-de-Rebelli%C3%B3-01-28)Febrer 21, 2019
-
-![](https://telegra.ph/file/f28d113df475849ddc8be.jpg)
 
 Davant la gravetat de la situació d'emergència climàtica i ecològica en la que ens trobem, fem una crida als mitjans de comunicació per complir amb la seva responsabilitat amb la societat, reconeixent explícitament aquesta situació d'emergència i tractant el tema amb la importància i la coherència que es mereix.
 
@@ -36,11 +32,11 @@ Ens adrecem inicialment als mitjans públics del nostre país, donat que són pr
 
 En els darrers anys els treballadors i treballadores de la **Corporació Catalana de Mitjans Audiovisuals** s'han adreçat a la ciutadania diverses vegades expressant la necessitat de defensar el paper fonamental d'aquests mitjans per la salut democràtica, social i cultural d'un país. Ho han fet en moments especialment crítics com han estat les retallades del 2011:
 
-> "Els mitjans de comunicació de la Generalitat tenen un paper clau per garantir una informació lliure i contrastada que permeti a la ciutadania fer-se una opinió clara de la situació social i nacional, i, per això mateix, no es pot permetre que es debilitin, cosa que afebliria la seva oferta pública, de proximitat i de servei a la societat catalana".
+> _"Els mitjans de comunicació de la Generalitat tenen un paper clau per garantir una informació lliure i contrastada que permeti a la ciutadania fer-se una opinió clara de la situació social i nacional, i, per això mateix, no es pot permetre que es debilitin, cosa que afebliria la seva oferta pública, de proximitat i de servei a la societat catalana"._
 
 O arrel de la intervenció de la Generalitat de Catalunya en aplicació de l'article 155:
 
-> "Es fa més necessària que mai l'existència d'un espai públic de comunicació que garanteixi una relació virtuosa entre els seus professionals i la societat i que compti amb el suport dels representants democràticament elegits"
+> _"Es fa més necessària que mai l'existència d'un espai públic de comunicació que garanteixi una relació virtuosa entre els seus professionals i la societat i que compti amb el suport dels representants democràticament elegits"_
 
 Justament per què coincidim plenament i fem nostres aquestes afirmacions, creiem fonamental alertar sobre **la responsabilitat dels mitjans de comunicació respecte a l'enorme repte que la nostra societat té plantejat front l'emergència climàtica.** Es tracta d'una realitat que ja tenim al damunt, amb conseqüències ambientals, energètiques, socials, polítiques, culturals, etc. sense precedents històrics. És el repte més greu que té i ha tingut mai la humanitat, i per tant, naturalment, també el nostre país.
 
@@ -303,25 +299,13 @@ Davant d'això és que diem que l'única sortida es una **rebel-lió per la vida
 
 ### XR Barcelona Declaració de Rebel-lió
 
-**La humanitat es troba davant d'un esdeveniment sense precedents en la seva història:** la pujada constant de la temperatura per causa de l'augment de la concentració a l'atmosfera de gasos d'efecte hivernacle, conseqüència d'un sistema econòmic capitalista (en les seves diverses formes) basat en el creixement econòmic il-limitat, la crema de combustibles fòssils i en la depredació d'uns béns naturals que són limitats, posant l'economia per sobre del planeta i de les persones, en definitiva, per sobre de la vida. [Llegir més](https://telegra.ph/Declaraci%C3%B3-de-Rebelli%C3%B3-01-28)
-
-### Uneix-te a la Rebel-lió!
-
--   Contacte: <xrbarcelona@riseup.net>
--   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)
--   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)
--   Facebook: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)
--   Instagram: [xrbarcelona](https://www.instagram.com/xrbarcelona/)
-
-![](https://telegra.ph/file/d2bcec5d41c3adebb4c3b.jpg)
+**La humanitat es troba davant d'un esdeveniment sense precedents en la seva història:** la pujada constant de la temperatura per causa de l'augment de la concentració a l'atmosfera de gasos d'efecte hivernacle, conseqüència d'un sistema econòmic capitalista (en les seves diverses formes) basat en el creixement econòmic il-limitat, la crema de combustibles fòssils i en la depredació d'uns béns naturals que són limitats, posant l'economia per sobre del planeta i de les persones, en definitiva, per sobre de la vida. [Llegir més](/ca/blog/2019-01-28-declaracio-de-rebellio/)
 
 ###
 
-![](https://telegra.ph/file/954736cc2724af69d72f8.jpg)
+![](https://telegra.ph/file/954736cc2724af69d72f8.jpg)  
+_Carta oberta sobre el tractament informatiu de l'emergència climàtica_
 
-Carta oberta sobre el tractament informatiu de l'emergència climàtica
-
-![](https://telegra.ph/file/813ed9eeb8d05aa57fbd4.jpg)
-
-Carta oberta sobre el tractament informatiu de l'emergència climàtica
+![](https://telegra.ph/file/813ed9eeb8d05aa57fbd4.jpg)  
+_Carta oberta sobre el tractament informatiu de l'emergència climàtica_
 

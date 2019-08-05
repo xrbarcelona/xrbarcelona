@@ -11,12 +11,7 @@ tags:
 
 ---
 
-XR Barcelona Declaració de Rebel-lió
-====================================
-
-[XrBarcelona](https://twitter.com/XRBarcelona?s=09) Gener 28, 2019
-
-![](https://telegra.ph/file/42fdf1ed735549dbb7e55.png)
+Gener 28, 2019
 
 **La humanitat es troba davant d'un esdeveniment sense precedents en la seva història:** la pujada constant de la temperatura per causa de l'augment de la concentració a l'atmosfera de gasos d'efecte hivernacle, conseqüència d'un sistema econòmic capitalista (en les seves diverses formes) basat en el creixement econòmic il-limitat, la crema de combustibles fòssils i en la depredació d'uns béns naturals que són limitats, posant l'economia per sobre del planeta i de les persones, en definitiva, per sobre de la vida.
 
