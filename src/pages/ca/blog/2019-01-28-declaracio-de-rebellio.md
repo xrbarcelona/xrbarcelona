@@ -1,17 +1,15 @@
 ---
 templateKey: 'blog-post'
 languageKey: ca
-title: 'XR Barcelona Declaració de Rebel-lió'
+title: 'Declaració de Rebel-lió'
 date: 2019-01-28T15:04:10.000Z
 featuredpost: true
-featuredimage: /img/blog/open-letter-2019-02-21/xr-mural-square_tn.jpg
+featuredimage: /img/blog/2019-01-28-declaracio-de-rebellio.jpg
 description: >-
 tags:
 - xrbarcelona
-
 ---
-
-Gener 28, 2019
+![XR Banner](/img/blog/2019-01-28-declaracio-de-rebellio.jpg)
 
 **La humanitat es troba davant d'un esdeveniment sense precedents en la seva història:** la pujada constant de la temperatura per causa de l'augment de la concentració a l'atmosfera de gasos d'efecte hivernacle, conseqüència d'un sistema econòmic capitalista (en les seves diverses formes) basat en el creixement econòmic il-limitat, la crema de combustibles fòssils i en la depredació d'uns béns naturals que són limitats, posant l'economia per sobre del planeta i de les persones, en definitiva, per sobre de la vida.
 
@@ -62,14 +60,5 @@ Des de fa uns mesos ha sorgit un moviment de desobediència civil anomenat Extin
 Aquesta rebel-lió necessita l'aportació de molta gent, de cadascú/na des de les seves possibilitats, capacitats i sensibilitats. T'uneixes?
 
 ***Rebel-lió o Extinció. XR Barcelona Gener 2019***
-
-### Uneix-te a la Rebel-lió!
-
--   Contacte: <xrbarcelona@riseup.net>
--   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)
--   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)
--   Facebook: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)
--   Instagram: [xrbarcelon](https://www.instagram.com/xrbarcelona/)a
--   [Cartelleria](https://telegra.ph/Cartelleria-03-06)
 
 ![](https://telegra.ph/file/b4524f5673be8abedfa15.jpg)

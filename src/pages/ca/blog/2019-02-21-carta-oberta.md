@@ -5,14 +5,12 @@ title: Carta oberta sobre el tractament informatiu de l’emergència climàtica
 date: 2019-02-21T16:31:09.940Z
 description: >-
 featuredpost: true
-featuredimage: /img/blog/open-letter-2019-02-21/xr-green-banner_tn.jpg
+featuredimage: /img/blog/2019-02-21-carta-oberta.png
 tags:
   - xrbarcelona
   - mitjans de comunicació
 ---
-
-Febrer 21, 2019
-
+![XR Mural Photo](/img/blog/2019-02-21-carta-oberta.png)
 
 Davant la gravetat de la situació d'emergència climàtica i ecològica en la que ens trobem, fem una crida als mitjans de comunicació per complir amb la seva responsabilitat amb la societat, reconeixent explícitament aquesta situació d'emergència i tractant el tema amb la importància i la coherència que es mereix.
 
