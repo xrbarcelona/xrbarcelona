@@ -4,7 +4,7 @@ languageKey: en
 title: Declaration of Rebellion
 date: 2019-01-28T15:04:10.000Z
 featuredpost: false
-featuredimage: '/static/img/blog/2019-01-28/call-for-rebels_tn.jpg'
+featuredimage: img/blog/2019-01-28/call-for-rebels_tn.jpg
 description: >-
 tags:
 - xrbarcelona

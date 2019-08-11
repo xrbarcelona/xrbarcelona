@@ -24,9 +24,8 @@ export default () => (
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { 
-            frontmatter: { 
-              templateKey: { eq: "blog-post" } 
-              languageKey: { eq: "es" } } }
+            frontmatter: { templateKey: { eq: "blog-post" } 
+            languageKey: { eq: "es" } } }
         ) {
           edges {
             node {
