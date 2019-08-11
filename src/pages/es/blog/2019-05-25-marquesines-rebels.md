@@ -26,10 +26,6 @@ No hay tiempo. Hay que actuar ya.
 
 ### Galería
 
-#MarquesinesRebels
-
-#MarquesinesRebels
-
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_2.jpg)
 _Marquesines Rebels Barcelona_
 
