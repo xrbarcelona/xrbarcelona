@@ -4,13 +4,13 @@ languageKey: ca
 title: 'Declaració de Rebel-lió'
 date: 2019-01-28T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/blog/2019-01-28/call-for-rebels_tn.jpg
+featuredimage: '/static/img/blog/2019-01-28/call-for-rebels_tn.jpg'
 description: >-
 tags:
 - xrbarcelona
 ---
 
-Gener 14 2019
+Gener 28 2019
 
 ![XR Call For Rebels](/img/blog/2019-01-28/call-for-rebels.png)
 

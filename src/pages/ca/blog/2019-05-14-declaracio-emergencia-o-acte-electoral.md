@@ -7,10 +7,8 @@ featuredpost: false
 featuredimage: /img/blog/common/og-image.jpg
 description: >-
 tags:
-  - carta oberta
-  - ada colau
+  - xrbarcelona
   - emergencia climatica
-  - barcelona
 ---
 Maig 15 2019
 
@@ -45,7 +43,7 @@ Donem la benvinguda a la declaració com el primer pas necessari, però estarem 
 -   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)
 -   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)
 -   FB: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)
--   Instagram: [xrbarcelon](https://www.instagram.com/xrbarcelona/)a
+-   Instagram: [xrbarcelona](https://www.instagram.com/xrbarcelona/)
 
 
 ### En Twitter

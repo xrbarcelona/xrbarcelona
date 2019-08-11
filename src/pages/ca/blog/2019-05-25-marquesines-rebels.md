@@ -57,8 +57,8 @@ _Marquesines Rebels Barcelona_
 
 ### Els anuncis rebels
 
-![Els anuncis rebels](https://youtu.be/-nw6yjLHW7E)
-![Els anuncis rebels](https://youtu.be/WrdjopNwRd0)
+<!-- ![Els anuncis rebels](https://youtu.be/-nw6yjLHW7E)
+![Els anuncis rebels](https://youtu.be/WrdjopNwRd0) -->
 ![Els anuncis rebels](/img/blog/anuncis_rebels_1.jpg)
 ![Els anuncis rebels](/img/blog/anuncis_rebels_2.jpg)
 ![Els anuncis rebels](/img/blog/anuncis_rebels_3.jpg)
@@ -83,4 +83,4 @@ _Marquesines Rebels Barcelona_
 -   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)
 -   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)
 -   Facebook: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)
--   Instagram: [xrbarcelon](https://www.instagram.com/xrbarcelona/)
+-   Instagram: [xrbarcelona](https://www.instagram.com/xrbarcelona/)
