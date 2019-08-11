@@ -4,7 +4,7 @@ languageKey: ca
 title: Carta a la Sra. Ada Colau, Alcaldessa de Barcelona
 date: 2019-07-10T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/blog/common/og-image.jpg
 description: >-
 tags:
   - carta oberta
@@ -12,16 +12,10 @@ tags:
   - emergencia climatica
   - barcelona
 ---
-
-
-
-Carta a la Sra. Ada Colau, Alcaldessa de Barcelona
-==================================================
+Juliol 10 2019
 
 Barcelona, 10 juliol de 2019
-
 EXCMA. SRA. ADA COLAU, ALCALDESSA DE BARCELONA
-
 Ajuntament de Barcelona. Plaça de Sant Jaume, 1, 08002 Barcelona
 
 Benvolguda alcaldessa,

@@ -4,23 +4,15 @@ languageKey: ca
 title: Marquesines Rebels
 date: 2019-05-25T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/blog/2019-05-25-marquesines-rebels.jpg
+featuredimage: /img/blog/2019-05-25-marquesines-rebels_tn.jpg
 description: >-
 tags:
   - marquesines rebels
   - barcelona
 ---
-
-
-Marquesines Rebels
-==================
-May 25, 2019
+Maig 25 2019
 
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels.jpg)
-
-Marquesines Rebels Barcelona
-
-
 
 ### Acció de contrapublicitat - Barcelona
 
@@ -34,19 +26,32 @@ No hi ha temps. Cal actuar ja.
 
 ### Galeria
 
-#MarquesinesRebels
-
-#MarquesinesRebels
-
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_2.jpg)
+_Marquesines Rebels Barcelona_
+
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_3.jpg)
+_Marquesines Rebels Barcelona_
+
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_4.jpg)
+_Marquesines Rebels Barcelona_
+
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_5.jpg)
+_Marquesines Rebels Barcelona_
+
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_6.jpg)
+_Marquesines Rebels Barcelona_
+
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_7.jpg)
+_Marquesines Rebels Barcelona_
+
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_8.jpg)
+_Marquesines Rebels Barcelona_
+
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_9.jpg)
+_Marquesines Rebels Barcelona_
+
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_10.jpg)
+_Marquesines Rebels Barcelona_
 
 
 
@@ -72,16 +77,10 @@ No hi ha temps. Cal actuar ja.
 
 ### Uneix-te a la Rebel-lió!
 
-[Declaració de Rebel-lió](https://telegra.ph/Declaraci%C3%B3-de-Rebelli%C3%B3-01-28) | [Carta a la CCMA](https://telegra.ph/Carta-oberta-sobre-el-tractament-informatiu-de-lemerg%C3%A8ncia-clim%C3%A0tica-02-21) | [Declaració d'Emergència o Acte electoral?](https://telegra.ph/Declaraci%C3%B3-dEmerg%C3%A8ncia-o-Acte-electoral-05-14)
+[Declaració de Rebel-lió](/ca/blog/2019-01-28-declaracio-de-rebellio) | [Carta a la CCMA](/ca/blog/2019-02-21-carta-oberta) | [Declaració d'Emergència o Acte electoral?](/ca/blog/2019-05-14-declaracio-emergencia-o-acte-electoral)
 
 -   Contacte: <xrbarcelona@riseup.net>
 -   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)
 -   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)
 -   Facebook: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)
--   Instagram: [xrbarcelon](https://www.instagram.com/xrbarcelona/)a
-
-![](https://telegra.ph/file/ba05b18ddd10703224559.png)
-
-![](https://telegra.ph/file/d6ce797535ce2d6c23160.jpg)
-
-[Català](https://telegra.ph/Marquesines-Rebels-05-25) | [Castellano](https://telegra.ph/Marquesinas-Rebeldes-05-26) | [English](https://telegra.ph/Rebel-Marquees-05-26)
+-   Instagram: [xrbarcelon](https://www.instagram.com/xrbarcelona/)

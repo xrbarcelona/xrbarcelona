@@ -1,16 +1,17 @@
 ---
 templateKey: blog-post
 languageKey: ca
-title: Carta oberta sobre el tractament informatiu de l’emergència climàtica
+title: 'Carta oberta a la CCMA'
 date: 2019-02-21T16:31:09.940Z
-description: >-
 featuredpost: false
-featuredimage: /img/blog/2019-02-21-carta-oberta.png
+featuredimage: /img/blog/common/xr-banner_tn.jpg
+description: >-
 tags:
   - xrbarcelona
   - mitjans de comunicació
 ---
-![XR Mural Photo](/img/blog/2019-02-21-carta-oberta.png)
+Febrer 21 2019
+![XR Mural Photo](/img/blog/common/xr-banner.jpg)
 
 Davant la gravetat de la situació d'emergència climàtica i ecològica en la que ens trobem, fem una crida als mitjans de comunicació per complir amb la seva responsabilitat amb la societat, reconeixent explícitament aquesta situació d'emergència i tractant el tema amb la importància i la coherència que es mereix.
 
@@ -301,9 +302,11 @@ Davant d'això és que diem que l'única sortida es una **rebel-lió per la vida
 
 ###
 
-![](https://telegra.ph/file/954736cc2724af69d72f8.jpg)  
-_Carta oberta sobre el tractament informatiu de l'emergència climàtica_
 
-![](https://telegra.ph/file/813ed9eeb8d05aa57fbd4.jpg)  
-_Carta oberta sobre el tractament informatiu de l'emergència climàtica_
+![](static/img/blog/2019-02-21/rebel.jpg)  
 
+![](static/img/blog/2019-02-21/carta-oberta-mitjans-comunicacio.jpg)  
+
+![](static/img/blog/2019-02-21/carta-oberta-demostracio.jpg)  
+
+<!-- https://www.youtube.com/embed/ugoP5nLxeQI -->
