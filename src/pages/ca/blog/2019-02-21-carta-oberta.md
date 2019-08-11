@@ -4,7 +4,7 @@ languageKey: ca
 title: Carta oberta sobre el tractament informatiu de l’emergència climàtica
 date: 2019-02-21T16:31:09.940Z
 description: >-
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog/2019-02-21-carta-oberta.png
 tags:
   - xrbarcelona

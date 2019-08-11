@@ -3,7 +3,7 @@ templateKey: 'blog-post'
 languageKey: ca
 title: 'Declaració de Rebel-lió'
 date: 2019-01-28T15:04:10.000Z
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog/2019-01-28-declaracio-de-rebellio.jpg
 description: >-
 tags:
