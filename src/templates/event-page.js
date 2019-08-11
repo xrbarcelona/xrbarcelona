@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import EventsGrid from '../components/EventsGrid'
 import Testimonials from '../components/Testimonials'
 
-const baseColorClass="bg-xr-light-blue"
+const baseColorClass="bg-xr-purple"
 
 export const EventPageTemplate = ({
   title,
