@@ -6,6 +6,8 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
+const baseColorClass="bg-xr-lemon"
+
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -58,7 +60,7 @@ const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout languageKey={post.frontmatter.languageKey}>
+    <Layout languageKey={post.frontmatter.languageKey} baseColorClass={baseColorClass}>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}

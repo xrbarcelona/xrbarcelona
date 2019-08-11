@@ -5,7 +5,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import localizedBlogRoll from '../components/LocalizedBlogRoll'
 
-const baseColorClass="bg-xr-green"
+const baseColorClass="bg-xr-lemon"
 
 const BlogIndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
