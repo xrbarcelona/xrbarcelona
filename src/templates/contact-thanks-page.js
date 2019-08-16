@@ -4,12 +4,13 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 
+const baseColorClass='bg-xr-pink'
 
 const ContactThanksPage = ({ data }) => {
   const markdown = data.markdownRemark
 
   return (
-    <Layout languageKey={markdown.frontmatter.languageKey}>
+    <Layout languageKey={markdown.frontmatter.languageKey} baseColorClass={baseColorClass}>
       <section className="section">
         <div className="container">
           <div className="content">

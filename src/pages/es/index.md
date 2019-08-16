@@ -7,6 +7,7 @@ image: /img/banner-home.jpg
 heading: Rebel·lió o Extinció Barcelona
 subheading: Rebel·lió o Extinció es un movimiento internacional que utiliza la desobediencia civil no-violenta en un intento por parar la extinción masiva y minimizar el riesgo de colapso social.
 intro:
+  blurbs:
     - image: /img/event-placeholder.png
       text: >
         Regular Welcome event for anyone who wants to join as new member. Become a rebel.

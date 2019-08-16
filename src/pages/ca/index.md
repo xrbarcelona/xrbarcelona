@@ -10,7 +10,7 @@ intro:
   blurbs:
     - image: /img/event-placeholder.png
       text: >
-        Regular Welcome event for anyone who wants to join as new member. Become a rebel.
+        Si vols unir-te com a nova persona activa. Fes-te rebel.
     - image: /img/event-placeholder.png
       text: >
         International Rebellion of October. We will rise again, across cities, countries and continents. Come with us to Madrid.

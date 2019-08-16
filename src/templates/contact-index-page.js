@@ -1,43 +1,15 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
-import { navigate } from 'gatsby-link'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 
 const baseColorClass='bg-xr-pink'
 
-function encode(data) {
-  return Object.keys(data)
-    .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
-    .join('&')
-}
-
 class ContactIndexPage extends React.Component {
-  // = ({ data }) => {
-  //const markdown = data.markdownRemark
   constructor(props) {
     super(props)
     this.state = { isValidated: false }
-  }
-
-  handleChange = e => {
-    this.setState({ [e.target.name]: e.target.value })
-  }
-
-  handleSubmit = e => {
-    e.preventDefault()
-    const form = e.target
-    fetch('/', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: encode({
-        'form-name': form.getAttribute('name'),
-        ...this.state,
-      }),
-    })
-      .then(() => navigate(form.getAttribute('action')))
-      .catch(error => alert(error))
   }
 
   render() {
@@ -63,21 +35,15 @@ class ContactIndexPage extends React.Component {
                 <HTMLContent content={markdown.html} />
                 <h3>{markdown.frontmatter.formTitle}</h3>
                 <form
-                  name="contact"
+                  action="https://api.staticforms.xyz/submit" 
                   method="post"
-                  action={`/${languageKey}/contact/thanks/`}
-                  data-netlify="true"
-                  data-netlify-honeypot="bot-field"
-                  onSubmit={this.handleSubmit}
                 >
-                  {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                  <input type="hidden" name="form-name" value="contact" />
-                  <div hidden>
-                    <label>
-                      Don’t fill this out:{' '}
-                      <input name="bot-field" onChange={this.handleChange} />
-                    </label>
-                  </div>
+                  <input type="text" name="honeypot" style={{display:`none`}} />
+                  <input type="hidden" name="accessKey" value="0433516e-0f70-49a1-a3ef-9c621a70b4b3" />
+                  <input type="hidden" name="subject" value="Contact us - xrbarcelona.org" />
+                  <input type="hidden" name="redirectTo" 
+                    value={`https://xrbarcelona.org/${languageKey}/contact/thanks/`} />
+                  
                   <div className="field">
                     <label className="label" htmlFor={'name'}>
                         {markdown.frontmatter.contact.name}
@@ -87,7 +53,6 @@ class ContactIndexPage extends React.Component {
                         className="input"
                         type={'text'}
                         name={'name'}
-                        onChange={this.handleChange}
                         id={'name'}
                         required={true}
                       />
@@ -102,7 +67,6 @@ class ContactIndexPage extends React.Component {
                         className="input"
                         type={'email'}
                         name={'email'}
-                        onChange={this.handleChange}
                         id={'email'}
                         required={true}
                       />
@@ -116,7 +80,6 @@ class ContactIndexPage extends React.Component {
                       <textarea
                         className="textarea"
                         name={'message'}
-                        onChange={this.handleChange}
                         id={'message'}
                         required={true}
                       />
