@@ -1,6 +1,6 @@
 ---
 templateKey: contact-thanks-page
 languageKey: ca
-title: Gràcies!
+title: Gràcies,
 ---
 Us contactarem aviat!

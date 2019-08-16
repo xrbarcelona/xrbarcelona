@@ -1,6 +1,6 @@
 ---
 templateKey: contact-thanks-page
 languageKey: es
-title: ¡Gracias!
+title: Gracias,
 ---
 ¡Nos pondremos en contacto con ti pronto!
