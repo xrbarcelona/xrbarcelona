@@ -2,33 +2,26 @@
 templateKey: index-page
 languageKey: en
 path: /en
-title: Rebel·lió o Extinció - Barcelona
+title: Extinction Rebellion - Barcelona
 image: /img/banner-home.jpg
-heading: Rebel·lió o Extinció - Barcelona
-subheading: Moviment internacional de desobediència civil. En basem en l'acció directa no violenta.
-description: >-
-  Homepage description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+heading: Rebel·lió o Extinció Barcelona
+subheading: Extinction Rebellion is an international movement that uses non-violent civil disobedience in an attempt to halt mass extinction and minimise the risk of social collapse.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/event-placeholder.png
       text: >
-        Call to action 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    - image: /img/coffee-gear.png
+        Regular Welcome event for anyone who wants to join as new member. Become a rebel.
+    - image: /img/event-placeholder.png
       text: >
-        Call to action 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    - image: /img/tutorials.png
+        International Rebellion of October. We will rise again, across cities, countries and continents. Come with us to Madrid.
+    - image: /img/event-placeholder.png
       text: >
-        Call to action 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        Email us or call us.
-    - image: /img/meeting-space.png
+        Join the weekly sessions with Art group to design and print your own signs, t-shirt and more.
+    - image: /img/event-placeholder.png
       text: >
-        Call to action 4. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        We will join together the World Climate Strike!
+  heading: none
+  description: none
 main:
   heading: Great coffee with no compromises
   description: >

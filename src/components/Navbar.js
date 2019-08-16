@@ -68,8 +68,8 @@ const Navbar = class extends React.Component {
                 About
               </Link>
               <Link className="navbar-item main-menu" to={`/${languageKey}/october-seventh`}>
-              7Oct
-            </Link>
+                7Oct
+              </Link>
               <Link className="navbar-item main-menu" to={`/${languageKey}/events`}>
                 Events
               </Link>
@@ -80,8 +80,8 @@ const Navbar = class extends React.Component {
                 Contact
               </Link>
               <Link className="navbar-item main-menu" to={`/${languageKey}/donation`}>
-              Donation
-            </Link>
+                Donate
+              </Link>
             </div>
             <div className="navbar-end has-text-centered">
               <div className="navbar-item">

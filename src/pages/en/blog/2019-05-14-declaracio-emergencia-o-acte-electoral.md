@@ -14,8 +14,8 @@ May 15th 2019
 
 ![67 Climbers](/img/blog/2019-05-14/declare-emergency-felton-davis.jpg)
  by 
- ![*Felton Davis*](https://www.flickr.com/people/106368363@N02) is licensed under 
- ![*CC BY*](http://creativecommons.org/licenses/by/2.0/)
+ [*Felton Davis*](https://www.flickr.com/people/106368363@N02) is licensed under 
+ [*CC BY*](https://creativecommons.org/licenses/by/2.0/)
 
 Today, the Government of Catalonia has officially declared a climate emergency, following the demands of Extinction Rebellion, Fridays for Future and other social movements and organizations that have been fighting for climate justice for many years. Apparently, this sounds like good news, right? Let's see.
 

@@ -14,8 +14,8 @@ Mayo 15 2019
 
 ![67 Climbers](/img/blog/2019-05-14/declare-emergency-felton-davis.jpg)
  by 
- ![*Felton Davis*](https://www.flickr.com/people/106368363@N02) is licensed under 
- ![*CC BY*](http://creativecommons.org/licenses/by/2.0/)
+ [*Felton Davis*](https://www.flickr.com/people/106368363@N02) is licensed under 
+ [*CC BY*](https://creativecommons.org/licenses/by/2.0/)
 
 Hoy el Gobierno de Cataluña ha hecho una declaración oficial de emergencia climática, siguiendo las demandas de nuevos movimientos como Extinction Rebellion o Fridays for Future y otros movimientos u organizaciones que llevan muchos años en esta lucha. Aparentemente es una buena noticia, ¿no? Veámoslo.
 
@@ -32,8 +32,6 @@ Según el Institut d'Estudis Catalans una emergencia es: un evento grave que en 
 Damos la bienvenida a la declaración como el primer paso necesario, pero estaremos expectantes, para exigir que se cumplan de forma real todas las demandas de nuestro movimiento: que se diga la verdad, que se actúe en consecuencia inmediatamente y que se haga con participación de todos los sectores sociales, especialmente los más vulnerables.
 
 *Barcelona, ​​14 de mayo de 2019*
-
-![](https://telegra.ph/file/54e5147bbc358df559317.png)
 
 ### ¡Únete a la Rebelión!
 

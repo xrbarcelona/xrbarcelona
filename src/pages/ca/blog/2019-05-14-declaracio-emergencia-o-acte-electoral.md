@@ -14,8 +14,8 @@ Maig 15 2019
 
 ![67 Climbers](/img/blog/2019-05-14/declare-emergency-felton-davis.jpg)
  by 
- ![*Felton Davis*](https://www.flickr.com/people/106368363@N02) is licensed under 
- ![*CC BY*](http://creativecommons.org/licenses/by/2.0/)
+ [*Felton Davis*](https://www.flickr.com/people/106368363@N02) is licensed under 
+ [*CC BY*](https://creativecommons.org/licenses/by/2.0/)
 
 Avui el Govern de Catalunya ha fet una declaració oficial d'emergència climàtica, seguint les demandes de nous moviments com Extinction Rebellion o Fridays for Future i d'altres moviments o organitzacions que porten molts anys en aquesta lluita. Aparentment és una bona notícia, no? Veiem-ho.
 

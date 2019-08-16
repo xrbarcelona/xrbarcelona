@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
-
+import Helmet from 'react-helmet'
 import Layout from '../components/Layout'
 import EventsGrid from '../components/EventsGrid'
 import localizedBlogRoll from '../components/LocalizedBlogRoll'
@@ -12,10 +12,12 @@ export const IndexPageTemplate = ({
   title,
   heading,
   subheading,
-  description,
   intro,
 }) => (
   <div>
+    <Helmet>
+      <title>{`${title}`}</title>
+    </Helmet>
     <div
       className="full-width-image margin-top-0"
       style={{
@@ -40,37 +42,34 @@ export const IndexPageTemplate = ({
     </div>
     <section className="section section--gradient">
       <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <h3>{subheading}</h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <EventsGrid gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to={`/${languageKey}/blog`}>
-                      See all events
-                    </Link>
-                  </div>
-                </div>
+        <div className="columns">
+          <div className="column is-10 is-offset-1">
+            <div className="content">
+              <div className="columns">
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    {heading}
                   </h3>
-                  { localizedBlogRoll(languageKey) }
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to={`/${languageKey}/blog`}>
-                      Read more
-                    </Link>
-                  </div>
+                  <p className="is-size-4">{subheading}</p>
+                </div>
+              </div>
+              <EventsGrid gridItems={intro.blurbs} />
+              <div className="columns">
+                <div className="column is-12 has-text-centered">
+                  <Link className="btn" to={`/${languageKey}/events`}>
+                    See all events
+                  </Link>
+                </div>
+              </div>
+              <div className="column is-12">
+                <h3 className="has-text-weight-semibold is-size-2">
+                  Latest stories
+                </h3>
+                { localizedBlogRoll(languageKey) }
+                <div className="column is-12 has-text-centered">
+                  <Link className="btn" to={`/${languageKey}/blog`}>
+                    Read more
+                  </Link>
                 </div>
               </div>
             </div>
@@ -87,7 +86,6 @@ IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
-  description: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -104,7 +102,6 @@ const IndexPage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        description={frontmatter.description}
         intro={frontmatter.intro}
       />
     </Layout>
@@ -139,7 +136,6 @@ export const pageQuery = graphql`
         }
         heading
         subheading
-        description
         intro {
           blurbs {
             image {
