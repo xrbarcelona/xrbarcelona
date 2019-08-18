@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import Layout from '../components/Layout'
 import EventsGrid from '../components/EventsGrid'
 import localizedBlogRoll from '../components/LocalizedBlogRoll'
+import intl from '../intl/locales'
 
 export const IndexPageTemplate = ({
   languageKey,
@@ -63,13 +64,11 @@ export const IndexPageTemplate = ({
               </div>
               <div className="column is-12">
                 <h3 className="has-text-weight-semibold is-size-2">
-                  Latest stories
+                  {intl[languageKey].latestStories}
                 </h3>
                 { localizedBlogRoll(languageKey) }
                 <div className="column is-12 has-text-centered">
-                  <Link className="btn" to={`/${languageKey}/blog`}>
-                    Read more
-                  </Link>
+                  <Link className="btn" to={`/${languageKey}/blog`}>{intl[languageKey].readMore}</Link>
                 </div>
               </div>
             </div>

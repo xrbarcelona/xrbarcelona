@@ -5,7 +5,7 @@ import BlogRoll from './BlogRoll'
 
 class BlogRollEs extends React.Component {
   render() {
-    return <BlogRoll data={this.props.data} count={this.props.count} />
+    return <BlogRoll data={this.props.data} count={this.props.count} languageKey="es" />
   }
 }
 
@@ -24,8 +24,9 @@ export default () => (
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { 
-            frontmatter: { templateKey: { eq: "blog-post" } 
-            languageKey: { eq: "es" } } }
+            frontmatter: { 
+              templateKey: { eq: "blog-post" } 
+              languageKey: { eq: "es" } } }
         ) {
           edges {
             node {
@@ -37,7 +38,8 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                date(formatString: "MMMM DD, YYYY")
+                languageKey
+                date(formatString: "MMMM DD, YYYY", locale: "es")
                 featuredpost
                 featuredimage {
                   childImageSharp {
@@ -52,6 +54,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
+    render={(data, count) => <BlogRoll data={data} count={count} languageKey="es" />}
   />
 )

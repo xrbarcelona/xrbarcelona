@@ -5,7 +5,7 @@ import BlogRoll from './BlogRoll'
 
 class BlogRollEn extends React.Component {
   render() {
-    return <BlogRoll data={this.props.data} count={this.props.count} />
+    return <BlogRoll data={this.props.data} count={this.props.count} languageKey="en" />
   }
 }
 
@@ -38,7 +38,8 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                date(formatString: "MMMM DD, YYYY")
+                languageKey
+                date(formatString: "MMMM DD, YYYY", locale: "en")
                 featuredpost
                 featuredimage {
                   childImageSharp {
@@ -53,6 +54,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
+    render={(data, count) => <BlogRoll data={data} count={count} languageKey="en" />}
   />
 )

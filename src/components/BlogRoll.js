@@ -1,11 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
+import intl from '../intl/locales'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class BlogRoll extends React.Component {
   render() {
-    const { data } = this.props
+    const { data, languageKey } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
     return (
@@ -49,7 +50,7 @@ class BlogRoll extends React.Component {
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
+                    {intl[languageKey].keepReading} →
                   </Link>
                 </p>
               </article>
