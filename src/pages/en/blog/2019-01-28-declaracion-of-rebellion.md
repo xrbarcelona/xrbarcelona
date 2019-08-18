@@ -4,13 +4,11 @@ languageKey: en
 title: Declaration of Rebellion
 date: 2019-01-28T15:04:10.000Z
 featuredpost: false
-featuredimage: img/blog/2019-01-28/call-for-rebels_tn.jpg
+featuredimage: /img/blog/2019-01-28/call-for-rebels_tn.jpg
 description: >-
 tags:
 - xrbarcelona
 ---
-
-January 28th 2019
 
 ![XR Call For Rebels](/img/blog/2019-01-28/call-for-rebels.png)
 
@@ -60,16 +58,8 @@ A few months ago, a civil disobedience movement called Extinction Rebellion (XR)
 
 This rebellion needs the contribution of many people, and each of their possibilities, abilities and sensibilities. Will you be part of it?
 
+***Rebel-lió o Extinció. XR Barcelona January 2019***
+
 ### Join the Rebellion!
-
-Rebel-lió o Extinció. XR Barcelona January 2019
-
--   Contact: <xrbarcelona@riseup.net>
--   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)
--   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)
--   Facebook: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)
--   Instagram: [xrbarcelona](https://www.instagram.com/xrbarcelona/)
--   [Cartelleria](https://telegra.ph/Cartelleria-03-06)
-
 
 ![XR Banner](/img/blog/common/xr-banner.jpg)

@@ -10,7 +10,6 @@ tags:
   - marquesines rebels
   - barcelona
 ---
-Maig 25 2019
 
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels.jpg)
 
@@ -76,11 +75,3 @@ _Marquesines Rebels Barcelona_
 ![Els anuncis rebels](/img/blog/anuncis_rebels_6.jpg)
 
 ### Uneix-te a la Rebel-lió!
-
-[Declaració de Rebel-lió](/ca/blog/2019-01-28-declaracio-de-rebellio) | [Carta a la CCMA](/ca/blog/2019-02-21-carta-oberta) | [Declaració d'Emergència o Acte electoral?](/ca/blog/2019-05-14-declaracio-emergencia-o-acte-electoral)
-
--   Contacte: <xrbarcelona@riseup.net>
--   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)
--   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)
--   Facebook: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)
--   Instagram: [xrbarcelona](https://www.instagram.com/xrbarcelona/)

@@ -12,29 +12,31 @@ tags:
   - emergencia climatica
   - barcelona
 ---
-Juliol 10 2019
 
-Barcelona, 10 juliol de 2019
-EXCMA. SRA. ADA COLAU, ALCALDESSA DE BARCELONA
-Ajuntament de Barcelona. Plaça de Sant Jaume, 1, 08002 Barcelona
+Barcelona, 10 juliol de 2019  
+EXCMA. SRA. ADA COLAU, ALCALDESSA DE BARCELONA  
+Ajuntament de Barcelona. Plaça de Sant Jaume, 1, 08002 Barcelona  
 
 Benvolguda alcaldessa,
 
 En nom de Climacció, Families For Future Barcelona, Fridays For Future Barcelona, Moviment per la Justícia Climàtica i Rebel-lió o Extinció Barcelona, ens adrecem a vostè per tal d'exposar-li el següent:
 
--   **Les grans ciutats com Barcelona són responsables de més del 70% de les emissions de GEH**. L'últim informe de l'ONU és demolidor: els efectes són ja devastadors i adverteix als Governs que es necessiten canvis ràpids i sense precedents per a reduir el 45% de les emissions de CO₂  en 2030  per frenar l'escalfament global a 1,5 °C i evitar efectes devastadors i irreversibles.
--   **S'obre un nou cicle polític a Barcelona que serà crític per afrontar l'emergència climàtica i ambiental, en coherència amb el que manifesta la declaració institucional que acaba de  fer el seu Consistori**.  La seva candidatura i la majoria de programes electorals dels grups polítics avui representats al consistori van prioritzar la lluita contra el canvi climàtic i contra la contaminació en els seus programes electorals.  
--   **Considerem que el Pla Clima de Barcelona 2018-2030 estableix un objectiu clarament insuficient per la contribució que ha de fer la ciutat** en el marc d'actuació de la Unió Europea en matèria de clima i energia fins al 2030 i contempla actuacions que s'han demostrat ineficaces en l'àmbit de la mobilitat i de l'energia.  D'altra banda, tot i que el Port de Barcelona i l'Aeroport de Barcelona - el Prat han participat en la seva elaboració, no inclou mesures de reducció d'emissions d'aquests sectors ni fa menció a les emissions que s'incrementaran pels projectes previstos d'ampliacions viàries, portuàries i de l'aeroport. Amb les polítiques actuals,  Barcelona no estarà en condicions d'afrontar aquest repte i fins i tot podria acabar incrementant les seves emissions de GEH al final d'aquest període.
+- **Les grans ciutats com Barcelona són responsables de més del 70% de les emissions de GEH**.  
+  L'últim informe de l'ONU és demolidor: els efectes són ja devastadors i adverteix als Governs que es necessiten canvis ràpids i sense precedents per a reduir el 45% de les emissions de CO₂  en 2030  per frenar l'escalfament global a 1,5 °C i evitar efectes devastadors i irreversibles.
+- **S'obre un nou cicle polític a Barcelona que serà crític per afrontar l'emergència climàtica i ambiental, en coherència amb el que manifesta la declaració institucional que acaba de  fer el seu Consistori**.  
+  La seva candidatura i la majoria de programes electorals dels grups polítics avui representats al consistori van prioritzar la lluita contra el canvi climàtic i contra la contaminació en els seus programes electorals.  
+- **Considerem que el Pla Clima de Barcelona 2018-2030 estableix un objectiu clarament insuficient per la contribució que ha de fer la ciutat**  
+  en el marc d'actuació de la Unió Europea en matèria de clima i energia fins al 2030 i contempla actuacions que s'han demostrat ineficaces en l'àmbit de la mobilitat i de l'energia.  D'altra banda, tot i que el Port de Barcelona i l'Aeroport de Barcelona - el Prat han participat en la seva elaboració, no inclou mesures de reducció d'emissions d'aquests sectors ni fa menció a les emissions que s'incrementaran pels projectes previstos d'ampliacions viàries, portuàries i de l'aeroport. Amb les polítiques actuals,  Barcelona no estarà en condicions d'afrontar aquest repte i fins i tot podria acabar incrementant les seves emissions de GEH al final d'aquest període.
 
 Les primeres mesures que presenti el govern municipal marcaran de forma decisiva els assoliments que es podran esperar del mandat 2019-2023 i per això apel-lem a què com alcaldessa lideri directament la lluita per fer front a l'emergència climàtica i ambiental, amb justícia social.
 
 #### Per aquests motius, li volem demanar:  
 
-**A). Que  faci seves i lideri la implementació de les 7 polítiques urgents que reclamem per fer front a l'emergència climàtica a la ciutat.  **
+**A) Que  faci seves i lideri la implementació de les 7 polítiques urgents que reclamem per fer front a l'emergència climàtica a la ciutat.**
 
 Es tracta de mesures concretes que els Moviments hem prioritzat en funció del seu impacte important i immediat en la reducció d'emissions i que no necessiten grans inversions per ser executades. Mesures que tindran també un impacte en la millora de la salut pública i les condicions de vida de la població i significaran un estalvi econòmic pels pressupostos públics i de les ciutadanes.
 
-**B). polítiques factibles en 4 anys de mandat per aconseguir un canvi de rumb en els creixents nivells d'emissions de GEH de la ciutat** que ens permeti avançar per assolir l'objectiu mínim del 40% de reducció d'emissions de GEH l'any 2030 en relació l'any base (1990), conforme el marc d'actuació de la UE. Un objectiu que per la major contribució d'emissions de GEH de Barcelona hauria d'assolir el 55% de reducció:
+**B) polítiques factibles en 4 anys de mandat per aconseguir un canvi de rumb en els creixents nivells d'emissions de GEH de la ciutat** que ens permeti avançar per assolir l'objectiu mínim del 40% de reducció d'emissions de GEH l'any 2030 en relació l'any base (1990), conforme el marc d'actuació de la UE. Un objectiu que per la major contribució d'emissions de GEH de Barcelona hauria d'assolir el 55% de reducció:
 
 #### 1\. Aturada expansió infraestructures fòssils.
 
@@ -81,16 +83,12 @@ Implementar una política de comunicació i sensibilització per donar a l'emerg
 -   La informació diària en els mitjans de comunicació.
 -   En la formació/sensibilització que es realitza a través dels centres educatius, centres cívics, institucions públiques, etc.
 
-**C).  Reunir-nos amb vostè el pròxim dia 27 de setembre** en el marc de la mobilització prevista a Barcelona per la Vaga mundial pel Clima i que està convocada per Fridays For Future la setmana de la Cimera sobre l'Acció Climàtica que tindrà lloc en la seu de Nacions Unides a Nova York. L'objectiu de la reunió seria conèixer la seva posició sobre les nostres 7 demandes.
+**C)  Reunir-nos amb vostè el pròxim dia 27 de setembre** en el marc de la mobilització prevista a Barcelona per la Vaga mundial pel Clima i que està convocada per Fridays For Future la setmana de la Cimera sobre l'Acció Climàtica que tindrà lloc en la seu de Nacions Unides a Nova York. L'objectiu de la reunió seria conèixer la seva posició sobre les nostres 7 demandes.
 
 Tot esperant rebre la seva resposta oficial i agraint la seva atenció, rebi una cordial salutació.
 
-Climacció
-
-Families For Future Barcelona
-
-Fridays For Future Barcelona
-
-Moviment per la Justícia Climàtica
-
+Climacció  
+Families For Future Barcelona  
+Fridays For Future Barcelona  
+Moviment per la Justícia Climàtica  
 Rebel-lió o Extinció Barcelona

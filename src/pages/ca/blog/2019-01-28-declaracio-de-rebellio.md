@@ -10,8 +10,6 @@ tags:
 - xrbarcelona
 ---
 
-Gener 28 2019
-
 ![XR Call For Rebels](/img/blog/2019-01-28/call-for-rebels.png)
 
 **La humanitat es troba davant d'un esdeveniment sense precedents en la seva història:** la pujada constant de la temperatura per causa de l'augment de la concentració a l'atmosfera de gasos d'efecte hivernacle, conseqüència d'un sistema econòmic capitalista (en les seves diverses formes) basat en el creixement econòmic il-limitat, la crema de combustibles fòssils i en la depredació d'uns béns naturals que són limitats, posant l'economia per sobre del planeta i de les persones, en definitiva, per sobre de la vida.
@@ -65,11 +63,5 @@ Aquesta rebel-lió necessita l'aportació de molta gent, de cadascú/na des de l
 ***Rebel-lió o Extinció. XR Barcelona Gener 2019***
 
 ### Uneix-te a la Rebel-lió!
-
--   Contacte: <xrbarcelona@riseup.net>
--   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)
--   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)
--   Facebook: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)
--   Instagram: [xrbarcelon](https://www.instagram.com/xrbarcelona/)
 
 ![XR Banner](/img/blog/common/xr-banner.jpg)

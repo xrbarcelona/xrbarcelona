@@ -10,7 +10,6 @@ tags:
   - xrbarcelona
   - emergencia climatica
 ---
-Mayo 15 2019
 
 ![67 Climbers](/img/blog/2019-05-14/declare-emergency-felton-davis.jpg)
  by 
@@ -34,14 +33,6 @@ Damos la bienvenida a la declaración como el primer paso necesario, pero estare
 *Barcelona, ​​14 de mayo de 2019*
 
 ### ¡Únete a la Rebelión!
-
-[Declaración de Rebelión](/es/blog/2019-01-28-declaracio-de-rebellio) |[¿Declaración de Emergencia o Acto electoral?](/es/blog/2019-05-14-declaracio-emergencia-o-acte-electoral)
-
--   <xrbarcelona@riseup.net>
--   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)
--   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)
--   FB: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)
--   Instagram: [xrbarcelona](https://www.instagram.com/xrbarcelona/)
 
 
 ### En Twitter

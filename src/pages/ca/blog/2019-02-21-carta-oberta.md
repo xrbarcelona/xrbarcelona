@@ -10,7 +10,7 @@ tags:
   - xrbarcelona
   - mitjans de comunicació
 ---
-Febrer 21 2019
+
 ![XR Mural Photo](/img/blog/common/xr-banner.jpg)
 
 Davant la gravetat de la situació d'emergència climàtica i ecològica en la que ens trobem, fem una crida als mitjans de comunicació per complir amb la seva responsabilitat amb la societat, reconeixent explícitament aquesta situació d'emergència i tractant el tema amb la importància i la coherència que es mereix.

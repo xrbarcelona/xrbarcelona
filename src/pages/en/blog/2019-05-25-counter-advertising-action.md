@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: en
-title: Anti-advertising Action
+title: Counter Advertising Action
 date: 2019-05-25T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-05-25-marquesines-rebels_tn.jpg
@@ -10,7 +10,6 @@ tags:
   - anti-advertising action
   - barcelona
 ---
-May 25th 2019
 
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels.jpg)
 
@@ -55,7 +54,6 @@ _Marquesines Rebels Barcelona_
 ![Marquesines Rebels Barcelona](/img/blog/2019-05-25-marquesines-rebels_10.jpg)
 _Marquesines Rebels Barcelona_
 
-
 ### Rebel advertisements
 
 <!-- ![Els anuncis rebels](https://youtu.be/-nw6yjLHW7E)
@@ -66,16 +64,4 @@ _Marquesines Rebels Barcelona_
 ![Els anuncis rebels](/img/blog/anuncis_rebels_4.jpg)
 ![Els anuncis rebels](/img/blog/anuncis_rebels_5.jpg)
 
-
-
 ### Join the Rebellion!
-
-[Declaració de Rebel-lió](/ca/blog/2019-01-28-declaracio-de-rebellio) | [Declaració d'Emergència o Acte electoral?](/ca/blog/2019-05-14-declaracio-emergencia-o-acte-electoral)
-
-![Els anuncis rebels](/img/blog/anuncis_rebels_6.jpg)
-
--   Contact: <xrbarcelona@riseup.net>\
--   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)\
--   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)\
--   Facebook: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)\
--   Instagram: [xrbarcelona](https://www.instagram.com/xrbarcelona/)

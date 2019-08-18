@@ -66,11 +66,3 @@ _Marquesines Rebels Barcelona_
 
 
 ### Únete a la Rebelión!
-
-[Declaración de Rebelión](/es/blog/2019-01-28-declaracio-de-rebellio) | [¿Declaración de emergencia o acto electoral?](/es/blog/2019-05-14-declaracio-emergencia-o-acte-electoral)
-
--   Contacto: <xrbarcelona@riseup.net>
--   Twitter: [@XrBarcelona](https://twitter.com/XrBarcelona)
--   Telegram: [@XrBarcelona](https://t.me/XRBarcelona)
--   Facebook: [Rebel-lió o Extinció - XR Barcelona](https://m.facebook.com/Rebelli%C3%B3-o-Extinci%C3%B3-XR-Barcelona-294755854501544/)
--   Instagram: [xrbarcelona](https://www.instagram.com/xrbarcelona/)
