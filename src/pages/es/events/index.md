@@ -4,7 +4,7 @@ languageKey: es
 path: /es/events
 title: Eventos
 description: >-
-  Únete a la Rebelión. Si eres nuevo en Extinction Rebellion, asiste a uno de nuestros eventos de bienvenida.
+  Si eres nuevo en Rebel·lió o Extinció Barcelona asiste a uno de nuestros eventos de bienvenida.
 intro:
   blurbs:
     - image: /img/event-placeholder.png

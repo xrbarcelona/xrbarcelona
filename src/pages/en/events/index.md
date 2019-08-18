@@ -4,7 +4,7 @@ languageKey: en
 path: /en/events
 title: Events
 description: >-
-  Join us. If you're new to Extintion Rebellion attend one of our Welcome events. 
+  If you're new to Extintion Rebellion Barcelona attend one of our Welcome events. 
 intro:
   blurbs:
     - image: /img/event-placeholder.png

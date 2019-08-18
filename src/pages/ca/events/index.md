@@ -4,7 +4,7 @@ languageKey: ca
 path: /ca/events
 title: Esdeveniments
 description: >-
-  Uneix-te a la Rebel-lió. Si sou nous a Extinction Rebellion, assistiu a un dels esdeveniments de benvinguda.
+  Si sou nous a Rebel·lió o Extinció Barcelona assistiu a un dels esdeveniments de benvinguda.
 intro:
   blurbs:
     - image: /img/event-placeholder.png
@@ -20,11 +20,6 @@ intro:
       text: >
         We will join together the World Climate Strike!
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
 testimonials:
   - author: Cesar Chavez
     quote: >-
