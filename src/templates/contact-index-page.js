@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
+import intl from '../intl/locales'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 
@@ -46,7 +47,7 @@ class ContactIndexPage extends React.Component {
                   
                   <div className="field">
                     <label className="label" htmlFor={'name'}>
-                        {markdown.frontmatter.contact.name}
+                        {intl[languageKey].contactForm.name}
                     </label>
                     <div className="control">
                       <input
@@ -60,7 +61,7 @@ class ContactIndexPage extends React.Component {
                   </div>
                   <div className="field">
                     <label className="label" htmlFor={'email'}>
-                      {markdown.frontmatter.contact.email}
+                      {intl[languageKey].contactForm.email}
                     </label>
                     <div className="control">
                       <input
@@ -74,7 +75,7 @@ class ContactIndexPage extends React.Component {
                   </div>
                   <div className="field">
                     <label className="label" htmlFor={'message'}>
-                      {markdown.frontmatter.contact.message}
+                      {intl[languageKey].contactForm.message}
                     </label>
                     <div className="control">
                       <textarea
@@ -87,7 +88,7 @@ class ContactIndexPage extends React.Component {
                   </div>
                   <div className="field">
                     <button className="button is-link" type="submit">
-                      {markdown.frontmatter.contact.send}
+                      {intl[languageKey].contactForm.send}
                     </button>
                   </div>
                 </form>

@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/Layout'
 import EventsGrid from '../components/EventsGrid'
+import JoinUsForm from '../components/JoinUsForm'
 import localizedBlogRoll from '../components/LocalizedBlogRoll'
 import intl from '../intl/locales'
 
@@ -70,6 +71,12 @@ export const IndexPageTemplate = ({
                 <div className="column is-12 has-text-centered">
                   <Link className="btn" to={`/${languageKey}/blog`}>{intl[languageKey].readMore}</Link>
                 </div>
+              </div>
+              <div className="column is-12 join-us">
+                <h3>
+                  {intl[languageKey].joinTheRebellion}
+                </h3>
+                <JoinUsForm languageKey={languageKey} />
               </div>
             </div>
           </div>
