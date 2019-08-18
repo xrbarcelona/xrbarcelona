@@ -3,12 +3,8 @@ templateKey: 'event-page'
 languageKey: en
 path: /en/events
 title: Events
-heading: Great coffee with a conscience
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Join us. If you're new to Extintion Rebellion attend one of our Welcome events. 
 intro:
   blurbs:
     - image: /img/event-placeholder.png
@@ -30,13 +26,8 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Cesar Chavez
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/events-full-width.jpg
+      Una vez que comienza el cambio social, no se puede revertir. No puedes quitar la educación a la persona que ha aprendido a leer. No puedes humillar a la persona que siente orgullo. No puedes oprimir a la gente que ya no tiene miedo. Hemos visto el futuro, y el futuro es nuestro.
+      Once social change begins, it cannot be reversed. You cannot un-educate the person who has learned to read. You cannot humiliate the person who feels pride. You cannot oppress the people who are not afraid anymore. We have seen the future and the future is ours.s
 ---

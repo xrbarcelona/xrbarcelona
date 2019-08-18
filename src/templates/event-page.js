@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
+import intl from '../intl/locales'
 import Layout from '../components/Layout'
 import EventsGrid from '../components/EventsGrid'
 import Testimonials from '../components/Testimonials'
@@ -13,6 +14,7 @@ export const EventPageTemplate = ({
   description,
   intro,
   testimonials,
+  languageKey,
 }) => (
   <div className="content">
     <div
@@ -27,12 +29,15 @@ export const EventPageTemplate = ({
     </div>
     <section className="section section--gradient">
       <div className="container">
-        <div className="section">
           <div className="columns">
-            <div className="column is-7 is-offset-1">
-              <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
+            <div className="column is-10 is-offset-1 has-text-centered">
               <p>{description}</p>
             </div>
+          </div>
+          <div className="has-text-centered">
+            <a className="button" href="https://framagenda.org/index.php/apps/calendar/p/4S4QSqkFWj7obna4/XR-Barcelona-General">
+              {intl[languageKey].goToCalendar} →
+            </a>
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
@@ -40,7 +45,11 @@ export const EventPageTemplate = ({
               <Testimonials testimonials={testimonials} />
             </div>
           </div>
-        </div>
+          <div className="has-text-centered">
+            <a className="button" href="https://framagenda.org/index.php/apps/calendar/p/4S4QSqkFWj7obna4/XR-Barcelona-General">
+              {intl[languageKey].goToCalendar} →
+            </a>
+          </div>
       </div>
     </section>
   </div>
@@ -67,6 +76,7 @@ const EventPage = ({ data }) => {
         description={frontmatter.description}
         intro={frontmatter.intro}
         testimonials={frontmatter.testimonials}
+        languageKey={frontmatter.languageKey}
       />
     </Layout>
   )
