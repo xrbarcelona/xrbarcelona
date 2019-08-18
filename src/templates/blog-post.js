@@ -91,7 +91,10 @@ export default BlogPost
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+    markdownRemark(
+        id: { eq: $id },
+        frontmatter: { templateKey: { eq: "blog-post" } }
+      ) {
       id
       html
       frontmatter {
