@@ -2,6 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import intl from '../intl/locales'
 
 class TagRoute extends React.Component {
   render() {
@@ -21,7 +22,7 @@ class TagRoute extends React.Component {
     } tagged with “${tag}”`
 
     return (
-      <Layout>
+      <Layout languageKey={intl.defaultLocale}>
         <section className="section">
           <Helmet title={`${tag} | ${title}`} />
           <div className="container content">
