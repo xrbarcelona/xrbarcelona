@@ -16,6 +16,15 @@ const intl = {
             phone: "Telèfon (opcional)",
             send: "Envia",
         },
+        navBar: {
+            home: "Home",
+            about: "About",
+            oct7: "7Oct",
+            events: "Esdeveniments",
+            blog: "Blog",
+            contact: "Contacte",
+            donate: "Donacions",
+        },
     },
     es: {
         languageName: "ES",
@@ -27,9 +36,18 @@ const intl = {
         contactForm: {
             name: "Nombre",
             email: "Correo electrónico",
-            message: "MMensajeissatge",
+            message: "Mensaje",
             phone: "Telèfon (opcional)",
             send: "Enviar",
+        },
+        navBar: {
+            home: "Home",
+            about: "About",
+            oct7: "7Oct",
+            events: "Eventos",
+            blog: "Blog",
+            contact: "Contacto",
+            donate: "Donaciones",
         },
     },
     en: {
@@ -45,6 +63,15 @@ const intl = {
             message: "Message",
             phone: "Phone (optional)",
             send: "Send",
+        },
+        navBar: {
+            home: "Home",
+            about: "About",
+            oct7: "7Oct",
+            events: "Events",
+            blog: "Blog",
+            contact: "Contact",
+            donate: "Donate",
         },
     },
 }

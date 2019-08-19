@@ -2,11 +2,11 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import logo from '../img/logo-xr-full.png'
+import intl from '../intl/locales'
 import NavbarLanguages from './NavbarLanguages';
 import facebook from "../img/social/facebook_black.svg";
 import twitter from "../img/social/twitter_black.svg";
 import instagram from "../img/social/instagram_black.svg";
-import mail from "../img/social/mail_black.svg";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -65,22 +65,22 @@ const Navbar = class extends React.Component {
           <div id="navMenu" className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item main-menu" to={`/${languageKey}/about`}>
-                About
+                {intl[languageKey].navBar.about}
               </Link>
               <Link className="navbar-item main-menu" to={`/${languageKey}/october-seventh`}>
-                7Oct
+                {intl[languageKey].navBar.oct7}
               </Link>
               <Link className="navbar-item main-menu" to={`/${languageKey}/events`}>
-                Events
+                {intl[languageKey].navBar.events}
               </Link>
               <Link className="navbar-item main-menu" to={`/${languageKey}/blog`}>
-                Blog
+                {intl[languageKey].navBar.blog}
               </Link>
               <Link className="navbar-item main-menu" to={`/${languageKey}/contact`}>
-                Contact
+                {intl[languageKey].navBar.contact}
               </Link>
               <Link className="navbar-item main-menu" to={`/${languageKey}/donation`}>
-                Donate
+                {intl[languageKey].navBar.donate}
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
@@ -93,9 +93,6 @@ const Navbar = class extends React.Component {
                 </a>
                 <a title="instagram" href="https://www.instagram.com/xrbarcelona/">
                   <img src={instagram} alt="Instagram" />
-                </a>
-                <a title="email" href="mailto:xrbarcelona@riseup.net">
-                  <img src={mail} alt="Email" />
                 </a>
               </div>
               <NavbarLanguages languageKey={languageKey} />

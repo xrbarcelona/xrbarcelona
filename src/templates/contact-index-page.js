@@ -128,12 +128,6 @@ export const pageQuery = graphql`
         title
         languageKey
         formTitle
-        contact {
-          name
-          email
-          message
-          send
-        }
       }
     }
   }

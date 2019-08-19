@@ -2,7 +2,7 @@
 templateKey: 'about-page'
 languageKey: ca
 path: /ca/about
-title: About our values
+title: About
 ---
 
 Extinction Rebellion és un moviment internacional que utilitza la desobediència civil no violenta per a frenar l'extinció massiva i minimitzar el risc de col·lapse social.

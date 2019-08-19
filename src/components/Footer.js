@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
-
+import intl from '../intl/locales'
 import logo from '../img/logo-white-xr.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
@@ -23,23 +23,23 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link to={`/${languageKey}/`}  className="navbar-item">
-                        Home
+                         {intl[languageKey].navBar.home}
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to={`/${languageKey}/october-seventh`}>
-                        7Oct
+                        {intl[languageKey].navBar.oct7}
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to={`/${languageKey}/events`}>
-                        Events
+                        {intl[languageKey].navBar.events}
                       </Link>
                     </li>
                     <li>
-                      <a className="navbar-item" href="/admin/" target="_blank" rel="noopener noreferrer">
-                        Admin
-                      </a>
+                      <Link className="navbar-item" to={`/${languageKey}/donation`}>
+                        {intl[languageKey].navBar.donations}
+                      </Link>
                     </li>
                   </ul>
                 </section>
@@ -49,18 +49,23 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to={`/${languageKey}/about`}>
-                        About
+                        {intl[languageKey].navBar.about}
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to={`/${languageKey}/contact`}>
-                        Contact
+                        {intl[languageKey].navBar.contact}
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to={`/${languageKey}/blog`}>
-                        Blog
+                        {intl[languageKey].navBar.blog}
                       </Link>
+                    </li>
+                    <li>
+                      <a className="navbar-item" href="/admin/" target="_blank" rel="noopener noreferrer">
+                        Admin
+                      </a>
                     </li>
                   </ul>
                 </section>
