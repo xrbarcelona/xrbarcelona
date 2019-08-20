@@ -8,18 +8,18 @@ heading: Rebel·lió o Extinció Barcelona
 subheading: Rebel·lió o Extinció es un movimiento internacional que utiliza la desobediencia civil no-violenta en un intento por parar la extinción masiva y minimizar el riesgo de colapso social.
 intro:
   blurbs:
-    - image: /img/event-placeholder.png
+    - image: /img/events/2019-08-07-welcome-ca.jpeg
       text: >
-        Regular Welcome event for anyone who wants to join as new member. Become a rebel.
-    - image: /img/event-placeholder.png
+        Evento de bienvenida para cualquier persona que quieres unirse. Hazte rebel.
+    - image: /img/events/2019-08-25-inundaciones-es.jpeg
       text: >
-        International Rebellion of October. We will rise again, across cities, countries and continents. Come with us to Madrid.
-    - image: /img/event-placeholder.png
+        Inundaciones en Barcelona. Nos levantamos cada fin de semana en un nuevo lugar de la ciudad.
+    - image: /img/events/2019-08-22-art-es.jpeg
       text: >
-        Join the weekly sessions with Art group to design and print your own signs, t-shirt and more.
-    - image: /img/event-placeholder.png
+        Únaete a las sesiones semanales con el grupo de arte para diseñar e imprimir tu propia camisetas, pancartas y más.
+    - image: /img/events/2019-09-07-october.jpeg
       text: >
-        We will join together the World Climate Strike!
+        Rebelión internacional de octubre. Volveremos a levantarnos en ciudades, países y continentes. Ven con nosotros a Madrid.
   heading: none
   description: none
 main:

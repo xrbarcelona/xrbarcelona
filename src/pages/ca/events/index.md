@@ -7,18 +7,18 @@ description: >-
   Si sou nous a Rebel·lió o Extinció Barcelona assistiu a un dels esdeveniments de benvinguda.
 intro:
   blurbs:
-    - image: /img/event-placeholder.png
+    - image: /img/events/2019-08-07-welcome-ca.jpeg
       text: >
         Si vols unir-te com a nova persona activa. Fes-te rebel.
-    - image: /img/event-placeholder.png
+    - image: /img/events/2019-08-25-inundaciones-ca.jpeg
       text: >
-        International Rebellion of October. We will rise again, across cities, countries and continents. Come with us to Madrid.
-    - image: /img/event-placeholder.png
+        Inundacions a Barcelona. Cada cap de setmana en una nova ubicació de la ciutat.
+    - image: /img/events/2019-08-22-art-ca.jpeg
       text: >
-        Join the weekly sessions with Art group to design and print your own signs, t-shirt and more.
-    - image: /img/event-placeholder.png
+        Sessions setmanals amb el grup d'art per dissenyar i imprimir samarretes, pancartes, i molt més.
+    - image: /img/events/2019-09-07-october.jpeg
       text: >
-        We will join together the World Climate Strike!
+        Rebel·lió internacional d’octubre. Ens aixecarem de nou a ciutats, països i continents. Vine amb nosaltres a Madrid.
   heading: What we offer
 testimonials:
   - author: Cesar Chavez

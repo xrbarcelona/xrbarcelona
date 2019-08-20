@@ -42,13 +42,13 @@ export const EventPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <EventsGrid gridItems={intro.blurbs} />
+              <div className="has-text-centered calendar-bottom">
+                <a className="button" href="https://framagenda.org/index.php/apps/calendar/p/4S4QSqkFWj7obna4/XR-Barcelona-General">
+                  {intl[languageKey].goToCalendar} →
+                </a>
+              </div>
               <Testimonials testimonials={testimonials} />
             </div>
-          </div>
-          <div className="has-text-centered">
-            <a className="button" href="https://framagenda.org/index.php/apps/calendar/p/4S4QSqkFWj7obna4/XR-Barcelona-General">
-              {intl[languageKey].goToCalendar} →
-            </a>
           </div>
       </div>
     </section>

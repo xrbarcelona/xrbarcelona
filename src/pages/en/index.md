@@ -8,18 +8,18 @@ heading: Rebel·lió o Extinció Barcelona
 subheading: Extinction Rebellion is an international movement that uses non-violent civil disobedience in an attempt to halt mass extinction and minimise the risk of social collapse.
 intro:
   blurbs:
-    - image: /img/event-placeholder.png
+    - image: /img/events/2019-08-07-welcome-ca.jpeg
       text: >
         Regular Welcome event for anyone who wants to join as new member. Become a rebel.
-    - image: /img/event-placeholder.png
+    - image: /img/events/2019-08-25-inundaciones-ca.jpeg
       text: >
-        International Rebellion of October. We will rise again, across cities, countries and continents. Come with us to Madrid.
-    - image: /img/event-placeholder.png
+        Inundations in Barcelona. We are rising up every weekend in a new location of the city.
+    - image: /img/events/2019-08-22-art-ca.jpeg
       text: >
         Join the weekly sessions with Art group to design and print your own signs, t-shirt and more.
-    - image: /img/event-placeholder.png
+    - image: /img/events/2019-09-07-october.jpeg
       text: >
-        We will join together the World Climate Strike!
+        International Rebellion of October. We will rise again, across cities, countries and continents. Come with us to Madrid.
   heading: none
   description: none
 main:

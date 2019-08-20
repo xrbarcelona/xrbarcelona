@@ -7,24 +7,21 @@ description: >-
   Si eres nuevo en Rebel·lió o Extinció Barcelona asiste a uno de nuestros eventos de bienvenida.
 intro:
   blurbs:
-    - image: /img/event-placeholder.png
+    - image: /img/events/2019-08-07-welcome-ca.jpeg
       text: >
-        Regular Welcome event for anyone who wants to join as new member. Become a rebel.
-    - image: /img/event-placeholder.png
+        Evento de bienvenida para cualquier persona que quieres unirse. Hazte rebel.
+    - image: /img/events/2019-08-25-inundaciones-es.jpeg
       text: >
-        International Rebellion of October. We will rise again, across cities, countries and continents. Come with us to Madrid.
-    - image: /img/event-placeholder.png
+        Inundaciones en Barcelona. Nos levantamos cada fin de semana en un nuevo lugar de la ciudad.
+    - image: /img/events/2019-08-22-art-es.jpeg
       text: >
-        Join the weekly sessions with Art group to design and print your own signs, t-shirt and more.
-    - image: /img/event-placeholder.png
+        Únaete a las sesiones semanales con el grupo de arte para diseñar e imprimir tu propia camisetas, pancartas y más.
+    - image: /img/events/2019-09-07-october.jpeg
       text: >
-        We will join together the World Climate Strike!
-  heading: What we offer
+        Rebelión internacional de octubre. Volveremos a levantarnos en ciudades, países y continentes. Ven con nosotros a Madrid.
+  heading: none
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    none
 testimonials:
   - author: Cesar Chavez
     quote: >-
