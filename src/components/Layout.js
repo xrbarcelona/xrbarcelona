@@ -29,7 +29,6 @@ const Layout = ({ languageKey, baseColorClass, children }) => {
 
         <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700&display=swap" rel="stylesheet" /> 
         
-        <meta name="robots" content="noindex"/>
       </Helmet>
       <div className={baseColorClass}>
         <Navbar languageKey={languageKey} />
