@@ -40,7 +40,7 @@ class ContactIndexPage extends React.Component {
                   method="post"
                 >
                   <input type="text" name="honeypot" style={{display:`none`}} />
-                  <input type="hidden" name="accessKey" value="0433516e-0f70-49a1-a3ef-9c621a70b4b3" />
+                  <input type="hidden" name="accessKey" value="0B8C3274-20F7-4023-AF6B-CAC35E3D0C01" />
                   <input type="hidden" name="subject" value="Contact us - xrbarcelona.org" />
                   <input type="hidden" name="redirectTo" 
                     value={`https://xrbarcelona.org/${languageKey}/contact/thanks/`} />
