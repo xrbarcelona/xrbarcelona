@@ -22,7 +22,9 @@ LA REBELIÓN INTERNACIONAL NO VIOLENTA EN CONTRA DE LOS GOBIERNOS POR INACCIÓN 
 
   
 ### Si quieres venir con nosotres a Madrid desde Barcelona, escríbenos a:  
-### [xrbarcelona@riseup.net](mailto:xrbarcelona@riseup.net)  
+### [xrbarcelona@riseup.net](mailto:xrbarcelona@riseup.net)
+### Rellena el formulario: 
+### [https://www.extinctionrebellion.es/portal/acciones/70-2/](https://www.extinctionrebellion.es/portal/acciones/70-2/)
   
 &nbsp;
   

@@ -21,6 +21,8 @@ INTERNATIONAL NON-VIOLENT REBELLION AGAINST THE WORLD’S GOVERNMENTS FOR CRIMIN
   
 ### If you want to come with us to Madrid from Barcelona, send an email to:  
 ### [xrbarcelona@riseup.net](mailto:xrbarcelona@riseup.net)  
+### Fill the form: 
+### [https://www.extinctionrebellion.es/portal/acciones/70-2/](https://www.extinctionrebellion.es/portal/acciones/70-2/)
   
 &nbsp;
   

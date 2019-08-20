@@ -21,7 +21,9 @@ LA REBEL·LIÓ INTERNACIONAL NO VIOLENTA EN CONTRA DELS GOVERNS PER INACCIÓ CRI
   
 ### Si vols venir amb nosaltres a Madrid desde Barcelona, escriu-nos a:  
 ### [xrbarcelona@riseup.net](mailto:xrbarcelona@riseup.net)  
-  
+### Ompliu el següent formulari:  
+### [https://www.extinctionrebellion.es/portal/acciones/70-2/](https://www.extinctionrebellion.es/portal/acciones/70-2/)
+    
 &nbsp;
   
 ### UNEIX-TE A LA REBEL·LIÓ!
