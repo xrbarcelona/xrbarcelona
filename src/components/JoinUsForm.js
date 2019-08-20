@@ -15,7 +15,7 @@ const JoinUsForm = ({ languageKey }) => (
         value={`https://xrbarcelona.org/${languageKey}/contact/thanks/`} />
       <div className="columns">
 
-        <div className="column is-4 field">
+        <div className="column is-3 is-offset-1 field">
           <div className="control">
             <input className="input" type={'text'}
               name={'name'} id={'name'}
@@ -24,7 +24,7 @@ const JoinUsForm = ({ languageKey }) => (
             />
           </div>
         </div>
-        <div className="column is-4 field">
+        <div className="column is-3 field">
           <div className="control">
             <input className="input" type={'email'}
               name={'email'} id={'email'}
@@ -33,7 +33,7 @@ const JoinUsForm = ({ languageKey }) => (
             />
           </div>
         </div>
-        <div className="column is-4 field">
+        <div className="column is-3 field">
           <div className="control">
             <input className="input" type={'phone'} 
               name={'phone'} id={'phone'}
@@ -42,12 +42,13 @@ const JoinUsForm = ({ languageKey }) => (
             />
           </div>
         </div>
+        <div className="column is-2 field">
+          <button className="button is-link" type="submit">
+            {intl[languageKey].contactForm.join}
+          </button>
+        </div>
       </div>
-      <div className="field has-text-centered is-12">
-        <button className="button is-link" type="submit">
-          {intl[languageKey].contactForm.send}
-        </button>
-      </div>
+
     </form>
   </div>
 )

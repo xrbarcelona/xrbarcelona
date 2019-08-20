@@ -59,17 +59,8 @@ export const IndexPageTemplate = ({
               <div className="columns">
                 <div className="column is-12 has-text-centered">
                   <Link className="btn" to={`/${languageKey}/events`}>
-                    {intl[languageKey].seeAllEvents}
+                    {intl[languageKey].seeAllEvents} →
                   </Link>
-                </div>
-              </div>
-              <div className="column is-12">
-                <h3 className="has-text-weight-semibold">
-                  {intl[languageKey].latestStories}
-                </h3>
-                { localizedBlogRoll(languageKey) }
-                <div className="column is-12 has-text-centered">
-                  <Link className="btn" to={`/${languageKey}/blog`}>{intl[languageKey].readMore}</Link>
                 </div>
               </div>
               <div className="column is-12 join-us">
@@ -77,6 +68,17 @@ export const IndexPageTemplate = ({
                   {intl[languageKey].joinTheRebellion}
                 </h3>
                 <JoinUsForm languageKey={languageKey} />
+              </div>
+              <div className="column is-12">
+                <h3 className="has-text-weight-semibold">
+                  {intl[languageKey].latestStories}
+                </h3>
+                { localizedBlogRoll(languageKey) }
+                <div className="column is-12 has-text-centered">
+                  <Link className="btn" to={`/${languageKey}/blog`}>
+                    {intl[languageKey].readMore} →
+                  </Link>
+                </div>
               </div>
             </div>
           </div>

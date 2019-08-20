@@ -6,7 +6,7 @@ const EventsGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map(item => (
       <div key={item.text} className="column is-6">
-        <section className="section">
+        <section className="event-section">
           <div className="has-text-centered">
             <div
               style={{

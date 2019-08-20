@@ -16,6 +16,7 @@ const intl = {
             message: "Missatge",
             phone: "Telèfon (opcional)",
             send: "Envia",
+            join: "Uneix-te!",
         },
         navBar: {
             home: "Home",
@@ -41,6 +42,7 @@ const intl = {
             message: "Mensaje",
             phone: "Telèfon (opcional)",
             send: "Enviar",
+            join: "¡Únete!",
         },
         navBar: {
             home: "Home",
@@ -66,6 +68,7 @@ const intl = {
             message: "Message",
             phone: "Phone (optional)",
             send: "Send",
+            join: "Join!",
         },
         navBar: {
             home: "Home",
