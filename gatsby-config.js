@@ -62,6 +62,16 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-28181963-3",
+        head: true,
+        anonymize: true,
+        respectDNT: true,
+        cookieDomain: "xrbarcelona.org",
+      },
+    },
+    {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,

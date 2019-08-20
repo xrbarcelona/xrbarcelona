@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
+import { OutboundLink } from 'gatsby-plugin-google-analytics'
 import intl from '../intl/locales'
 import logo from '../img/logo-white-xr.svg'
 import facebook from '../img/social/facebook.svg'
@@ -62,46 +63,41 @@ const Footer = class extends React.Component {
                         {intl[languageKey].navBar.blog}
                       </Link>
                     </li>
-                    <li>
-                      <a className="navbar-item" href="/admin/" target="_blank" rel="noopener noreferrer">
-                        Admin
-                      </a>
-                    </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-6 social">
-                <a title="facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
+                <OutboundLink title="facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
                   <img
                     src={facebook}
                     alt="Facebook"
                   />
-                </a>
-                <a title="twitter" href="https://twitter.com/XRBarcelona">
+                </OutboundLink>
+                <OutboundLink title="twitter" href="https://twitter.com/XRBarcelona">
                   <img
                     className="fas fa-lg"
                     src={twitter}
                     alt="Twitter"
                   />
-                </a>
-                <a title="instagram" href="https://www.instagram.com/xrbarcelona/">
+                </OutboundLink>
+                <OutboundLink title="instagram" href="https://www.instagram.com/xrbarcelona/">
                   <img
                     src={instagram}
                     alt="Instagram"
                   />
-                </a>
-                <a title="github" href="https://github.com/xrbarcelona/">
+                </OutboundLink>
+                <OutboundLink title="github" href="https://github.com/xrbarcelona/">
                   <img
                     src={github}
                     alt="Github"
                   />
-                </a>
-                <a title="email" href="mailto:xrbarcelona@riseup.net">
+                </OutboundLink>
+                <OutboundLink title="email" href="mailto:xrbarcelona@riseup.net">
                   <img
                     src={mail}
                     alt="Email"
                   />
-                </a>
+                </OutboundLink>
               </div>
             </div>
           </div>

@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
+import { OutboundLink } from 'gatsby-plugin-google-analytics'
 import logo from '../img/logo-xr-full.png'
 import intl from '../intl/locales'
 import NavbarLanguages from './NavbarLanguages';
@@ -85,15 +86,15 @@ const Navbar = class extends React.Component {
             </div>
             <div className="navbar-end has-text-centered">
               <div className="navbar-item">
-                <a title="facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
+                <OutboundLink title="facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
                   <img src={facebook} alt="Facebook" />
-                </a>
-                <a title="twitter" href="https://twitter.com/XRBarcelona">
+                </OutboundLink>
+                <OutboundLink title="twitter" href="https://twitter.com/XRBarcelona">
                   <img className="fas fa-lg" src={twitter} alt="Twitter" />
-                </a>
-                <a title="instagram" href="https://www.instagram.com/xrbarcelona/">
+                </OutboundLink>
+                <OutboundLink title="instagram" href="https://www.instagram.com/xrbarcelona/">
                   <img src={instagram} alt="Instagram" />
-                </a>
+                </OutboundLink>
               </div>
               <NavbarLanguages languageKey={languageKey} />
             </div>
