@@ -58,7 +58,7 @@ export const IndexPageTemplate = ({
               <EventsGrid gridItems={intro.blurbs} />
               <div className="columns">
                 <div className="column is-12 has-text-centered">
-                  <Link className="btn" to={`/${languageKey}/events`}>
+                  <Link className="button" to={`/${languageKey}/events`}>
                     {intl[languageKey].seeAllEvents} →
                   </Link>
                 </div>
@@ -75,7 +75,7 @@ export const IndexPageTemplate = ({
                 </h3>
                 { localizedBlogRoll(languageKey) }
                 <div className="column is-12 has-text-centered">
-                  <Link className="btn" to={`/${languageKey}/blog`}>
+                  <Link className="button" to={`/${languageKey}/blog`}>
                     {intl[languageKey].readMore} →
                   </Link>
                 </div>
