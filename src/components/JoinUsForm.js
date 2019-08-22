@@ -9,7 +9,7 @@ const JoinUsForm = ({ languageKey }) => (
       method="post"
     >
       <input type="text" name="honeypot" style={{display:`none`}} />
-      <input type="hidden" name="accessKey" value="A630DBEB-4AD5-4104-9805-E1406547D6AB" />
+      <input type="hidden" name="accessKey" value="0433516e-0f70-49a1-a3ef-9c621a70b4b3" />
       <input type="hidden" name="subject" value="Join us - xrbarcelona.org" />
       <input type="hidden" name="redirectTo" 
         value={`https://xrbarcelona.org/${languageKey}/contact/thanks/`} />
