@@ -6,7 +6,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-const baseColorClass="bg-xr-lemon"
+const baseColorClass="bg-xr-angry"
 
 export const BlogPostTemplate = ({
   content,

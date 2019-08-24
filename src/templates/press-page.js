@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
-const baseColorClass = "bg-xr-pink";
+const baseColorClass = "bg-xr-lemon";
 
 export const PressPageTemplate = ({ title, heading, subheading, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
@@ -14,7 +14,7 @@ export const PressPageTemplate = ({ title, heading, subheading, content, content
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/img/banner-press-cropped.jpg')`
+          backgroundImage: `url('/img/banner-press-cropped.jpeg')`
         }}
       >
         <h1
