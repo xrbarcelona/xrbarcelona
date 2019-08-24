@@ -63,6 +63,11 @@ const Footer = class extends React.Component {
                         {intl[languageKey].navBar.blog}
                       </Link>
                     </li>
+                    <li>
+                    <Link className="navbar-item" to={`/${languageKey}/press`}>
+                      {intl[languageKey].navBar.press}
+                    </Link>
+                  </li>
                   </ul>
                 </section>
               </div>

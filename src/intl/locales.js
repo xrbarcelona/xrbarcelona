@@ -26,6 +26,7 @@ const intl = {
             blog: "Blog",
             contact: "Contacte",
             donate: "Donacions",
+            press: "Premsa",
         },
     },
     es: {
@@ -52,6 +53,7 @@ const intl = {
             blog: "Blog",
             contact: "Contacto",
             donate: "Donaciones",
+            press: "Prensa",
         },
     },
     en: {
@@ -78,6 +80,7 @@ const intl = {
             blog: "Blog",
             contact: "Contact",
             donate: "Donate",
+            press: "Press",
         },
     },
 }

@@ -5,7 +5,7 @@ import intl from '../intl/locales'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 
-const baseColorClass='bg-xr-pink'
+const baseColorClass='bg-xr-bright-pink'
 
 class ContactIndexPage extends React.Component {
   constructor(props) {
