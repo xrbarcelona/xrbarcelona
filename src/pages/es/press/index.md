@@ -68,3 +68,7 @@ https://beteve.cat/societat/concentracio-protesta-incendis-amazones/
 https://www.europapress.es/catalunya/noticia-mas-200-personas-piden-dimision-bolsonaro-consulado-brasil-barcelona-20190823151907.html
 
 https://www.lavanguardia.com/local/barcelona/20190823/464214632584/mas-de-200-personas-piden-la-dimision-de-bolsonaro-ante-el-consulado-de-brasil-en-barcelona.html
+
+https://www.ccma.cat/324/unes-200-persones-tallen-la-diagonal-en-defensa-de-lamazonia-al-crit-de-bolsonaro-dimissio/noticia/2943150/
+
+https://www.lemonde.fr/planete/portfolio/2019/08/24/de-nicosie-a-quito-mobilisation-internationale-pour-sauver-le-poumon-du-monde_5502293_3244.html
