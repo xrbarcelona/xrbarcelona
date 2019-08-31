@@ -14,7 +14,7 @@ export const PressPageTemplate = ({ title, heading, subheading, content, content
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/img/banner-press-cropped.jpeg')`
+          backgroundImage: `url('/img/banner-press.jpg')`
         }}
       >
         <h1

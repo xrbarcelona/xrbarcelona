@@ -14,7 +14,7 @@ export const DonationPageTemplate = ({ title, heading, subheading, content, cont
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/img/banner-donation-cropped.jpeg')`
+          backgroundImage: `url('/img/banner-donation.jpg')`
         }}
       >
         <h1
