@@ -80,11 +80,11 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item main-menu" to={`/${languageKey}/contact`}>
                 {intl[languageKey].navBar.contact}
               </Link>
-              <Link className="navbar-item main-menu" to={`/${languageKey}/donation`}>
-                {intl[languageKey].navBar.donate}
-              </Link>
               <Link className="navbar-item main-menu" to={`/${languageKey}/press`}>
                 {intl[languageKey].navBar.press}
+              </Link>
+              <Link className="navbar-item main-menu" to={`/${languageKey}/donation`}>
+                {intl[languageKey].navBar.donate}
               </Link>
             </div>
             <div className="navbar-end has-text-centered">

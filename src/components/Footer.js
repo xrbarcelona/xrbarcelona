@@ -38,8 +38,8 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to={`/${languageKey}/donation`}>
-                        {intl[languageKey].navBar.donations}
+                      <Link className="navbar-item" to={`/${languageKey}/blog`}>
+                        {intl[languageKey].navBar.blog}
                       </Link>
                     </li>
                   </ul>
@@ -59,15 +59,15 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to={`/${languageKey}/blog`}>
-                        {intl[languageKey].navBar.blog}
+                      <Link className="navbar-item" to={`/${languageKey}/press`}>
+                        {intl[languageKey].navBar.press}
                       </Link>
                     </li>
                     <li>
-                    <Link className="navbar-item" to={`/${languageKey}/press`}>
-                      {intl[languageKey].navBar.press}
-                    </Link>
-                  </li>
+                      <Link className="navbar-item" to={`/${languageKey}/donation`}>
+                        {intl[languageKey].navBar.donate}
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
