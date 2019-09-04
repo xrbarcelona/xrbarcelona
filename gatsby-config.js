@@ -2,7 +2,7 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Rebel·lió o Extinció - Barcelona',
+    title: 'Extinction Rebellion - Barcelona',
     description:
       'Moviment internacional de desobediència civil. En basem en l\'acció directa no violenta.',
   },
