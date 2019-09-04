@@ -14,4 +14,5 @@ tags:
 
 Ja tenim la newsletter de Setembre! 
 
+[newsletter](https://telegra.ph/XR-Barcelona-Butllet%C3%AD-Informatiu-Setembre-2019-09-04) 
 ![XR Banner](/img/blog/common/xr-banner.jpg)
