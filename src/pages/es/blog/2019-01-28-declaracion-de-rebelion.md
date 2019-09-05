@@ -4,13 +4,13 @@ languageKey: es
 title: Declaración de rebelión
 date: 2019-01-28T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/blog/2019-01-28/call-for-rebels_tn.jpg
+featuredimage: /img/blog/2019-01-28-call-for-rebels_tn.jpg
 description: >-
 tags:
 - xrbarcelona
 ---
 
-![XR Call For Rebels](/img/blog/2019-01-28/call-for-rebels.png)
+![XR Call For Rebels](/img/blog/2019-01-28-call-for-rebels.png)
 
 **La humanidad se encuentra ante un evento sin precedentes en su historia**: la subida constante de la temperatura a causa del aumento de la concentración de gases de efecto invernadero en la atmósfera, consecuencia a su vez de un sistema económico capitalista (en sus diversas formas) basado en el crecimiento económico ilimitado, la quema de combustibles fósiles, y la depredación de unos bienes naturales que son limitados, poniendo la economía por encima del planeta y de las personas, y en definitiva, por encima de la vida.
 

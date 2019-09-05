@@ -58,11 +58,11 @@ _Marquesines Rebels Barcelona_
 
 <!-- ![Els anuncis rebels](https://youtu.be/-nw6yjLHW7E)
 ![Els anuncis rebels](https://youtu.be/WrdjopNwRd0) -->
-![Els anuncis rebels](/img/blog/anuncis_rebels_1.jpg)
-![Els anuncis rebels](/img/blog/anuncis_rebels_2.jpg)
-![Els anuncis rebels](/img/blog/anuncis_rebels_3.jpg)
-![Els anuncis rebels](/img/blog/anuncis_rebels_4.jpg)
-![Els anuncis rebels](/img/blog/anuncis_rebels_5.jpg)
+![Els anuncis rebels](/img/blog/2019-05-25-anuncis_rebels_1.jpg)
+![Els anuncis rebels](/img/blog/2019-05-25-anuncis_rebels_2.jpg)
+![Els anuncis rebels](/img/blog/2019-05-25-anuncis_rebels_3.jpg)
+![Els anuncis rebels](/img/blog/2019-05-25-anuncis_rebels_4.jpg)
+![Els anuncis rebels](/img/blog/2019-05-25-anuncis_rebels_5.jpg)
 
 
 
