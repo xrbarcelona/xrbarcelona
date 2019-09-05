@@ -11,7 +11,7 @@ tags:
   - emergencia climatica
 ---
 
-![67 Climbers](/img/blog/2019-05-14/declare-emergency-felton-davis.jpg)
+![67 Climbers](/img/blog/2019-05-14-declare-emergency-felton-davis.jpg)
  by 
  [*Felton Davis*](https://www.flickr.com/people/106368363@N02) is licensed under 
  [*CC BY*](https://creativecommons.org/licenses/by/2.0/)
@@ -38,5 +38,5 @@ Donem la benvinguda a la declaració com el primer pas necessari, però estarem 
 
 > Comunicat sobre la declaració feta ahir pel @govern 👉 https://t.co/IW2VfkxQeU Si no ha sortit a les portades dels diaris és que no era una declaració d'emergència. "La crisi climàtica i ecològica és la major amenaça a la nostra civilització i que hem d'actuar ja, sense excuses" [https://twitter.com/XRBarcelona/status/1128580721361260546](https://twitter.com/XRBarcelona/status/1128580721361260546?s=09)
 
-![](/img/blog/2019-05-14/girl-sign.jpg)
+![](/img/blog/2019-05-14-girl-sign.jpg)
 

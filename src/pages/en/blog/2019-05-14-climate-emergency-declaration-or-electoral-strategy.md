@@ -11,7 +11,7 @@ tags:
   - xrbarcelona
 ---
 
-![67 Climbers](/img/blog/2019-05-14/declare-emergency-felton-davis.jpg)
+![67 Climbers](/img/blog/2019-05-14-declare-emergency-felton-davis.jpg)
  by 
  [*Felton Davis*](https://www.flickr.com/people/106368363@N02) is licensed under 
  [*CC BY*](https://creativecommons.org/licenses/by/2.0/)
@@ -34,4 +34,4 @@ We welcome the declaration as it is the necessary first step, but we will expect
 
 ### Join the Rebellion!
 
-![](/img/blog/2019-05-14/girl-sign.jpg)
+![](/img/blog/2019-05-14-girl-sign.jpg)
