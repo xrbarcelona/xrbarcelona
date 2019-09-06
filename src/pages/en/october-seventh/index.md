@@ -25,7 +25,7 @@ To help us organise this action, we ask you to please register in the form that 
 There will be different roles, with different levels of exposure:
 - central core or nucleus, which opens and marks the beginning of the action (Action). 
 - You can also join in later to support and help create a multitude/mass (Support). 
-- You can participate indirectly, supporting the action without taking part in the action itself, solidary support, like supporting us in social media, donating, or writting an opion in a newspeaper.
+- You can participate indirectly, supporting the action without taking part in the action itself, solidary support, by supporting us on social media, donating or writing an opinion article for a newspaper, for example”.
 
 **More details to come, save the date!**
 
