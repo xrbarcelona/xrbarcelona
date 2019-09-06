@@ -34,7 +34,7 @@ Un grupo de ricos filántropos estadounidenses, liderados por Trevor Nilson, Ror
 
 En la última asamblea de XR Barcelona, votamos a favor de aceptar una suma inicial de 5,000 dólares, que podrá ser acompañada de 50,000 dólares adicionales si decidimos aceptarla. De los 5,000 dólares iniciales, 80% será utilizado para que cuatro rebeldes puedan dedicarse a tiempo completo a la preparación de la Rebelión Internacional por el Clima, programada para 7 de octubre. 
 
-![XR Barcelona bloquea tres carriles de Gran Via de les Corts Catalanes](/img/blog/2019-08-01granvia.jpg)
+![XR Barcelona bloquea tres carriles de Gran Via de les Corts Catalanes](/img/blog/2019-08-01-granvia.jpg)
 
 ### XR BARCELONA BLOQUEÓ LA GRAN VÍA DE LAS CORTS CATALANES
 
