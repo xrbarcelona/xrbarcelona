@@ -58,7 +58,7 @@ En el temps que queda fins el 7 d’octubre, la Comissió de Xerrades de XR Barc
 
 ![Banderes, banderes, banderes!](/img/blog/2019-08-01banderes.jpg)
 
-###ARTISTES DE XR FAN IMPACTE
+### ARTISTES DE XR FAN IMPACTE
 
 Les artistes de XR Barcelona han estat molt enfeinades durant aquest mes. Grups de rebels han estat pintant al Poble Sec, i hi ha plans de realitzar més graffitis als barris de Gràcia i Sants. La Comissió d’Art va crear una impressionant disfressa de Deessa del Mar per a l’acció del 6 de juliol. Al mateix temps la Comissió d’Impactes Visuals va estampar més de 60 samarretes de segona mà, així com incomptables banderes, pancartes i cartells.
 
@@ -72,7 +72,7 @@ La Comissió d’Educació d’XR Barcelona ha estat conscienciant a les petites
 
 ![Aprendre sobre el canvi climàtic pot ser divertit!](/img/blog/2019-08-01educacio.jpg)
 
-###CAP DE SETMANA DE TALLERS, 7-8 SETEMBRE
+### CAP DE SETMANA DE TALLERS, 7-8 SETEMBRE
 
 Els dies 7 i 8 de setembre, la Comissió de Acollida i Formació impartirà un cap de setmana de tallers per a antigues i noves rebels que vulguin aprendre més sobre Extinction Rebellion, la filosofia del grup i el seu ADN. Els tallers inclouen sessions de Acció Directa No Violenta (ADNV), així com els objectius i reclams del moviment i els seus principis fonamentals. A més, gràcies a aquesta trobada de cap de setmana, les integrants es podran conèixer entre elles i formar nous lligams- part essencial per tal que el nostre moviment de base funcioni. Mantingueu el contacte per tal de rebre més informació sobre els tallers i la manera com apuntar-vos-hi!
 

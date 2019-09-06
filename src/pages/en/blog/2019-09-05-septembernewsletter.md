@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-languageKey: ca
+languageKey: en
 title: September Newsletter 
 date: 2019-09-01T15:04:10.000Z
 featuredpost: false
@@ -11,7 +11,7 @@ tags:
   - xrbarcelona
 ---
 
-![Newsletter de septembre](/img/blog/common/butlleti.jpg)
+![September Newsletter](/img/blog/common/butlleti.jpg)
 
 Dear rebels, 
 
