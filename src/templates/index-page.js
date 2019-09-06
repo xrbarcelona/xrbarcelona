@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/Layout'
 import EventsGrid from '../components/EventsGrid'
+import DemandsGrid from '../components/DemandsGrid'
 import JoinUsForm from '../components/JoinUsForm'
 import localizedBlogRoll from '../components/LocalizedBlogRoll'
 import intl from '../intl/locales'
@@ -55,6 +56,7 @@ export const IndexPageTemplate = ({
                   <p className="is-size-4">{subheading}</p>
                 </div>
               </div>
+              <DemandsGrid gridItems={intro.demands} />
               <EventsGrid gridItems={intro.blurbs} />
               <div className="columns">
                 <div className="column is-12 has-text-centered">
@@ -96,6 +98,7 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
+    demands: PropTypes.array,
   }),
 }
 
@@ -145,6 +148,16 @@ export const pageQuery = graphql`
         heading
         subheading
         intro {
+          demands {
+            image {
+              childImageSharp {
+                fluid(maxWidth: 240, quality: 64) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            text
+          }
           blurbs {
             image {
               childImageSharp {

@@ -7,6 +7,16 @@ image: /img/banner-home.jpg
 heading: Rebel·lió o Extinció Barcelona
 subheading: Extinction Rebellion is an international movement that uses non-violent civil disobedience in an attempt to halt mass extinction and minimise the risk of social collapse.
 intro:
+  demands:
+    - image: /img/demands/demand-1-en.png
+      text: >
+        DEM-EN-1
+    - image: /img/demands/demand-2-en.png
+      text: >
+        DEM-EN-2
+    - image: /img/demands/demand-3-en.png
+      text: >
+        DEM-EN-3
   blurbs:
     - image: /img/events/2019-08-07-welcome-ca.jpeg
       text: >
