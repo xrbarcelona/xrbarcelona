@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: es
-title: Newsletter Agosto
+title: Newsletter de Agosto
 date: 2019-08-01T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
@@ -11,7 +11,7 @@ tags:
   - xrbarcelona
 ---
 
-![Newsletter](/img/blog/common/butlleti.jpg)
+![Newsletter de Agosto](/img/blog/common/butlleti.jpg)
 
 Queridas rebeldes, 
 
@@ -34,7 +34,7 @@ Un grupo de ricos filántropos estadounidenses, liderados por Trevor Nilson, Ror
 
 En la última asamblea de XR Barcelona, votamos a favor de aceptar una suma inicial de 5,000 dólares, que podrá ser acompañada de 50,000 dólares adicionales si decidimos aceptarla. De los 5,000 dólares iniciales, 80% será utilizado para que cuatro rebeldes puedan dedicarse a tiempo completo a la preparación de la Rebelión Internacional por el Clima, programada para 7 de octubre. 
 
-![XR Barcelona bloquea tres carriles de Gran Via de les Corts Catalanes](/img/blog/2019-08-01granvia.jpg)
+![XR Barcelona bloquea tres carriles de Gran Via de les Corts Catalanes](/img/blog/2019-08-01-granvia.jpg)
 
 ### XR BARCELONA BLOQUEÓ LA GRAN VÍA DE LAS CORTS CATALANES
 
@@ -42,7 +42,7 @@ El 6 de Julio, XR Barcelona bloqueo la Gran Via de les Corts Catalanes en la zon
 
 Este acto simbólico de desobediencia civil se llevó a cabo en solidaridad con los grupos Aturem C-32 y SOS Costa Brava, quienes llevaban más de 30 días intentando evitar la tala de árboles para la expansión de la autopista C-32. Con esta acción, enviamos un mensaje claro al gobierno catalán: Declarar el estado de emergencia climática no es suficiente. Sin acción vuestras palabras no significan nada. 
 
-###7 PETICIONES PARA ADA COLAU 
+### 7 PETICIONES PARA ADA COLAU 
 
 El 10 de julio, XR Barcelona, Fridays For Future Barcelona, Families For Future Barcelona y Moviment per la Justícia Climàtica entregaron una carta a Ada Colau con siete medidas urgentes para hacer frente a la crisis climática desde Barcelona. Incluyendo, la detener la inminente expansión del aeropuerto y el puerto de la ciudad. En la carta también se solicitó también una reunión con la alcaldesa el día 27 de Septiembre para escuchar su opinión sobre las siete medidas. 
 
@@ -51,7 +51,7 @@ El 10 de julio, XR Barcelona, Fridays For Future Barcelona, Families For Future 
 ### STAY GROUNDED
 El 14 de Julio, un grupo de rebeldes de XR Barcelona se unió a Climacció en una acción conjunta para protestar contra el plan de expansión del aeropuerto de El Prat. El proyecto contempla la construcción de una tercera pista de despegue y aterrizaje, lo que llevaría a un aumento de 20 millones de pasajeros al año. La acción fue un éxito y fue cubierta por varios medios de noticias importantes. 
 
-![Comité de Charlas entrenando a nuevos portavoces](/img/blog/2019-08-01-xerrades.jpg)
+![Comité de Charlas entrenando a nuevos portavoces](/img/blog/2019-08-01xerrades.jpg)
 
 ### SE NECESITAN CONFERENCIANTES (No se requiere experiencia)
 
@@ -61,7 +61,7 @@ En anticipación al 7 de Octobre, el Comité de Charlas de XR Barcelona está tr
 
 ![¡Banderas, banders, banderas!](/img/blog/2019-08-01banderes.jpg)
 
-###ARTISTAS DE XR HACIENDO IMPACTO 
+### ARTISTAS DE XR HACIENDO IMPACTO 
 
 Las artistas de XR Barcelona han estado muy ocupadas este mes. Un grupo de rebeldes salió a pintar las calles de Poble Sec y se tienen graffitis preparados para Gràcia y Sants. El Comité de Arte creó un deslumbrante disfraz de Diosa del Océano para la acción del 6 de Julio. Mientras que el Comité de Impactos Visuales, estampo más de 60 camisetas de segunda mano e incontables banderas y pancartas. 
 
@@ -75,7 +75,7 @@ El comité de educación ha estado enseñando a pequeñas rebeldes sobre el camb
 
 ![¡Aprender sobre el cambio climático puede ser divertido!](/img/blog/2019-08-01educacio.jpg)
 
-###FIN DE SEMANA DE TALLERES, 7 Y 8 DE SEPTIEMBRE 
+### FIN DE SEMANA DE TALLERES, 7 Y 8 DE SEPTIEMBRE 
 
 Los días 7 y 8 de septiembre, el Comité de Acogida y Formación llevará a cabo una serie de talleres, tanto para rebeldes veteranas como para recién llegadas, para quienes quieran aprender más sobre la filosofía de Extinction Rebellion. Los talleres incluirán sesiones sobre Acción Directa No Violenta (ADNV), y presentaciones sobre las demandas y valores fundamentales del movimiento. Además, podrás conocer y hacer amistades con otras rebeldes – algo esencial para que el movimiento funcione. Mantente atento a la información sobre los talleres y cómo apuntarte. 
 

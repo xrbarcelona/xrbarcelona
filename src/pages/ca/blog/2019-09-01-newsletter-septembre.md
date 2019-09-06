@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: ca
-title: Newsletter de septembre
+title: Newsletter de Septembre
 date: 2019-09-01T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
@@ -11,7 +11,7 @@ tags:
   - xrbarcelona
 ---
 
-![Newsletter de septembre](/img/blog/common/butlleti.jpg)
+![Newsletter de Septembre](/img/blog/common/butlleti.jpg)
 
 Estimades Rebels,
 

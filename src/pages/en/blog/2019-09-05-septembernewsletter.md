@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-languageKey: ca
+languageKey: en
 title: September Newsletter 
 date: 2019-09-01T15:04:10.000Z
 featuredpost: false
@@ -11,7 +11,7 @@ tags:
   - xrbarcelona
 ---
 
-![Newsletter de septembre](/img/blog/common/butlleti.jpg)
+![September Newsletter](/img/blog/common/butlleti.jpg)
 
 Dear rebels, 
 
@@ -29,26 +29,26 @@ XR Barcelona’s four liberated rebels have been working hard in collaboration w
 
 And now, the news…
 
-![Rebels bloquegen el transit al davant del Consolat del Brasil](/img/blog/2019-09-01-consulatbrasil.jpg)
+![Rebels block traffic outside the Brazilian Consulate](/img/blog/2019-09-01-consulatbrasil.jpg)
 
 ### HUNDREDS GATHER OUTSIDE THE BRAZILIAN CONSULATE
 On August 23rd, XR Barcelona, Fridays For Future Barcelona and other grassroots collectives coordinated a mass protest outside the Brazilian Consulate in a collective outcry over the fires raging in the Amazon and the anti-environment, anti-indigenous policies of Jair Bolsonaro’s government. Together, hundreds of us blocked Avenida Diagonal for 10 minutes, and spent over an hour united outside the consulate. On the same day, we delivered a letter to the Brazilian Consul and Ambassador demanding justice for the people and wildlife of the Amazon, and warning of further disruptive action to come should our demands not be met by December 31st. 
 
 *Further protests are planned for September 5th, on Carrer Mallorca 278 at 12:00, and Passeig de Gràcia 90 at 17:00.*
 
-![XR Barcelona inunda el Museu Maritim](/img/blog/2019-09-01-museumaritim.jpg)
+![XR Barcelona floods the Maritime Museum](/img/blog/2019-09-01-museumaritim.jpg)
 
 ### THE OCEANS ARE RISING, AND SO ARE WE
 On August 25th, XR Barcelona began a wave of action in the run up to the Second International Rebellion in Madrid. Dressed as sea creatures (with costumes and props kindly donated from the Festes de Gràcia by Carrers Llibertat, Perill, Jesús and Rovira), we started by flooding the Maritime Museum. Inside, we staged a performance and open die-in symbolizing the threat posed by rising sea levels and ocean pollution. 
 
 From now until October 7th, we’ll be rising up in different locations around Barcelona before we head to Madrid, and we are calling on all citizens to join us in demanding truth and action from our governments. We need you, so stay tuned to Instagram for more details, and see you in the floods!
 
-![Establint nexes sense fronteres a la Trobada Internacional de XR](/img/blog/2019-09-01-trobadainternacional.jpg)
+![Forming bonds without borders at the International XR Gathering](/img/blog/2019-09-01-trobadainternacional.jpg)
 
 ### INTERNATIONAL GATHERING IN BARCELONA 
 On the last weekend of August, 45 rebels came together in Barcelona for the International XR Gathering. The rebels spent the weekend at Calafou, a post-capitalist eco-industrial colony surrounded by nature, where they took part in workshops and activities including permaculture, public speaking, self-organisation and self-expression among many others. More than just a chance to learn, the gathering was an opportunity to form bonds without borders and be inspired by each country’s plans for the future.
 
-![La Xarxe pel Clima es reuneix el dia 3 de setembre](/img/blog/2019-09-01-xarxapelclima.jpg)
+![Barcelona’s Network for Climate Action meets on September 3rd](/img/blog/2019-09-01-xarxapelclima.jpg)
 
 ### TOGETHER, WE ARE STRONGER
 
@@ -58,7 +58,7 @@ In parallel, a commission within the “Network for Climate Action” is working
 
 The Federation of Neighbourhood Associations of Barcelona, with whom we’ve been in contact since we participated in their training school, has published a press release in which they call for a socially and ecologically just response to the climate crisis and ask associations, entities and the general population to become engaged in solving it. The federation also states its intent to participate in the Climate Strike on September 27th.
 
-![Establert el punt mòbil d’informació de XR Barcelona a Gràcia](/img/blog/2019-09-01-puntinformacio.jpg)
+![The XR Barcelona mobile information point launches in Gràcia](/img/blog/2019-09-01-puntinformacio.jpg)
 
 ### XR BARCELONA’S FIRST MOBILE INFORMATION POINT
 
@@ -69,7 +69,7 @@ If you’d like to bring the mobile info point to your neighbourhood, get in con
 ### TRANSLATING THE REBELLION
 XR Barcelona’s Translation Committee has been busy translating key documents about the climate rebellion into Catalan, Spanish and English. Now you can read all about the philosophy of non-violent direct action, regenerative culture, arguments behind Extinction Rebellion’s methodology and more. Start reading today and get to know the movement inside out: http://tinyurl.com/xrbarcelona 
 
-![Noves rebels potencials a la Festa Major de Cardedeu](/img/blog/2019-09-01-cardedeu.jpg)
+![Potential new rebels at the Festa Major in Cardedeu](/img/blog/2019-09-01-cardedeu.jpg)
 
 ### XR BARCELONA AT CARDEDEU’S FESTA MAJOR 
 This month, XR Barcelona was invited to give a talk at the Festa Major in Cardedeu. The talk was attended by 30-40 people, many of whom were highly engaged and keen to start mobilizing. We’re with you, Cardedeu! 
