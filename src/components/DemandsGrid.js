@@ -2,10 +2,10 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-const EventsGrid = ({ gridItems}) => (
+const DemandsGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map(item => (
-      <div key={item.text} className="column is-6">
+      <div key={item.key} className="column is-4">
         <section className="event-section">
           <div className="has-text-centered">
             <div
@@ -17,20 +17,20 @@ const EventsGrid = ({ gridItems}) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <p>{item.text}</p>
         </section>
       </div>
     ))}
   </div>
 )
 
-EventsGrid.propTypes = {
+DemandsGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-      text: PropTypes.string,
+      key: PropTypes.string,
+      alt: PropTypes.string,
     })
   ),
 }
 
-export default EventsGrid
+export default DemandsGrid

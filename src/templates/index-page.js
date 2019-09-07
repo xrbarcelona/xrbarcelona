@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/Layout'
 import EventsGrid from '../components/EventsGrid'
+import DemandsGrid from '../components/DemandsGrid'
 import JoinUsForm from '../components/JoinUsForm'
 import localizedBlogRoll from '../components/LocalizedBlogRoll'
 import intl from '../intl/locales'
@@ -47,38 +48,37 @@ export const IndexPageTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="content">
-              <div className="columns">
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    {heading}
-                  </h3>
-                  <p className="is-size-4">{subheading}</p>
-                </div>
-              </div>
+              <h3 className="has-text-weight-semibold is-size-2">
+                {heading}
+              </h3>
+              <p className="is-size-4">{subheading}</p>
+              <h3 className="has-text-centered">
+                {intl[languageKey].ourDemands}
+              </h3>
+              <DemandsGrid gridItems={intro.demands} />
+              <h3 className="has-text-centered">
+                {intl[languageKey].events}
+              </h3>
               <EventsGrid gridItems={intro.blurbs} />
-              <div className="columns">
-                <div className="column is-12 has-text-centered">
-                  <Link className="button" to={`/${languageKey}/events`}>
-                    {intl[languageKey].seeAllEvents} →
-                  </Link>
-                </div>
+              <div className="has-text-centered">
+                <Link className="button" to={`/${languageKey}/events`}>
+                  {intl[languageKey].seeAllEvents} →
+                </Link>
               </div>
-              <div className="column is-12 join-us">
-                <h3>
+              <div className="join-us">
+                <h3 className="has-text-centered">
                   {intl[languageKey].joinTheRebellion}
                 </h3>
                 <JoinUsForm languageKey={languageKey} />
               </div>
-              <div className="column is-12">
-                <h3 className="has-text-weight-semibold">
-                  {intl[languageKey].latestStories}
-                </h3>
-                { localizedBlogRoll(languageKey) }
-                <div className="column is-12 has-text-centered">
-                  <Link className="button" to={`/${languageKey}/blog`}>
-                    {intl[languageKey].readMore} →
-                  </Link>
-                </div>
+              <h3 className="has-text-centered">
+                {intl[languageKey].latestStories}
+              </h3>
+              { localizedBlogRoll(languageKey) }
+              <div className="has-text-centered">
+                <Link className="button" to={`/${languageKey}/blog`}>
+                  {intl[languageKey].readMore} →
+                </Link>
               </div>
             </div>
           </div>
@@ -96,6 +96,7 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
+    demands: PropTypes.array,
   }),
 }
 
@@ -145,6 +146,17 @@ export const pageQuery = graphql`
         heading
         subheading
         intro {
+          demands {
+            image {
+              childImageSharp {
+                fluid(maxWidth: 240, quality: 64) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            key
+            alt
+          }
           blurbs {
             image {
               childImageSharp {
