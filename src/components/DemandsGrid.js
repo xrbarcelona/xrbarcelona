@@ -5,7 +5,7 @@ import PreviewCompatibleImage from './PreviewCompatibleImage'
 const DemandsGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map(item => (
-      <div key={item.text} className="column is-4">
+      <div key={item.key} className="column is-4">
         <section className="event-section">
           <div className="has-text-centered">
             <div
@@ -27,7 +27,8 @@ DemandsGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-      text: PropTypes.string,
+      key: PropTypes.string,
+      alt: PropTypes.string,
     })
   ),
 }

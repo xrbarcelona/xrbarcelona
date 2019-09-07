@@ -9,14 +9,20 @@ subheading: Extinction Rebellion is an international movement that uses non-viol
 intro:
   demands:
     - image: /img/demands/demand-1-en.png
-      text: >
-        DEM-EN-1
+      key: DEM-EN-1
+      alt: >
+        TELL THE TRUTH - 
+        Governments must tell the truth about the gravity of the current climate emergency, revert inconsistent policies and work with the media and other institutions to communicate the urgency for change.
     - image: /img/demands/demand-2-en.png
-      text: >
-        DEM-EN-2
+      key: DEM-EN-2
+      alt: >
+        ACT NOW - 
+        Governments must promote legally binding measures to hal biodiversity loss and to reduce greenhouse gas emissions to net zero by 2025.
     - image: /img/demands/demand-3-en.png
-      text: >
-        DEM-EN-3
+      key: DEM-EN-3
+      alt: >
+        CITIZENS' ASSEMBLY - 
+        Governments must create representativs citizens' assemblies selected by sortion and advised by experts to lead governments' decisions on climate and ecological justice.
   blurbs:
     - image: /img/events/2019-08-07-welcome-ca.jpeg
       text: >

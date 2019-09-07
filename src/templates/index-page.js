@@ -156,7 +156,8 @@ export const pageQuery = graphql`
                 }
               }
             }
-            text
+            key
+            alt
           }
           blurbs {
             image {
