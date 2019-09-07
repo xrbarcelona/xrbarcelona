@@ -58,7 +58,7 @@ In the run up to October 7th, XR Barcelona’s Speaking Committee is working har
 
 19 rebels attended the first informal training session on how to give effective talks about the movement, and another training session is planned for September (info coming soon). If you want to be a voice for XR Barcelona, we want you! 
 
-![Flags, flags, flags!](/img/blog/2019-08-01banderes.jpg)
+![Flags, flags, flags!](/img/blog/2019-08-01-banderes.jpg)
 
 ###XR ARTISTS MAKE AN IMPACT 
 
@@ -66,13 +66,13 @@ XR Barcelona’s artists have been very busy this month. Groups of rebels have b
 
 Want your t-shirt stamped with the XR logo? Bring it to the next assembly and Visual Impacts will stamp it and return it to you.
 
-![The Goddess of the Sea visits Gran Via](/img/blog/2019-08-01diosa.jpg)
+![The Goddess of the Sea visits Gran Via](/img/blog/2019-08-01-diosa.jpg)
 
 ### REBELS TEACH THE NEXT GENERATION
 
 XR Barcelona’s Education Committee has been teaching little rebels about climate change through playful and creative activities at Brunch in the Park. Aimed at ages 3-12, the activities include painting a mural of the earth and completing challenges as part of a “Save the Planet” superhero game. Don’t miss the next activity sessions at Brunch in the Park on September 8th! 
 
-![Learning about climate change can be fun!](/img/blog/2019-08-01educacio.jpg)
+![Learning about climate change can be fun!](/img/blog/2019-08-01-educacio.jpg)
 
 ###WORKSHOP WEEKEND:September 14-15th
 

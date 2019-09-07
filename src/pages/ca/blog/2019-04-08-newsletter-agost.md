@@ -56,7 +56,7 @@ En el temps que queda fins el 7 d’octubre, la Comissió de Xerrades de XR Barc
 
 19 rebels van atendre la primera sessió d’entrenament informal sobre com explicar el moviment de forma efectiva. S’ha organitzat una altra sessió per al mes de setembre (més detalls properament). Si estàs interessada en ser una de les veus que doni a conèixer XR Barcelona, anima’t, et necessitem!
 
-![Banderes, banderes, banderes!](/img/blog/2019-08-01banderes.jpg)
+![Banderes, banderes, banderes!](/img/blog/2019-08-01-banderes.jpg)
 
 ### ARTISTES DE XR FAN IMPACTE
 
@@ -64,13 +64,13 @@ Les artistes de XR Barcelona han estat molt enfeinades durant aquest mes. Grups 
 
 Vols la teva samarreta estampada amb el logotip de XR? Porta-la a la propera assemblea i la comissió d’Impactes Visuals te l’estamparà.
 
-![La Deessa de l’Oceà visita la Gran Via ](/img/blog/2019-08-01diosa.jpg)
+![La Deessa de l’Oceà visita la Gran Via ](/img/blog/2019-08-01-diosa.jpg)
 
 ### ELS REBELS ENSENYEN LA PRÓXIMA GENERACIÓ
 
 La Comissió d’Educació d’XR Barcelona ha estat conscienciant a les petites rebels sobre el canvi climàtic per mitjà de jocs engrescadors i creatius al Brunch in the Park que té lloc els diumenges a Montjuïc. Els tallers van dirigits a nens i nenes d’entre 3 i 12 anys, i inclouen activitats com la pintura d’un mural amb el lema “Salvem el planeta”, i la resolució de diversos reptes per ajudar a tenir cura de la Terra i ser bones superheroïnes (no malbaratar aigua, reciclar correctament, etc). No us perdeu les properes activitats al Brunch in the Park que tindrà lloc el 8 de setembre!
 
-![Aprendre sobre el canvi climàtic pot ser divertit!](/img/blog/2019-08-01educacio.jpg)
+![Aprendre sobre el canvi climàtic pot ser divertit!](/img/blog/2019-08-01-educacio.jpg)
 
 ### CAP DE SETMANA DE TALLERS, 7-8 SETEMBRE
 

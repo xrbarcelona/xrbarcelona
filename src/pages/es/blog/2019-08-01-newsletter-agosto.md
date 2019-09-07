@@ -51,7 +51,7 @@ El 10 de julio, XR Barcelona, Fridays For Future Barcelona, Families For Future 
 ### STAY GROUNDED
 El 14 de Julio, un grupo de rebeldes de XR Barcelona se unió a Climacció en una acción conjunta para protestar contra el plan de expansión del aeropuerto de El Prat. El proyecto contempla la construcción de una tercera pista de despegue y aterrizaje, lo que llevaría a un aumento de 20 millones de pasajeros al año. La acción fue un éxito y fue cubierta por varios medios de noticias importantes. 
 
-![Comité de Charlas entrenando a nuevos portavoces](/img/blog/2019-08-01xerrades.jpg)
+![Comité de Charlas entrenando a nuevos portavoces](/img/blog/2019-08-01-xerrades.jpg)
 
 ### SE NECESITAN CONFERENCIANTES (No se requiere experiencia)
 
@@ -59,7 +59,7 @@ En anticipación al 7 de Octobre, el Comité de Charlas de XR Barcelona está tr
 
 19 rebeldes atendieron a la primera sesión de entrenamiento informal sobre cómo explicar el movimiento de manera efectiva. Se ha organizado otra sesión para Septiembre (detalles próximamente). Si te interesa ser una voz para XR Barcelona, te necesitamos!
 
-![¡Banderas, banders, banderas!](/img/blog/2019-08-01banderes.jpg)
+![¡Banderas, banders, banderas!](/img/blog/2019-08-01-banderes.jpg)
 
 ### ARTISTAS DE XR HACIENDO IMPACTO 
 
@@ -67,13 +67,13 @@ Las artistas de XR Barcelona han estado muy ocupadas este mes. Un grupo de rebel
 
 ¿Quieres estampar tu camiseta con el logo de XR? Traela a la próxima asamblea y los artistas de Impactos Visuales te la estamparán. 
 
-![La Diosa del Oceano visita la Gran Via](/img/blog/2019-08-01diosa.jpg)
+![La Diosa del Oceano visita la Gran Via](/img/blog/2019-08-01-diosa.jpg)
 
 ### LOS REBELDES ENSEÑAN LA PRÓXIMA GENERACIÓN 
 
 El comité de educación ha estado enseñando a pequeñas rebeldes sobre el cambio climático a través de actividades interactivas en el Brunch in the Park. Dirigido a niñas de 3 a 12 años, las actividades incluyeron pintar un mural de la tierra y completar desafíos como parte de un juego de super héroes sobre salvar el planeta. No te pierdas la próxima sesión en el Brunch in the Park el 8 de Septiembre. 
 
-![¡Aprender sobre el cambio climático puede ser divertido!](/img/blog/2019-08-01educacio.jpg)
+![¡Aprender sobre el cambio climático puede ser divertido!](/img/blog/2019-08-01-educacio.jpg)
 
 ### FIN DE SEMANA DE TALLERES, 7 Y 8 DE SEPTIEMBRE 
 
