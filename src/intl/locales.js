@@ -9,7 +9,9 @@ const intl = {
         latestStories: "Últimes notícies",
         goToCalendar: "Consulteu el calendari complet",
         joinTheRebellion: "Uneix-te a la Rebel-lió!",
+        events: "Esdeveniments",
         seeAllEvents: "Consulteu tots els esdeveniments",
+        ourDemands: "Les nostres demandes",
         contactForm: {
             name: "Nom",
             email: "Correu electrònic",
@@ -36,7 +38,9 @@ const intl = {
         latestStories: "Últimas noticias",
         goToCalendar: "Consulta el calendario completo",
         joinTheRebellion: "¡Únete a la Rebelión!",
+        events: "Eventos",
         seeAllEvents: "Consulta todos los eventos",
+        ourDemands: "Nuestra demandas",
         contactForm: {
             name: "Nombre",
             email: "Correo electrónico",
@@ -63,7 +67,9 @@ const intl = {
         latestStories: "Latest stories",
         goToCalendar: "See the full calendar",
         joinTheRebellion: "Join the rebellion!",
+        events: "Events",
         seeAllEvents: "See all events",
+        ourDemands: "Our demands",
         contactForm: {
             name: "Name",
             email: "Email",
