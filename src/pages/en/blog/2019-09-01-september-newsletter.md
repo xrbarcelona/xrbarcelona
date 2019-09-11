@@ -78,6 +78,6 @@ That’s it for this month’s newsletter. All that’s left to say is thank you
 
 **See you on the streets.**
 
-*Love and rage (and hope), *
+*Love and rage (and hope),*
 
 *XR Barcelona*
