@@ -6,6 +6,11 @@ title: Press
 heading: Latest mentions
 ---
 
+09/11/2019 - EFE Verde  
+[Extinction Rebellion pide ante el Congrego, con un patíbulo, declarar la emergencia climática](https://www.efeverde.com/noticias/extinction-rebellion-congrego-emergencia-climatica/)  
+_(Castellano)_
+
+
 24/08/2019 - Le Monde  
 [De Nicosie à Quito, mobilisation internationale pour sauver la forêt amazonienne](https://www.lemonde.fr/planete/portfolio/2019/08/24/de-nicosie-a-quito-mobilisation-internationale-pour-sauver-le-poumon-du-monde_5502293_3244.html)
 
