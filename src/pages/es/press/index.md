@@ -6,9 +6,14 @@ title: Prensa
 heading: Últimas menciones
 ---
 
-09/11/2019 - EFE Verde  
-[Extinction Rebellion pide ante el Congrego, con un patíbulo, declarar la emergencia climática](https://www.efeverde.com/noticias/extinction-rebellion-congrego-emergencia-climatica/)  
+09/09/2019 - EFE Verde  
+[Extinction Rebellion pide ante el Congreso, con un patíbulo, declarar la emergencia climática](https://www.efeverde.com/noticias/extinction-rebellion-congrego-emergencia-climatica/)  
 _(Castellano)_
+
+
+06/09/2019 -  betevé  
+[Manifestació per reclamar tractats comercials respectuosos amb l’Amazònia](https://beteve.cat/societat/manifestacio-contra-acord-mercosur-amazonia/amp/)  
+_(Català)_
 
 
 24/08/2019 - Le Monde  
