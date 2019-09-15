@@ -7,7 +7,7 @@ heading: Últimes mencions
 ---
 
 09/09/2019 - EFE Verde  
-[Extinction Rebellion pide ante el Congrego, con un patíbulo, declarar la emergencia climática](https://www.efeverde.com/noticias/extinction-rebellion-congrego-emergencia-climatica/)  
+[Extinction Rebellion pide ante el Congreso, con un patíbulo, declarar la emergencia climática](https://www.efeverde.com/noticias/extinction-rebellion-congrego-emergencia-climatica/)  
 _(Castellano)_
 
 
