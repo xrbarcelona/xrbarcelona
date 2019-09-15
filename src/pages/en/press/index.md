@@ -55,6 +55,8 @@ _(Castellano)_
 08/08/2019 - ara.cat  
 [Les generacions futures ja són aquí i ens miren a la cara](https://www.ara.cat/societat/generacions-futures-aqui-miren-cara_0_2283371747.html)  
 _(Català)_  
+
+
 [Las generaciones futuras ya están aquí y nos miran a la cara](https://www.ara.cat/es/sociedad/Sonia-Sanchez-Las-generaciones-futuras-ya-estan-aqui-y-nos-miran-a-la-cara_0_2285171582.html)  
 _(Castellano)_
 
