@@ -16,7 +16,7 @@ Des d’aleshores, hem estat treballant en cooperació amb altres grups nacional
 
 ### LA NOSTRA ESTRATÈGIA
 
-Al centre de la filosofia d’Extinction Rebellion es troba la violència civil no violenta. Promovem la desobediència civil i la rebel·lió perquè creiem que és necessari – estem demanant a la gent que trobi el seu coratge i faci col·lectivament allò que és necessari per a provocar el canvi.
+Al centre de la filosofia d’Extinction Rebellion es troba la desobediència civil no violenta. Promovem la desobediència civil i la rebel·lió perquè creiem que és necessari – estem demanant a la gent que trobi el seu coratge i faci col·lectivament allò que és necessari per a provocar el canvi.
 
 No ens centrem en els sistemes tradicionals com, per exemple, les peticions o escriure als membres del parlament. Més aviat, estem disposats a córrer certs riscs (com ser arrestats o anar a la presó). No volem ni necessitem a tothom arrestat – per a alguns no és bona idea – però volem a tothom involucrat per a donar suport a la desobediència civil com a eina.
 
