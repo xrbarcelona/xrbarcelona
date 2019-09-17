@@ -8,6 +8,8 @@ import NavbarLanguages from './NavbarLanguages';
 import facebook from "../img/social/facebook_black.svg";
 import twitter from "../img/social/twitter_black.svg";
 import instagram from "../img/social/instagram_black.svg";
+import telegram from "../img/social/telegram_black.svg";
+import youtube from "../img/social/youtube_black.svg";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -89,14 +91,20 @@ const Navbar = class extends React.Component {
             </div>
             <div className="navbar-end has-text-centered">
               <div className="navbar-item">
-                <OutboundLink title="facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
+                <OutboundLink title="Telegram" href="https://t.me/XRBarcelona">
+                  <img src={telegram} alt="Telegram" />
+                </OutboundLink>
+                <OutboundLink title="Facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
                   <img src={facebook} alt="Facebook" />
                 </OutboundLink>
-                <OutboundLink title="twitter" href="https://twitter.com/XRBarcelona">
+                <OutboundLink title="Twitter" href="https://twitter.com/XRBarcelona">
                   <img className="fas fa-lg" src={twitter} alt="Twitter" />
                 </OutboundLink>
-                <OutboundLink title="instagram" href="https://www.instagram.com/xrbarcelona/">
+                <OutboundLink title="Instagram" href="https://www.instagram.com/xrbarcelona/">
                   <img src={instagram} alt="Instagram" />
+                </OutboundLink>
+                <OutboundLink title="YouTube" href="https://www.youtube.com/channel/UCBnq8mEEDZ4Cs1-exn_HPFg">
+                  <img src={youtube} alt="YouTube" />
                 </OutboundLink>
               </div>
               <NavbarLanguages languageKey={languageKey} />
