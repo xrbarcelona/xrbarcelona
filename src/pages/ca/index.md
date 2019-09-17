@@ -24,7 +24,7 @@ intro:
         ASSEMBLEES CIUTADANES - 
         Els governs han de crear assemblees ciutadanes escollides per sorteig representatiu, assessorades per persones expertes, per centrar els governs en la presa de decisions sobre la crisi climatica i ecologica.
   blurbs:
-    - image: /img/events/2019-08-07-welcome-ca.jpeg
+    - image: /img/events/2019-09-18-welcome-ca.jpeg
       text: >
         Si vols unir-te com a nova persona activa. Fes-te rebel.
     - image: /img/events/2019-08-25-inundaciones-ca.jpeg

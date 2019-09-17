@@ -24,7 +24,7 @@ intro:
         CITIZENS' ASSEMBLY - 
         Governments must create representativs citizens' assemblies selected by sortion and advised by experts to lead governments' decisions on climate and ecological justice.
   blurbs:
-    - image: /img/events/2019-08-07-welcome-ca.jpeg
+    - image: /img/events/2019-09-18-welcome-ca.jpeg
       text: >
         Regular Welcome event for anyone who wants to join as new member. Become a rebel.
     - image: /img/events/2019-08-25-inundaciones-ca.jpeg

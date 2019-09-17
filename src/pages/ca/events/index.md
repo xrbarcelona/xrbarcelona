@@ -7,7 +7,7 @@ description: >-
   Si sou nous a Rebel·lió o Extinció Barcelona assistiu a un dels esdeveniments de benvinguda.
 intro:
   blurbs:
-    - image: /img/events/2019-08-07-welcome-ca.jpeg
+    - image: /img/events/2019-09-18-welcome-ca.jpeg
       text: >
         Si vols unir-te com a nova persona activa. Fes-te rebel.
     - image: /img/events/2019-08-25-inundaciones-ca.jpeg
