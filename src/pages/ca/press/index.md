@@ -6,6 +6,16 @@ title: Premsa
 heading: Últimes mencions
 ---
 
+17/09/2019 - La Vanguardia  
+[Brufau (Repsol) pide dejar la transición energética en manos de tecnólogos y científicos](https://www.lavanguardia.com/local/barcelona/20190917/47429536594/brufau-repsol-pide-dejar-la-transicion-energetica-en-manos-de-tecnologos-y-cientificos.html)  
+_(Castellano)_
+
+
+17/09/2019 - ara.cat  
+[El president de Repsol diu que l'encariment del petroli pels atacs a l'Aràbia Saudita no beneficia ningú](https://www.ara.cat/economia/president-Repsol-encariment-Arabia-Saudita_0_2309169215.html)  
+_(Català)_
+
+
 09/09/2019 - EFE Verde  
 [Extinction Rebellion pide ante el Congreso, con un patíbulo, declarar la emergencia climática](https://www.efeverde.com/noticias/extinction-rebellion-congrego-emergencia-climatica/)  
 _(Castellano)_
