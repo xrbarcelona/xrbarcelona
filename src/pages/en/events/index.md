@@ -13,7 +13,7 @@ intro:
     - image: /img/events/2019-08-25-inundaciones-ca.jpeg
       text: >
         Inundations in Barcelona. We are rising up every weekend in a new location of the city.
-    - image: /img/events/2019-08-22-art-ca.jpeg
+    - image: /img/events/2019-09-16-art-ca.jpeg
       text: >
         Join the weekly sessions with Art group to design and print your own signs, t-shirt and more.
     - image: /img/events/2019-09-07-october.jpeg

@@ -13,7 +13,7 @@ intro:
     - image: /img/events/2019-08-25-inundaciones-es.jpeg
       text: >
         Inundaciones en Barcelona. Nos levantamos cada fin de semana en un nuevo lugar de la ciudad.
-    - image: /img/events/2019-08-22-art-es.jpeg
+    - image: /img/events/2019-09-16-art-ca.jpeg
       text: >
         Únaete a las sesiones semanales con el grupo de arte para diseñar e imprimir tu propia camisetas, pancartas y más.
     - image: /img/events/2019-09-07-october.jpeg

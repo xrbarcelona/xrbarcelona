@@ -30,7 +30,7 @@ intro:
     - image: /img/events/2019-08-25-inundaciones-ca.jpeg
       text: >
         Inundacions a Barcelona. Cada cap de setmana en una nova ubicació de la ciutat.
-    - image: /img/events/2019-08-22-art-ca.jpeg
+    - image: /img/events/2019-09-16-art-ca.jpeg
       text: >
         Sessions setmanals amb el grup d'art per dissenyar i imprimir samarretes, pancartes, i molt més.
     - image: /img/events/2019-09-07-october.jpeg
