@@ -4,7 +4,7 @@ languageKey: ca
 title: 'Hora de rebel·lar-se'
 date: 2019-03-24T15:04:10.000Z
 featuredpost: false
-featuredimage: img/blog/2019-03-24-hora-de-rebellar-se.jpg
+featuredimage: /img/blog/2019-03-24-hora-de-rebellar-se.jpg
 description: >-
 tags:
 - xrbarcelona
