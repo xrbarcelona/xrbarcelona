@@ -24,7 +24,7 @@ intro:
         ASSEMBLEAS CIUTADANAS - 
         Los gobiernos deben crear asambleas ciutadanas elegidas por sorteo representativo, asesoradas por persona expertas para que centre a los goiernos en la toma de decisions sobre la crisis climatica y ecologica.
   blurbs:
-    - image: /img/events/2019-09-18-welcome-ca.jpeg
+    - image: /img/events/2019-09-21-welcome-ca.jpeg
       text: >
         Evento de bienvenida para cualquier persona que quieres unirse. Hazte rebel.
     - image: /img/events/2019-08-25-inundaciones-es.jpeg

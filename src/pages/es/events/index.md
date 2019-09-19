@@ -7,7 +7,7 @@ description: >-
   Si eres nuevo en Rebel·lió o Extinció Barcelona asiste a uno de nuestros eventos de bienvenida.
 intro:
   blurbs:
-    - image: /img/events/2019-09-18-welcome-ca.jpeg
+    - image: /img/events/2019-09-21-welcome-ca.jpeg
       text: >
         Evento de bienvenida para cualquier persona que quieres unirse. Hazte rebel.
     - image: /img/events/2019-08-25-inundaciones-es.jpeg
