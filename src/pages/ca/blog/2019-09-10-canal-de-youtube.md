@@ -14,4 +14,4 @@ tags:
 
 El temps de la negació ha acabat: ara la Rebel·lió o Extinció de Barcelona arriba a YouTube per fer sentir la seva veu. Dóna-li un cop d'ull!
 
-## [Visita el canal!](https://www.youtube.com/channel/UCBnq8mEEDZ4Cs1-exn_HPFg)
+## [Visita el canal aquí!](https://www.youtube.com/channel/UCBnq8mEEDZ4Cs1-exn_HPFg)
