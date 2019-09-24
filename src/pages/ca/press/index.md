@@ -6,6 +6,26 @@ title: Premsa
 heading: Últimes mencions
 ---
 
+22/09/2019 - TV3  
+[Acció alternativa de Fridays for Future en el Dia sense Cotxes a Barcelona](https://www.ccma.cat/tv3/alacarta/telenoticies-migdia/accio-alternativa-de-fridays-for-future-en-el-dia-sense-cotxes-a-barcelona/video/5922894/)  
+_(Català)_
+
+
+22/09/2019 - NacióDigital  
+[FOTOS El moviment «Fridays for Future» talla l'avinguda Meridiana de Barcelona](https://www.naciodigital.cat/noticia/187762/fotos/moviment/fridays/for/future/talla/avinguda/meridiana/barcelona)  
+_(Català)_
+
+
+22/09/2019 - El Nacional  
+[Fridays for Future talla la Meridiana contra un Dia sense Cotxes "insuficient"](https://www.elnacional.cat/ca/societat/fridays-future-dia-sense-cotxes-barcelona_422609_102.html)  
+_(Català)_
+
+
+22/09/2019 - betevé    
+[Mig centenar de persones tallen la Meridiana contra el Dia sense Cotxes](https://beteve.cat/medi-ambient/meridiana-protesta-dia-sense-cotxes-2019/)  
+_(Català)_
+
+
 17/09/2019 - La Vanguardia  
 [Brufau (Repsol) pide dejar la transición energética en manos de tecnólogos y científicos](https://www.lavanguardia.com/local/barcelona/20190917/47429536594/brufau-repsol-pide-dejar-la-transicion-energetica-en-manos-de-tecnologos-y-cientificos.html)  
 _(Castellano)_
@@ -21,7 +41,7 @@ _(Català)_
 _(Castellano)_
 
 
-06/09/2019 -  betevé  
+06/09/2019 - betevé  
 [Manifestació per reclamar tractats comercials respectuosos amb l’Amazònia](https://beteve.cat/societat/manifestacio-contra-acord-mercosur-amazonia/amp/)  
 _(Català)_
 
@@ -30,7 +50,7 @@ _(Català)_
 [De Nicosie à Quito, mobilisation internationale pour sauver la forêt amazonienne](https://www.lemonde.fr/planete/portfolio/2019/08/24/de-nicosie-a-quito-mobilisation-internationale-pour-sauver-le-poumon-du-monde_5502293_3244.html)
 
 
-23/08/2019 -  betevé  
+23/08/2019 - betevé  
 [Centenars d’ecologistes es concentren al Consolat del Brasil pels incendis a l’Amazònia](https://beteve.cat/societat/concentracio-protesta-incendis-amazones/)  
 _(Català)_
 
