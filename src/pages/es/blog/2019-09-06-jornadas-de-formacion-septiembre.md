@@ -4,7 +4,7 @@ languageKey: es
 title: Jornadas de Formación Septiembre
 date: 2019-09-06T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/blog/common/butlleti.jpg
+featuredimage: /img/blog/2019-09-06-formacio1.jpg
 description: >-
 tags:
   - xrbarcelona

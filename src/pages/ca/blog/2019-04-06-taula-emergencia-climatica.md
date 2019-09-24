@@ -10,7 +10,7 @@ tags:
   - xrbarcelona
 ---
 
-![Newsletter de Septembre](/img/blog/2019-04-06-emergencia-climatica.jpg)
+![Cartel Taula per l'Emergència Climàtica](/img/blog/2019-04-06-emergencia-climatica.jpg)
 
 Aquest dissabte 06 d'abril, La nostra rebel Claudia Bosch ha anat en representació nostre a la taula rodona *"Què pensen els joves sobre l'emergència climàtica?"* Aquesta taula rodona estava programada dins d'una jornada de 12h de xerrades titulada *"Realitat climàtica = Emergència social"* on hi han participat 50 científicxs aportant des de diferents àmbits com veuen el futur que ens espera.
 
