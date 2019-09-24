@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: en
-title: State Meeting
+title: State Meeting in Madrid
 date: 2019-09-8T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-09-08-encuentro-estatal.jpg
