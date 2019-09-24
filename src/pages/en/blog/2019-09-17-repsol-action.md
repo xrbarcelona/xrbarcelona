@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-languageKey: Action at the University of Barcelona 
+languageKey: en
+title: Action at the University of Barcelona 
 date: 2019-09-17T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-09-17-repsol.jpg
