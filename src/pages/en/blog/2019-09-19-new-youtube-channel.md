@@ -1,18 +1,17 @@
 ---
 templateKey: blog-post
 languageKey: en
-title: check our new youtube chanel!
+title: Check our New YouTube Channel!
 date: 2019-09-10T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/blog/common/2019-09-10youtube.jpg
+featuredimage: /img/blog/2019-09-10-youtube.jpg
 description: >-
 tags:
-  - newletter
   - xrbarcelona
 ---
 
-![new youtube chanel](/img/blog/common/2019-09-10youtube.jpg)
+![New youtube chanel screenshot](/img/blog/2019-09-10-youtube.jpg)
 
 The time for denial is over – now the Extinction Rebellion group from Barcelona arrives on YouTube to make heard the voice of Truth! Check it out!
 
-[Link to the channel](https://www.youtube.com/channel/UCBnq8mEEDZ4Cs1-exn_HPFg)
+## [Visit our channel!](https://www.youtube.com/channel/UCBnq8mEEDZ4Cs1-exn_HPFg)

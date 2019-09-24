@@ -1,17 +1,16 @@
 ---
 templateKey: blog-post
 languageKey: ca
-title: Jornades de formació de Septembre
-date: 2019-09-07T15:04:10.000Z
+title: Jornades de Formació de Septembre
+date: 2019-09-06T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/blog/common/2019-09-06formacio1.jpg
+featuredimage: /img/blog/2019-09-06-formacio1.jpg
 description: >-
 tags:
-  - newletter
   - xrbarcelona
 ---
 
-![Jornades de formació](/img/blog/common/2019-09-06formacio1.jpg)
+![Rebels durant les jornades](/img/blog/2019-09-06-formacio1.jpg)
 
 ### JORNADES DE FORMACIÓ EL 6 I 7 DE SEPTEMBRE
 
@@ -23,7 +22,7 @@ El programa va dissenyar-se amb l’objectiu d’oferir eines pràctiques per l�
 
 Dissabte van acudir-hi al voltant de trenta persones, moltes d’elles encara noves i amb poca experiència activa al col·lectiu, però amb moltes ganes i interès d’acostar-s’hi. 
 
-![Rebels durant les jornades](/img/blog/2019-09-06formacio2.jpg)
+![Rebels durant les jornades](/img/blog/2019-09-06-formacio2.jpg)
 
 També van participar-hi persones d’altres col·lectius, com ara Fridays for Future. Els tallers del dissabte van venir de la mà de dos col·lectius molt potents i amb un llarg recorregut: Ecodharma, una comunitat que ofereix formació i retirs per activistes i que fusiona la implicació social amb el Budisme; I Iridia, que juntament amb Novac, forma part de la plataforma “Defensar qui Defensa”. 
  
@@ -31,7 +30,7 @@ Ambdós tallers van ser extremadament interessants i de molta qualitat. El prime
 
 El diumenge van participar en els tallers unes dotze persones, tot i que s’hi havien apuntat trenta. Això ens va fer reflexionar sobre la importància de generar una cultura del compromís i de la relació, que faci els nostres esforços significatius i sostenibles en el temps. 
 
-![Rebels a la jornada de formació](/img/blog/2019-09-06formacio3.jpg)
+![Rebels a la jornada de formació](/img/blog/2019-09-06-formacio3.jpg)
 
 Després vam tenir un taller per part de la Tatiana Sibilia, que va presentar la Comunicació No Violenta i la Sociocràcia com a eines fonamentals per una autogestió eficaç i sostenible, que cuidi les relacions i els processos dels nostres col·lectius. 
 
@@ -45,9 +44,9 @@ La sensació al final de les jornades va ser, en general, d’agraïment i de va
 
 *XR Barcelona*
 
-![Rebels a la jornada de formació](/img/blog/2019-09-06formacio4.jpg)
+![Rebels a la jornada de formació](/img/blog/2019-09-06-formacio4.jpg)
 
-![Rebels a la jornada de formació](/img/blog/2019-09-06formacio5.jpg)
+![Rebels a la jornada de formació](/img/blog/2019-09-06-formacio5.jpg)
  creativitat i compromís a la causa.
 
 
