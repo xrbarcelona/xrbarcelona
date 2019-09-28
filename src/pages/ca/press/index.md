@@ -6,6 +6,11 @@ title: Premsa
 heading: Últimes mencions
 ---
 
+25/10/2019 - alacarta.cat  
+[Badalona Tres60, 25 de Setembre de 2019 - 46m 15s](http://bdncom.alacarta.cat/badalona-tres60/capitol/25-de-setembre-de-2019-tres60)  
+_(Català)_
+
+
 22/09/2019 - TV3  
 [Acció alternativa de Fridays for Future en el Dia sense Cotxes a Barcelona](https://www.ccma.cat/tv3/alacarta/telenoticies-migdia/accio-alternativa-de-fridays-for-future-en-el-dia-sense-cotxes-a-barcelona/video/5922894/)  
 _(Català)_
