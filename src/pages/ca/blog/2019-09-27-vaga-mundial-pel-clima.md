@@ -28,6 +28,6 @@ Des de Rebel·lió o Extinció Barcelona considerem especialment important la ca
 
 Seguirem rebel·lant-nos amb amor i amb fúria fins que les nostres demandes siguin escoltades i les mesures que proposem s’implementin. Com sempre, mantindrem un compromís indiscutible amb la no-violència, i farem de la Rebel·lió una celebració inclusiva, colorida i alegre. 
 
-*Amor i Ràbia*
+*Amor i Fúria*
 
 *XR Barcelona*
