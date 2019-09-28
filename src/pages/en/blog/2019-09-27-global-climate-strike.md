@@ -10,7 +10,7 @@ tags:
   - xrbarcelona
 ---
 
-## THOUSANDS OF PEOPLE REBEL AGAINST THE CLIMATE EMERGENCY IN THE GLOBAL CLIMATE STRIKE
+## Thousands of people rebel against the climate emergency in the global climate strike
 
 Rebel·lió o Extinció Barcelona, as part of the platforms that have convened the mobilizations, has been active throughout the week to call for immediate action to stop the climate emergency and expose the crisis to society.
 

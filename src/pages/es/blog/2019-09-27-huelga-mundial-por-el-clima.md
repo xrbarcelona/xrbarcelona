@@ -10,7 +10,7 @@ tags:
   - xrbarcelona
 ---
 
-## MILES DE PERSONAS SE REBELAN CONTRA LA EMERGENCIA CLIMÁTICA EN LA HUELGA MUNDIAL POR EL CLIMA
+## Miles de personas se rebelan contra la emergencia climática en la huelga mundial por el clima
 
 Rebel·lió o Extinció Barcelona, como parte de las plataformas convocantes de las movilizaciones, ha estado activa durante toda la semana para reclamar acciones inmediatas para parar la emergencia climática y exponer la crisis a la sociedad.
 

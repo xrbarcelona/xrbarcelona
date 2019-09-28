@@ -10,7 +10,7 @@ tags:
   - xrbarcelona
 ---
 
-## MILERS DE PERSONES ES REBEL·LEN CONTRA L’EMERGÈNCIA CLIMÀTICA EN LA VAGA MUNDIAL PEL CLIMA
+## Milers de persones es rebel len contra l emergència climàtica en la vaga mundial pel clima
 
 Rebel·lió o Extinció Barcelona, com a part de les plataformes convocants de les mobilitzacions, ha estat activa durant tota la setmana per tal de reclamar accions immediates per a aturar l’emergència climàtica i exposar la crisi a la societat.
 
