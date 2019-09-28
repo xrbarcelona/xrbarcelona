@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: ca
-title: Vaga mundial pel clima
+title: Vaga Mundial pel Clima
 date: 2019-09-27T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-09-27-meeting-mayor-of-barcelona.jpg
@@ -18,7 +18,7 @@ La setmana del 20 al 27 de setembre, ha demostrat la força del moviment de reiv
 
 En aquest sentit, Rebel·lió o Extinció Barcelona hem estat una part clau de les lluites, com ja vam demostrar amb l’acció directa del passat 22 de setembre, o en la participació en la vaga climàtica d’avui. Conjuntament amb moviments com Fridays For Future estem aconseguint fer cada cop més visible la necessitat d’actuar de manera immediata per evitar l’extinció a què ens està abocant el sistema tòxic en què vivim. Els oceans s’estan alçant, i nosaltres també.
 
-![Reunion amb l'alcaldessa de Barcelona](/img/blog/2019-09-27-meeting-mayor-of-barcelona.jpg)
+![Reunion con l'alcaldessa de Barcelona](/img/blog/2019-09-27-meeting-mayor-of-barcelona.jpg)
 
 D’entre les accions d’avui, en destaquem no només l’acció i mobilització civil, sinó que haguem arribat a reunir-nos amb Ada Colau, alcaldessa de Barcelona, per tal de discutir la implementació de set accions concretes que pot posar en marxa durant aquest mandat, en els propers quatre anys. Rebel·lió o Extinció Barcelona, conjuntament amb els col·lectius Climacció, Families For Future Barcelona, Fridays For Future Barcelona i el Moviment per la Justícia Climàtica, seguirem lluitant per a què les persones que ens governen implementin de manera immediata mesures com les que hem presentat per evitar la nostra extinció.
 
