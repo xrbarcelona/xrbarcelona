@@ -6,6 +6,11 @@ title: Press
 heading: Latest mentions
 ---
 
+25/10/2019 - alacarta.cat  
+[Badalona Tres60, 25 de Setembre de 2019 - 46m 15s](http://bdncom.alacarta.cat/badalona-tres60/capitol/25-de-setembre-de-2019-tres60)  
+_(Català)_
+
+
 22/09/2019 - TV3  
 [Acció alternativa de Fridays for Future en el Dia sense Cotxes a Barcelona](https://www.ccma.cat/tv3/alacarta/telenoticies-migdia/accio-alternativa-de-fridays-for-future-en-el-dia-sense-cotxes-a-barcelona/video/5922894/)  
 _(Català)_
@@ -23,6 +28,11 @@ _(Català)_
 
 22/09/2019 - betevé    
 [Mig centenar de persones tallen la Meridiana contra el Dia sense Cotxes](https://beteve.cat/medi-ambient/meridiana-protesta-dia-sense-cotxes-2019/)  
+_(Català)_
+
+
+19/09/2019 - El Jardí  
+[El moviment Rebel·lió o Extinció protesta contra la crisi climàtica](https://www.diarieljardi.cat/rumb-a-lextincio/)  
 _(Català)_
 
 
@@ -190,7 +200,12 @@ _(Català)_
 _(Català)_
 
 
-04/04/2109 - La Vanguardia  
+05/04/2019 - parlament.cat  
+[Comissió de Control de l'Actuació de la Corporació Catalana de Mitjans Audiovisuals: pregunta sobre el tractament informatiu de l'emergència climàtica](https://vilaweb.cat/noticies/extinction-rebellion)  
+_(Català)_
+
+
+04/04/2019 - La Vanguardia  
 [Medio centenar de expertos documentarán en una jornada maratoniana la crisis climática en Catalunya](https://lavanguardia.com/natural/actualidad/20190404/461447563105/medio-centenar-de-expertos-documentaran-en-una-jornada-maratoniana-la-crisis-climatica-en-catalunya.html)  
 _(Castellano)_
 

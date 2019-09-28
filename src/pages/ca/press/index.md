@@ -26,8 +26,13 @@ _(Català)_
 _(Català)_
 
 
-22/09/2019 - betevé    
+22/09/2019 - betevé  
 [Mig centenar de persones tallen la Meridiana contra el Dia sense Cotxes](https://beteve.cat/medi-ambient/meridiana-protesta-dia-sense-cotxes-2019/)  
+_(Català)_
+
+
+19/09/2019 - El Jardí  
+[El moviment Rebel·lió o Extinció protesta contra la crisi climàtica](https://www.diarieljardi.cat/rumb-a-lextincio/)  
 _(Català)_
 
 
@@ -193,7 +198,12 @@ _(Català)_
 _(Català)_
 
 
-04/04/2109 - La Vanguardia  
+05/04/2019 - parlament.cat  
+[Comissió de Control de l'Actuació de la Corporació Catalana de Mitjans Audiovisuals: pregunta sobre el tractament informatiu de l'emergència climàtica](https://vilaweb.cat/noticies/extinction-rebellion)  
+_(Català)_
+
+
+04/04/2019 - La Vanguardia  
 [Medio centenar de expertos documentarán en una jornada maratoniana la crisis climática en Catalunya](https://lavanguardia.com/natural/actualidad/20190404/461447563105/medio-centenar-de-expertos-documentaran-en-una-jornada-maratoniana-la-crisis-climatica-en-catalunya.html)  
 _(Castellano)_
 
