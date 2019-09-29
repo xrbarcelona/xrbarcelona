@@ -56,6 +56,12 @@ export const IndexPageTemplate = ({
                 {intl[languageKey].ourDemands}
               </h3>
               <DemandsGrid gridItems={intro.demands} />
+              <div className="join-us">
+                <h3 className="has-text-centered">
+                  {intl[languageKey].joinTheRebellion}
+                </h3>
+                <JoinUsForm languageKey={languageKey} />
+              </div>
               <h3 className="has-text-centered">
                 {intl[languageKey].events}
               </h3>
@@ -65,13 +71,7 @@ export const IndexPageTemplate = ({
                   {intl[languageKey].seeAllEvents} →
                 </Link>
               </div>
-              <div className="join-us">
-                <h3 className="has-text-centered">
-                  {intl[languageKey].joinTheRebellion}
-                </h3>
-                <JoinUsForm languageKey={languageKey} />
-              </div>
-              <h3 className="has-text-centered">
+              <h3 className="latest-stories has-text-centered">
                 {intl[languageKey].latestStories}
               </h3>
               { localizedBlogRoll(languageKey) }
