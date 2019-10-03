@@ -6,7 +6,12 @@ title: Prensa
 heading: Últimas menciones
 ---
 
-25/10/2019 - alacarta.cat  
+02/10/2019 - elpais.com  
+[Los ecologistas reprochan a Colau falta de ambición en el plan climático](https://elpais.com/ccaa/2019/10/02/catalunya/1570028683_381023.html)  
+_(Castellano)_
+
+
+25/09/2019 - alacarta.cat  
 [Badalona Tres60, 25 de Setembre de 2019 - 46m 15s](http://bdncom.alacarta.cat/badalona-tres60/capitol/25-de-setembre-de-2019-tres60)  
 _(Català)_
 
