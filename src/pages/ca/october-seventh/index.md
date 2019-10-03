@@ -29,10 +29,10 @@ Oferim formació en ADNV per a qui encara no la tingui durant tot el mes de Sept
 
 ### Descarregueu les guies
 
-[![Informacio Legals](/img/events/2019-10-03-info-legales.jpeg)](/docs/2019-10-07-info-legal-ADNV-spain.pdf)  
+[![Informacio Legals](/img/events/2019-10-03-info-legales.jpeg)](/docs/2019-10-07-info-legal-ADNV-spain.pdf)
 *(Castellano)*
 
-[![FAQ](/img/events/2019-10-03-preguntas-frequentes.jpeg)](/docs/2019-10-07-preguntas-frecuentes-ADNV-spain.pdf)  
+[![FAQ](/img/events/2019-10-03-preguntas-frequentes.jpeg)](/docs/2019-10-07-preguntas-frecuentes-ADNV-spain.pdf)
 *(Castellano)*
 
 ## Si vols venir amb nosaltres a Madrid des de Barcelona, escriu-nos a:

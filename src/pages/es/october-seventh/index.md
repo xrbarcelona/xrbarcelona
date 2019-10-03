@@ -27,10 +27,10 @@ Indirectamente, apoyando solidariamente la acción, pero sin intervenir en la mi
 
 ### Descarga las guías
 
-[![Informacio Legals](/img/events/2019-10-03-info-legales.jpeg)](/docs/2019-10-07-info-legal-ADNV-spain.pdf)  
+[![Informacio Legals](/img/events/2019-10-03-info-legales.jpeg)](/docs/2019-10-07-info-legal-ADNV-spain.pdf)
 *(Castellano)*
 
-[![FAQ](/img/events/2019-10-03-preguntas-frequentes.jpeg)](/docs/2019-10-07-preguntas-frecuentes-ADNV-spain.pdf)  
+[![FAQ](/img/events/2019-10-03-preguntas-frequentes.jpeg)](/docs/2019-10-07-preguntas-frecuentes-ADNV-spain.pdf)
 *(Castellano)*
     
 ## Si quieres venir con nosotres a Madrid desde Barcelona, escríbenos a:  
