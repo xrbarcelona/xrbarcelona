@@ -11,6 +11,11 @@ heading: Latest mentions
 _(Castellano)_
 
 
+30/09/2019 - eldiario.es  
+[Una ola de rebelión climática que empuje la transición](https://www.eldiario.es/ultima-llamada/ola-rebelion-climatica-empuje-transicion_6_947765215.html)  
+_(Castellano)_
+
+
 25/09/2019 - alacarta.cat  
 [Badalona Tres60, 25 de Setembre de 2019 - 46m 15s](http://bdncom.alacarta.cat/badalona-tres60/capitol/25-de-setembre-de-2019-tres60)  
 _(Català)_
