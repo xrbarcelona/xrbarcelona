@@ -27,7 +27,13 @@ There will be different roles, with different levels of exposure:
 - You can also join in later to support and help create a multitude/mass (Support). 
 - You can participate indirectly, supporting the action without taking part in the action itself, solidary support, by supporting us on social media, donating or writing an opinion article for a newspaper, for example”.
 
-**More details to come, save the date!**
+### Donwload the guides
+
+[![Informacio Legals](/img/events/2019-10-03-info-legales.jpeg)](/docs/2019-10-07-info-legal-ADNV-spain.pdf)  
+*(Castellano)*
+
+[![FAQ](/img/events/2019-10-03-preguntas-frequentes.jpeg)](/docs/2019-10-07-preguntas-frecuentes-ADNV-spain.pdf)  
+*(Castellano)*
 
 ## If you want to come with us to Madrid from Barcelona, send an email to: 
 # [xrbarcelona@riseup.net](mailto:xrbarcelona@riseup.net)  

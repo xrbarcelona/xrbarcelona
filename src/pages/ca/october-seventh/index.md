@@ -27,7 +27,13 @@ Oferim formació en ADNV per a qui encara no la tingui durant tot el mes de Sept
 - Segona línia: en grup que s'incorpora després perquè siguem una multitud/massa suficient (Suport).
 - Indirectament: donant suport solidari a l'acció, però sense intervenir en aquesta, com per exemple donant suport a les xarxes, escrivint cartes d'opinió als diaris, fent una donació, o el que se t'acudeixi!
 
-### Més detalls pròximament - guarda la data!
+### Descarregueu les guies
+
+[![Informacio Legals](/img/events/2019-10-03-info-legales.jpeg)](/docs/2019-10-07-info-legal-ADNV-spain.pdf)  
+*(Castellano)*
+
+[![FAQ](/img/events/2019-10-03-preguntas-frequentes.jpeg)](/docs/2019-10-07-preguntas-frecuentes-ADNV-spain.pdf)  
+*(Castellano)*
 
 ## Si vols venir amb nosaltres a Madrid des de Barcelona, escriu-nos a:
 # [xrbarcelona@riseup.net](mailto:xrbarcelona@riseup.net)

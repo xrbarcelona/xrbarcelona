@@ -15,7 +15,6 @@ En vista de la pasividad de los gobiernos del mundo ante la gravísima crisis ec
 
 **El 7 de octubre de 2019 en Madrid** será la acción de desobediencia civil pacífica de XR Spain. Reclamaremos responsabilidad y acción política dada la gravedad de la situación y exigiremos que declaren la emergencia climática y ecológica de acuerdo a nuestras tres demandas: decir la verdad, actuar ahora y asambleas ciudadanas.
 
-
 Para ayudarnos a organizar esta acción, rogamos inscripción previa en el formulario de más abajo, con el fin de disponer de tiempo suficiente para los preparativos y conocer las fuerzas de las que disponemos para realizarla. Estamos trabajando para poder facilitar algún tipo de alojamiento y desplazamiento, así como formación en acción directa no violenta (ADNV).
 
 *Hay distintas maneras de participar:*
@@ -26,7 +25,13 @@ Puedes participar en el núcleo central que despliega y da comienzo a la acción
 O puedes incorporarte después para que seamos una multitud/masa (Apoyo). Y, por último
 Indirectamente, apoyando solidariamente la acción, pero sin intervenir en la misma (Apoyo solidario).
 
-### Más detalles próximamente - guarda la fecha!  
+### Descarga las guías
+
+[![Informacio Legals](/img/events/2019-10-03-info-legales.jpeg)](/docs/2019-10-07-info-legal-ADNV-spain.pdf)  
+*(Castellano)*
+
+[![FAQ](/img/events/2019-10-03-preguntas-frequentes.jpeg)](/docs/2019-10-07-preguntas-frecuentes-ADNV-spain.pdf)  
+*(Castellano)*
     
 ## Si quieres venir con nosotres a Madrid desde Barcelona, escríbenos a:  
 # [xrbarcelona@riseup.net](mailto:xrbarcelona@riseup.net)
