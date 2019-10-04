@@ -4,7 +4,7 @@ languageKey: en
 title: XR BCN October Newsletter, 2019
 date: 2019-10-04T16:04:10.000Z
 featuredpost: false
-featuredimage: /img/blog/2019-09-27-brisafenoy1.jpg
+featuredimage: /img/blog/common/butlleti.jpg
 description: >-
 tags:
   - xrbarcelona
