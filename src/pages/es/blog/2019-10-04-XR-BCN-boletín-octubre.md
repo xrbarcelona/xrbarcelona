@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: es
-title: Boletín de Octubre 2019
+title: XR BCN Boletín de Octubre 2019
 date: 2019-10-04T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
@@ -10,8 +10,6 @@ tags:
   - newletter
   - xrbarcelona
 ---
-
-## XR BCN Boletín de Octubre, 2019
 
 ![XR BCN Boletín Octubre Header](2019-10-04-October-header-CAST.jpg)
 
