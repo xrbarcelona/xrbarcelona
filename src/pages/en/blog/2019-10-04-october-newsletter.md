@@ -76,13 +76,15 @@ The Welcome and Training Committee has had a busy month welcoming new rebels int
 
 This month, the Action Committee has held four training sessions on nonviolent direct action (ADNV), the core methodology behind the Extinction Rebellion movement. The training sessions are a chance to learn the basics of ADNV, why it works for XR, what techniques exist, the legal questions and risks, and how to work together as a group. The sessions are essential for forming the bonds of trust necessary for nonviolent direct action to be a success, which is why participating in at least one training afternoon is a requirement for anyone who wishes to take part in an action with XR Barcelona. 
 
+![See you on the streets.](2019-10-04-XR-Barcelona-Vaga-Mundial-pel-Clima.jpg)
+
 ### THE ROAD TO MADRID: PREPARING FOR THE SECOND INTERNATIONAL REBELLION
 
 The moment has finally arrived – we’re heading to Madrid for the Second International Rebellion! On 7 October, XR rebels around the world will take to the streets in a simultaneous, nonviolent act of civil disobedience, with the objective of causing enough economic disruption to force governments to tell the truth about the climate crisis and act now to solve it. In preparation, rebels from XR Barcelona have undertaken ADNV training and participated in two formative workshops to strengthen the bonds between us. And now, we’re ready to rebel!
 
 (P.S. If you can’t come to Madrid but wish to participate in a parallel action in Barcelona, speak up in the group chat and you will be added to the right group!)
 
-![See you on the streets.](2019-10-04-XR-Barcelona-Vaga-Mundial-pel-Clima.jpg)
+
 
 That’s it for this month’s XR Barcelona newsletter. Thanks to each and every one of you for the amazing things you’ve done for the planet in the last four weeks. We leave you with a last piece of inspiration: a letter written by one XR Barcelona rebel to their boss, explaining [why they won’t be at work on Monday…](https://xrbarcelona.org/en/blog/2019-09-29-a-message-of-rebellion/)
 
