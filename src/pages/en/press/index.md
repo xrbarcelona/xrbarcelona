@@ -6,6 +6,11 @@ title: Press
 heading: Latest mentions
 ---
 
+05/10/2019 - Som Energia  
+[Intervenció d'XR Barcelona a la taula rodona de l'Escola Som Energia](https://www.youtube.com/watch?v=x7Hn3PG1Ifs&feature=youtu.be)  
+_(Català)_
+
+
 02/10/2019 - EL PAÍS  
 [Los ecologistas reprochan a Colau falta de ambición en el plan climático](https://elpais.com/ccaa/2019/10/02/catalunya/1570028683_381023.html)  
 _(Castellano)_
