@@ -7,7 +7,7 @@ heading: Últimas menciones
 ---
 
 05/10/2019 - Som Energia  
-[Intervenció d'XR Barcelona a la taula rodona de l'Escola Som Energia](https://www.youtube.com/watch?v=x7Hn3PG1Ifs&feature=youtu.be)  
+[Intervenció d'XR Barcelona a la taula rodona de l'Escola Som Energia - 3h 2m](https://www.youtube.com/watch?v=x7Hn3PG1Ifs&feature=youtu.be)  
 _(Català)_
 
 
