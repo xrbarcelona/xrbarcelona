@@ -23,7 +23,7 @@ En sólo unos días estaremos en Madrid en la acción no-violenta más grande de
 
 ### TODAS JUNTAS: HUELGA MUNDIAL POR EL CLIMA, 20-27 DE SEPTIEMBRE
 
-Del 20 al 27 de septiembre, millones de ciudadanas de todo el mundo tomaron parte en la Huelga Mundial por el Clima convocada por Fridays For Future. ¡Fue la semana que todas habíamos estado esperando y, más importante aún, trabajando para que saliera adelante! Desde dar charlas sobre la crisis climática hasta organizar sesiones de artivismo, creación de pósters o flyers, acciones, performances y logística de la huelga, las rebeldes de XR Barcelona nos unimos para dar apoyo a nuestras amigas de Fridays For Future y conseguir que el máximo número de gente posible se uniera a la Huelga Mundial por el Clima. Y funcionó: el viernes 27 de septiembre, después de una semana de actividades de concienciación, unas 100.000 personas se manifestaron en Barcelona para exigir acciones para el planeta, llevando con ellas una nueva ola de esperanza.
+Del 20 al 27 de septiembre, millones de ciudadanas de todo el mundo tomaron parte en la Huelga Mundial por el Clima convocada por Fridays For Future. ¡Fue la semana que todas habíamos estado esperando y, más importante aún, trabajando para que saliera adelante! Desde dar charlas sobre la crisis climática hasta organizar sesiones de artivismo, creación de pósters o flyers, acciones, performances y logística de la huelga, las rebeldes de XR Barcelona nos unimos para dar apoyo a nuestras amigas de Fridays For Future y conseguir que el máximo número de gente posible se uniera a la Huelga Mundial por el Clima. Y funcionó: el viernes 27 de septiembre, después de una semana de actividades de concienciación, unas 100.000 personas se manifestaron en Barcelona para exigir acciones para el planeta, llevando con ellas una nueva ola de esperanza.[Aquí encontrarás el vídeo.](https://youtu.be/n1AzUlPVw9s)
 
 ![Representantes de los grupos activistas ambientales de Barcelona se reúnen con Ada Colau](2019-10-04-Barcelona-Environmental-Activists-meet-Ada-Colau.jpg)
 
@@ -35,7 +35,7 @@ Mientras muchas de nosotras nos preparábamos para la manifestación del viernes
 
 ### REBELIÓN EN EL “DÍA SIN COCHES” DE BARCELONA
 
-El domingo 22 de septiembre Barcelona celebró el “día sin coches”, el cual no impidió la entrada de muchos vehículos a la ciudad. Como respuesta, rebeldes de XR Barcelona nos unimos con Fridays For Future para bloquear la Avinguda Meridiana durante una hora, con algunos rebeldes aguantando en primera línea mientras otras tomaban parte en actividades más pacíficas por detrás. [¡Aquí encontrarás el vídeo!](https://www.ccma.cat/tv3/alacarta/telenoticies/accio-alternativa-de-fridays-for-future-en-el-dia-sense-cotxes-a-barcelona/video/5922894/)
+El domingo 22 de septiembre Barcelona celebró el “día sin coches”, el cual no impidió la entrada de muchos vehículos a la ciudad. Como respuesta, rebeldes de XR Barcelona nos unimos con Fridays For Future para bloquear la Avinguda Meridiana durante una hora, con algunos rebeldes aguantando en primera línea mientras otras tomaban parte en actividades más pacíficas por detrás. [Aquí encontrarás el vídeo.](https://www.ccma.cat/tv3/alacarta/telenoticies/accio-alternativa-de-fridays-for-future-en-el-dia-sense-cotxes-a-barcelona/video/5922894/)
 
 ![Acción de XR Barcelona en un evento de Repsol](2019-10-04-XR-Barcelona-Repsol-action.jpg)
 
@@ -53,7 +53,7 @@ El 9 de septiembre, rebeldes de XR Barcelona y XR Madrid protestaron ante el Con
 
 ### XR BARCELONA INSPIRA A TRAVÉS DE CHARLAS Y DEBATES
 
-El comité de charlas de XR Barcelona ha estado llevando a cabo trabajo extra este mes, dando charlas sobre la crisis climática y ecológica por toda Barcelona y alrededores. En ellas, pusimos de manifiesto los hechos científicos de la situación que vivimos y tratamos una variedad de temas, como el futuro del trabajo y su impacto en la crisis, la cultura regenerativa y sus dinámicas, el ecosocialismo, la movilización masiva y los valores uly metodología de XR. Estas charlas juegan un papel fundamental para informar al público general sobre la crisis y para animar a más gente a implicarse. Si quieres usar tu voz por XR Barcelona, dilo en el chat del grupo. ¡Nuevas orador as son siempre necesarias y no requerimos experiencia previa!
+El comité de charlas de XR Barcelona ha estado llevando a cabo trabajo extra este mes, dando charlas sobre la crisis climática y ecológica por toda Barcelona y alrededores. En ellas, pusimos de manifiesto los hechos científicos de la situación que vivimos y tratamos una variedad de temas, como el futuro del trabajo y su impacto en la crisis, la cultura regenerativa y sus dinámicas, el ecosocialismo, la movilización masiva y los valores y metodología de XR. Estas charlas juegan un papel fundamental para informar al público general sobre la crisis y para animar a más gente a implicarse. Si quieres usar tu voz por XR Barcelona, dilo en el chat del grupo. ¡Nuevas orador as son siempre necesarias y no requerimos experiencia previa!
 
 ![Una sesión de hacer máscaras](2019-10-04-art-mask-workshop.jpg)
 
