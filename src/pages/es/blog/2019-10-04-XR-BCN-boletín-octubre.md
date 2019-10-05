@@ -59,7 +59,7 @@ El comité de charlas de XR Barcelona ha estado llevando a cabo trabajo extra es
 
 ### ARTIVISMO CON XR BARCELONA
 
-La comisión de arte ha sido una fuerza imparable este mes, con sesiones bisemanales de estampar camisetas y banderas para que las rebeldes pudiéramos hacer materiales de protesta, así como un taller especial de creación de máscaras con papel maché. Una rebelde artística nos inspiró con un mural hecho cerca de una escuela local, mientras que la Blue Brigade de XR Barcelona estuvo noche tras noche reuniéndose con el público general en ubicaciones específicas para difundir la rebelión. ¿No habíamos dicho que eran imparables?
+La comisión de arte ha sido una fuerza imparable este mes, con sesiones bisemanales de estampar camisetas y banderas para que las rebeldes pudiéramos hacer materiales de protesta, así como un taller especial de creación de máscaras con papel maché. Un rebelde artístico nos inspiró con un mural hecho cerca de una escuela local, mientras que la Blue Brigade de XR Barcelona estuvo noche tras noche reuniéndose con el público general en ubicaciones específicas para difundir la rebelión. ¿No habíamos dicho que eran imparables?
 
 ![El mural conmoviente de un rebelde](2019-10-04-Climate-crisis-mural-Barcelona.png)
 
