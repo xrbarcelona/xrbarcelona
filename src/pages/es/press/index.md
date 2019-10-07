@@ -6,6 +6,31 @@ title: Prensa
 heading: Últimas menciones
 ---
 
+07/10/2019 - El Diario
+[Activistas cortan el tráfico y acampan en Madrid para exigir medidas contra la crisis climática ](https://m.eldiario.es/sociedad/activistas-ecologistas-trafico-medidas-climatica_0_950155026.html)  
+_(Castellano)_
+
+
+07/10/2019 - Greenpeace 
+[Cientos de activistas ocupan el puente de Nuevos Ministerios en Madrid para pedir accion frente a la emergencia climática ](https://es.greenpeace.org/es/noticias/rebelionclimatica7o/)  
+_(Castellano)_
+
+
+07/10/2019 - Público 
+[Detenidos varios ecologistas tras cortar el tráfico en el centro de Madrid](https://www.publico.es/sociedad/medioambiente-grupo-ecologista-corta-trafico-castellana-madrilena-plena-hora-punta.html)  
+_(Castellano)_
+
+
+07/10/2019 - La Sexta 
+[Cortan el tráfico y acampan frente al Ministerio de Transición Ecológica para exigir medidas por el clima](https://www.lasexta.com/noticias/sociedad/empieza-la-rebelion-por-el-clima-activistas-ecologistas-cortan-la-castellana-a-la-altura-de-nuevos-ministerios_201910075d9ae7330cf2b33c9d0d763a.html)  
+_(Castellano)_
+
+
+07/10/2019 - RTVE.es 
+[Madrid se suma a las protestas pacíficas mundiales por la emergencia ecológica](http://www.rtve.es/noticias/20191007/grupo-activistas-clima-corta-trafico-madrid/1980827.shtml)  
+_(Castellano)_
+
+
 05/10/2019 - Som Energia  
 [Intervenció d'XR Barcelona a la taula rodona de l'Escola Som Energia - 3h 2m](https://www.youtube.com/watch?v=x7Hn3PG1Ifs&feature=youtu.be)  
 _(Català)_
@@ -18,11 +43,13 @@ _(Castellano)_
 
 30/09/2019 - eldiario.es  
 [Una ola de rebelión climática que empuje la transición](https://www.eldiario.es/ultima-llamada/ola-rebelion-climatica-empuje-transicion_6_947765215.html)  
+
 _(Castellano)_
 
 
 25/09/2019 - alacarta.cat  
 [Badalona Tres60, 25 de Setembre de 2019 - 46m 15s](http://bdncom.alacarta.cat/badalona-tres60/capitol/25-de-setembre-de-2019-tres60)  
+
 _(Català)_
 
 

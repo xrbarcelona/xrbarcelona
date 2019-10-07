@@ -6,6 +6,31 @@ title: Press
 heading: Latest mentions
 ---
 
+07/10/2019 - El Diario  
+[Activistas cortan el tráfico y acampan en Madrid para exigir medidas contra la crisis climática ](https://m.eldiario.es/sociedad/activistas-ecologistas-trafico-medidas-climatica_0_950155026.html)  
+_(Castellano)_
+
+
+07/10/2019 - Greenpeace  
+[Cientos de activistas ocupan el puente de Nuevos Ministerios en Madrid para pedir accion frente a la emergencia climática ](https://es.greenpeace.org/es/noticias/rebelionclimatica7o/)  
+_(Castellano)_
+
+
+07/10/2019 - Público   
+[Detenidos varios ecologistas tras cortar el tráfico en el centro de Madrid](https://www.publico.es/sociedad/medioambiente-grupo-ecologista-corta-trafico-castellana-madrilena-plena-hora-punta.html)  
+_(Castellano)_
+
+
+07/10/2019 - La Sexta  
+[Cortan el tráfico y acampan frente al Ministerio de Transición Ecológica para exigir medidas por el clima](https://www.lasexta.com/noticias/sociedad/empieza-la-rebelion-por-el-clima-activistas-ecologistas-cortan-la-castellana-a-la-altura-de-nuevos-ministerios_201910075d9ae7330cf2b33c9d0d763a.html)  
+_(Castellano)_
+
+
+07/10/2019 - RTVE.es  
+[Madrid se suma a las protestas pacíficas mundiales por la emergencia ecológica](http://www.rtve.es/noticias/20191007/grupo-activistas-clima-corta-trafico-madrid/1980827.shtml)  
+_(Castellano)_
+
+
 05/10/2019 - Som Energia  
 [Intervenció d'XR Barcelona a la taula rodona de l'Escola Som Energia - 3h 2m](https://www.youtube.com/watch?v=x7Hn3PG1Ifs&feature=youtu.be)  
 _(Català)_
@@ -82,6 +107,9 @@ _(Català)_
 
 23/08/2019 - Europa Press  
 [Más de 200 personas piden la dimisión de Bolsonaro ante el Consulado de Brasil en Barcelona](https://www.europapress.es/catalunya/noticia-mas-200-personas-piden-dimision-bolsonaro-consulado-brasil-barcelona-20190823151907.html)  
+_(Castellano)_
+
+
 23/08/2019 - La Vanguardia  
 [Más de 200 personas piden la dimisión de Bolsonaro ante el Consulado de Brasil en Barcelona](https://www.lavanguardia.com/local/barcelona/20190823/464214632584/mas-de-200-personas-piden-la-dimision-de-bolsonaro-ante-el-consulado-de-brasil-en-barcelona.html)  
 _(Castellano)_
