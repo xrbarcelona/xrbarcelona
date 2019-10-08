@@ -6,6 +6,44 @@ title: Prensa
 heading: Últimas menciones
 ---
 
+08/10/2019 - Público  
+[Centenares de activistas se formaron en un polideportivo para la "Rebelión climática"](https://www.publico.es/sociedad/lucha-cambio-climatico-embargado-fecha-fraguado-madrid-accion-desobediencia-civil-2020-rebelion-clima-organizado-rebelion-climatica-madrid.html)  
+_(Castellano)_
+
+
+07/10/2019 - RT  
+[Madrid se suma a las protestas contra el cambio climático](https://actualidad.rt.com/actualidad/329514-madrid-protestas-cambio-climatico-activistas-acampan)  
+_(Castellano)_
+
+
+07/10/2019 - eldiario.es  
+[Carreras, un barco de vela y 35 tiendas de campaña para que no se olvide la crisis climática: "Decid la verdad" ](https://www.eldiario.es/sociedad/acampada-climatica_0_950155885.html)  
+_(Castellano)_
+
+
+07/10/2019 - CCMA  
+[Els ecologistes ocupen vies de Madrid per denunciar la crisi climàtica - 1m 10s](https://www.ccma.cat/tv3/alacarta/telenoticies-migdia/els-ecologistes-ocupen-vies-de-madrid-per-denunciar-la-crisi-climatica/video/5932034/)  
+_(Català)_
+
+07/10/2019 - EL PAÍS  
+[Los activistas del clima acampan frente al Ministerio de Transición Ecológica](https://elpais.com/sociedad/2019/10/07/actualidad/1570430675_051785.html)  
+_(Castellano)_
+
+07/10/2019 - EFE Verde  
+[Jóvenes por el clima acampan ante el Ministerio para la Transición Ecológica](https://www.efeverde.com/noticias/jovenes-clima-acampan-ante-ministerio/)  
+_(Castellano)_
+
+
+07/10/2019 - 20 Minutos  
+[¿Qué es 'Extinction Rebellion', el movimiento que exige acciones urgentes contra la crisis climática?](https://www.20minutos.es/noticia/3791388/0/que-es-extinction-rebellion)  
+_(Castellano)_
+
+
+07/10/2019 - CCMA  
+[Onada global de protestes d'Extinction Rebellion per frenar la crisi climàtica](https://www.ccma.cat/324/accions-de-bloqueig-dextinction-rebellion-per-la-crisi-climatica-a-madrid-i-60-ciutats/noticia/2953100/)  
+_(Català)_
+
+
 07/10/2019 - El Diario  
 [Activistas cortan el tráfico y acampan en Madrid para exigir medidas contra la crisis climática ](https://m.eldiario.es/sociedad/activistas-ecologistas-trafico-medidas-climatica_0_950155026.html)  
 _(Castellano)_
