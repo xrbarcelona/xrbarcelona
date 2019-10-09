@@ -14,7 +14,7 @@ Llegamos a la conclusión de que la campaña de Extinction Rebellion es una gran
 Desde entonces, hemos estado trabajando en cooperación con otros grupos nacionales e internacionales, así como con otros movimientos locales que se alinean con nuestras demandas y principios.
 
 
-### LA NUESTRA ESTRATEGIA
+### NUESTRA ESTRATEGIA
 
 Al centre de la filosofia d’Extinction Rebellion es troba la violència civil no violenta.
 Promovem la desobediència civil i la rebel·lió perquè creiem que és necessari – estem demanant a la gent que trobi el seu coratge i faci col·lectivament allò que és necessari per a provocar el canvi.
