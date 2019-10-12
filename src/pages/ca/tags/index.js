@@ -6,9 +6,6 @@ import Layout from '../../../components/Layout'
 const TagsPage = ({
   data: {
     allMarkdownRemark: { group },
-    site: {
-      siteMetadata: { title },
-    },
   },
 }) => (
   <Layout languageKey="ca" title="Tags">

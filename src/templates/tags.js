@@ -1,5 +1,4 @@
 import React from 'react'
-import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import intl from '../intl/locales'
@@ -15,16 +14,14 @@ class TagRoute extends React.Component {
       </li>
     ))
     const tag = this.props.pageContext.tag
-    const title = this.props.data.site.siteMetadata.title
     const totalCount = this.props.data.allMarkdownRemark.totalCount
     const tagHeader = `${totalCount} post${
       totalCount === 1 ? '' : 's'
     } tagged with “${tag}”`
 
     return (
-      <Layout languageKey={intl.defaultLocale}>
+      <Layout languageKey={intl.defaultLocale} title="Tags">
         <section className="section">
-          <Helmet title={`${tag} | ${title}`} />
           <div className="container content">
             <div className="columns">
               <div
@@ -49,11 +46,6 @@ export default TagRoute
 
 export const tagPageQuery = graphql`
   query TagPage($tag: String) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(
       limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
