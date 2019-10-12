@@ -47,11 +47,11 @@ class IndexRedirect extends React.Component {
 
       const queryParams = search || ""
       const newUrl = withPrefix(`/${detectedLanguage}${pathname}${queryParams}`)
-      // window.location.replace(newUrl)
+      window.location.replace(newUrl)
     }
     
     return (
-      <Layout languageKey="ca" baseColorClass="bg-xr-pink">
+      <Layout languageKey="en" baseColorClass="bg-xr-pink">
         <LanguageLandingPage />
       </Layout>
     )
