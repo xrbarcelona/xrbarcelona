@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
@@ -11,23 +10,19 @@ const baseColorClass="bg-xr-light-green"
 export const BlogPostTemplate = ({
   content,
   contentComponent,
-  description,
   tags,
   title,
-  helmet,
 }) => {
   const PostContent = contentComponent || Content
 
   return (
     <section className="section">
-      {helmet || ''}
       <div className="container content blog-container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -53,27 +48,19 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  helmet: PropTypes.object,
 }
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
+  const languageKey = post.frontmatter.languageKey
 
   return (
-    <Layout languageKey={post.frontmatter.languageKey} baseColorClass={baseColorClass}>
+    <Layout languageKey={languageKey} baseColorClass={baseColorClass}
+            title={post.frontmatter.title} description={post.frontmatter.description}
+            featuredImage={post.frontmatter.featuredimage}>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
-        description={post.frontmatter.description}
-        helmet={
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
-            <meta
-              name="description"
-              content={`${post.frontmatter.description}`}
-            />
-          </Helmet>
-        }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
@@ -102,6 +89,13 @@ export const pageQuery = graphql`
         title
         languageKey
         description
+        featuredimage {
+          childImageSharp {
+            resize(width: 400, quality: 70) {
+              src
+            }
+          }
+        }
         tags
       }
     }

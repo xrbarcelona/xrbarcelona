@@ -3,8 +3,8 @@ const intl = {
     locales: ['ca', 'es', 'en'],
     defaultLocale: 'ca',
     ca: {
-        headDefaultTitle: "Rebel·lió o Extinció - XR Barcelona",
-        headDefaultDescription: "Moviment internacional de desobediència civil. En basem en l'acció directa no violenta per a frenar l'extinció massiva i minimitzar el risc de col·lapse social",
+        defaultPageTitle: "Rebel·lió o Extinció | XR Barcelona",
+        defaultMetaDescription: "Moviment internacional de desobediència civil. En basem en l'acció directa no violenta per a frenar l'extinció massiva i minimitzar el risc de col·lapse social",
         languageName: "CA",
         keepReading: "Segueix llegint",
         readMore: "Llegeix més",
@@ -34,8 +34,8 @@ const intl = {
         },
     },
     es: {
-        headDefaultTitle: "Extinction Rebellion - XR Barcelona",
-        headDefaultDescription: "Movimiento internacional de desobediencia civil. Nos basamos en la acción directa no-violenta para frenar la extinción masiva y el riesgo de colapso social",
+        defaultPageTitle: "Extinction Rebellion | XR Barcelona",
+        defaultMetaDescription: "Movimiento internacional de desobediencia civil. Nos basamos en la acción directa no-violenta para frenar la extinción masiva y el riesgo de colapso social",
         languageName: "ES",
         keepReading: "Sigue leyendo",
         readMore: "Lee mas",
@@ -65,8 +65,8 @@ const intl = {
         },
     },
     en: {
-        headDefaultTitle: "Extinction Rebellion - XR Barcelona",
-        headDefaultDescription: "International civil disobedience movement. We use non-violent direct action to curb mass extinction and minimize the risk of social collapse",
+        defaultPageTitle: "Extinction Rebellion | XR Barcelona",
+        defaultMetaDescription: "International civil disobedience movement. We use non-violent direct action to curb mass extinction and minimize the risk of social collapse",
         languageName: "EN",
         keepReading: "Keep reading",
         readMore: "Read more",

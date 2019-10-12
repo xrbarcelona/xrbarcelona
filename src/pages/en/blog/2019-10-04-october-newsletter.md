@@ -5,7 +5,8 @@ title: October Newsletter
 date: 2019-10-04T16:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
-description: >-
+description: >
+  Read more about the Global Climate Strike, our meeting with Ada Colau, the action against Repsol and the preparation for October's International Rebellion
 tags:
   - xrbarcelona
 ---

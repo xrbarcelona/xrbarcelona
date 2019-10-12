@@ -6,22 +6,29 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 import intl from '../intl/locales'
 
-const siteDefaultHeadData = (languageKey) => {
-return {
-    title: intl[languageKey].headDefaultTitle,
-    description: intl[languageKey].headDefaultDescription
+const defaultHeadMetaData = (languageKey) => {
+  return {
+    defaultPageTitle: intl[languageKey].defaultPageTitle,
+    defaultMetaDescription: intl[languageKey].defaultMetaDescription
   }
 }
 
-const Layout = ({ languageKey, baseColorClass, children }) => {
-  const { title, description } = siteDefaultHeadData(languageKey)
+const Layout = ({ languageKey, baseColorClass, 
+                  title, description, featuredImage, 
+                  children }) => {
+  const { defaultPageTitle, defaultMetaDescription } = defaultHeadMetaData(languageKey)
+
+  const currentTitle = (title) ? `${title} | ${defaultPageTitle}` : defaultPageTitle
+  const currentDescription = (description) ? description : defaultMetaDescription
+  const currentFeaturedImage = (featuredImage) ? 
+      featuredImage.childImageSharp.resize.src : "/img/og-image.jpg"
 
   return (
     <div>
       <Helmet>
         <html lang={languageKey} />
-        <title>{title}</title>
-        <meta name="description" content={description} />
+        <title>{currentTitle}</title>
+        <meta name="description" content={currentDescription} />
 
         <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
         <link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32" />
@@ -30,9 +37,9 @@ const Layout = ({ languageKey, baseColorClass, children }) => {
         <meta name="theme-color" content="#fff" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:title" content={title} />
-        <meta property="og:url" content="/" />
-        <meta property="og:image" content="/img/og-image.jpg" />
+        <meta property="og:title" content={currentTitle} />
+        <meta property="og:image" content={currentFeaturedImage} />
+        <meta property="og:description" content={currentDescription} />
 
         <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700&display=swap" rel="stylesheet" /> 
         

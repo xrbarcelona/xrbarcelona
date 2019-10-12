@@ -130,7 +130,7 @@ export const pageQuery = graphql`
         languageKey
         image {
           childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
+            fluid(maxWidth: 2048, quality: 70) {
               ...GatsbyImageSharpFluid
             }
           }
