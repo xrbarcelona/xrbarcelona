@@ -1,13 +1,37 @@
 import React from 'react'
-import { Helmet } from 'react-helmet'
+import PropTypes from 'prop-types'
+import { Link } from 'gatsby'
+import Layout from '../components/Layout'
 import { withPrefix } from "gatsby"
 import intl from "../intl/locales"
 import browserLang from "browser-lang"
 
+
+export const LanguageLandingPage = () => (
+  <>
+    <section className="section">
+      <div className="columns is-multiline">
+        {intl.locales.map(locale => (
+          <div key={`${locale}-landing`} className="column is-4 has-text-centered">
+            <h3 className="has-text-weight-semibold is-size-4">
+              {intl[locale].languageChoice}
+            </h3>
+            <Link className="button is-size-4" to={`/${locale}/`}>
+              {intl[locale].languageName} →
+            </Link>
+          </div>
+        ))}
+      </div>
+    </section>
+  </>
+)
+
+LanguageLandingPage.propTypes = {
+  languageKey: PropTypes.string,
+}
+
 class IndexRedirect extends React.Component {
-
   render() {
-
     const { pathname, search } = this.props.location
 
     if (typeof window !== "undefined") {
@@ -27,9 +51,9 @@ class IndexRedirect extends React.Component {
     }
     
     return (
-      <Helmet>
-          <meta http-equiv="refresh" content={`0;url=${intl.defaultLocale}`} />
-      </Helmet>
+      <Layout languageKey="ca" baseColorClass="bg-xr-pink">
+        <LanguageLandingPage />
+      </Layout>
     )
   }
 }

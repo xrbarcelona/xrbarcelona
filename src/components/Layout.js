@@ -24,7 +24,7 @@ const Layout = ({ languageKey, baseColorClass,
       featuredImage.childImageSharp.resize.src : "/img/og-image.jpg"
 
   return (
-    <div>
+    <div className={baseColorClass}>
       <Helmet>
         <html lang={languageKey} />
         <title>{currentTitle}</title>
@@ -44,11 +44,9 @@ const Layout = ({ languageKey, baseColorClass,
         <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700&display=swap" rel="stylesheet" /> 
         
       </Helmet>
-      <div className={baseColorClass}>
-        <Navbar languageKey={languageKey} />
-        <div>{children}</div>
-        <Footer languageKey={languageKey} />
-      </div>
+      <Navbar languageKey={languageKey} />
+      <div>{children}</div>
+      <Footer languageKey={languageKey} />
     </div>
   )
 }
