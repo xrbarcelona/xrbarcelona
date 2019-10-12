@@ -74,4 +74,4 @@ _Marquesines Rebels Barcelona_
 
 ![Els anuncis rebels](/img/blog/anuncis_rebels_6.jpg)
 
-### Uneix-te a la Rebel-lió!
+### Uneix-te a la Rebel·lió!

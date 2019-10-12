@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: en
-title: XR BCN October Newsletter, 2019
+title: October Newsletter
 date: 2019-10-04T16:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg

@@ -16,5 +16,5 @@ Aquest cap de setmana XR Barcelona ha participat de la trobada estatal celebrada
 
 Hem compartit la convicció que volem aconseguir canviar el sistema, i hem marxat més convençuts que mai que el 7 d'octubre será un èxit, i amb moltes ganes de fer-ho!!!
 
-### Uneix-te a la Rebel-lió el 7 oct a Madrid
+### Uneix-te a la Rebel·lió el 7 oct a Madrid
 

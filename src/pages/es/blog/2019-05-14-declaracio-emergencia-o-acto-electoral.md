@@ -30,7 +30,7 @@ Según el Institut d'Estudis Catalans una emergencia es: un evento grave que en 
 
 Damos la bienvenida a la declaración como el primer paso necesario, pero estaremos expectantes, para exigir que se cumplan de forma real todas las demandas de nuestro movimiento: que se diga la verdad, que se actúe en consecuencia inmediatamente y que se haga con participación de todos los sectores sociales, especialmente los más vulnerables.
 
-*Barcelona, ​​14 de mayo de 2019*
+*Barcelona, 14 de mayo de 2019*
 
 ### ¡Únete a la Rebelión!
 

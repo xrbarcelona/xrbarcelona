@@ -1,17 +1,19 @@
 ---
 templateKey: blog-post
 languageKey: es
-title: Newsletter de Agosto
+title: Boletín de Agosto
 date: 2019-08-01T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
 description: >-
+redirect_from:
+  - /ca/blog/2019-08-01-newsletter-agosto/
 tags:
   - newletter
   - xrbarcelona
 ---
 
-![Newsletter de Agosto](/img/blog/common/butlleti.jpg)
+![Boletín de Agosto](/img/blog/common/butlleti.jpg)
 
 Queridas rebeldes, 
 

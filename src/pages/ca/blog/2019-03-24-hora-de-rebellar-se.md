@@ -67,6 +67,6 @@ Lluita per allò que estimes i com diuen en algunes manis: No nos mires, ¡únet
 
 *Membre de XR Barcelona*
 
-### Uneix-te a la Rebel-lió!
+### Uneix-te a la Rebel·lió!
 
 ![XR Banner](/img/blog/common/xr-banner.jpg)

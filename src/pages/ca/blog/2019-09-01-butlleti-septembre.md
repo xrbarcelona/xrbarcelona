@@ -1,17 +1,19 @@
 ---
 templateKey: blog-post
 languageKey: ca
-title: Newsletter de Septembre
+title: Butlletí de Septembre
 date: 2019-09-01T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
 description: >-
+redirect_from:
+  - /ca/blog/2019-09-01-newsletter-septembre/
 tags:
   - newletter
   - xrbarcelona
 ---
 
-![Newsletter de Septembre](/img/blog/common/butlleti.jpg)
+![Butlletí de Septembre](/img/blog/common/butlleti.jpg)
 
 Estimades Rebels,
 

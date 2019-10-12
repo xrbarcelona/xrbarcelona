@@ -19,7 +19,7 @@ Ajuntament de Barcelona. Plaça de Sant Jaume, 1, 08002 Barcelona
 
 Benvolguda alcaldessa,
 
-En nom de Climacció, Families For Future Barcelona, Fridays For Future Barcelona, Moviment per la Justícia Climàtica i Rebel-lió o Extinció Barcelona, ens adrecem a vostè per tal d'exposar-li el següent:
+En nom de Climacció, Families For Future Barcelona, Fridays For Future Barcelona, Moviment per la Justícia Climàtica i Rebel·lió o Extinció Barcelona, ens adrecem a vostè per tal d'exposar-li el següent:
 
 - **Les grans ciutats com Barcelona són responsables de més del 70% de les emissions de GEH**.  
   L'últim informe de l'ONU és demolidor: els efectes són ja devastadors i adverteix als Governs que es necessiten canvis ràpids i sense precedents per a reduir el 45% de les emissions de CO₂  en 2030  per frenar l'escalfament global a 1,5 °C i evitar efectes devastadors i irreversibles.
@@ -91,4 +91,4 @@ Climacció
 Families For Future Barcelona  
 Fridays For Future Barcelona  
 Moviment per la Justícia Climàtica  
-Rebel-lió o Extinció Barcelona
+Rebel·lió o Extinció Barcelona

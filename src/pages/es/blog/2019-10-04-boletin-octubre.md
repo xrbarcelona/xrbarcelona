@@ -1,17 +1,19 @@
 ---
 templateKey: blog-post
 languageKey: es
-title: XR BCN Boletín de Octubre 2019
+title: Boletín de Octubre
 date: 2019-10-04T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
 description: >-
+redirect_from:
+  - /ca/blog/2019-10-04-XR-BCN-boletín-octubre/
 tags:
   - newletter
   - xrbarcelona
 ---
 
-![XR BCN Boletín Octubre Header](2019-10-04-October-header-CAST.jpg)
+![Boletín Octubre Header](2019-10-04-October-header-CAST.jpg)
 
 Queridas rebeldes, 
 

@@ -1,17 +1,19 @@
 ---
 templateKey: blog-post
 languageKey: ca
-title: XR BCN Butlletí d'Octubre
+title: Butlletí d'Octubre
 date: 2019-10-04T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
 description: >-
+redirect_from:
+  - /ca/blog/2019-10-04-XR-BCN-Butlleti-Octubre/
 tags:
   - newletter
   - xrbarcelona
 ---
 
-![Newsletter de Octubre](2019-10-04-October-header-CAT.jpg)
+![Butlletí de Octubre](2019-10-04-October-header-CAT.jpg)
 
 Estimades rebels,
 

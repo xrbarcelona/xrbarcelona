@@ -30,9 +30,9 @@ Segons l'Institut d'Estudis Catalans una emergència és: un esdeveniment greu q
 
 Donem la benvinguda a la declaració com el primer pas necessari, però estarem expectants, per exigir que s'acompleixin de forma real totes les demandes del nostre moviment: que es digui la veritat, que s'actuï en conseqüència immediatament i que es faci amb participació de tots els sectors socials, especialment els més vulnerables.
 
-*Rebel-lió o Extinció Barcelona, 14 de maig de 2019*
+*Rebel·lió o Extinció Barcelona, 14 de maig de 2019*
 
-### Uneix-te a la Rebel-lió!
+### Uneix-te a la Rebel·lió!
 
 ### En Twitter
 

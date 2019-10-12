@@ -57,9 +57,9 @@ I tot el que no sigui parlar i informar en aquests termes és amagar, eludir, co
 
 Estem veient en temps real com per tota Europa i als cinc continents creix un moviment de milers de persones, entitats socials, xarxes internacionals, una part important de la comunitat científica i, de forma destacada, la joventut a qui pertoquen les properes dècades. Un moviment que crida a prendre aquest futur a les nostres mans, per no deixar-lo en mans de les elits polítiques i econòmiques globals que fins ara i durant dècades han demostrat la seva tossuda incapacitat per actuar per al bé comú, per cedir ni una engruna del seu poder i els seus beneficis, ni tant sols quan és la humanitat i el planeta el que està en joc.
 
-Davant d'això és que diem que l'única sortida es una **rebel-lió per la vida**. Aquesta **rebel-lió no violenta** ens apel-la a tothom, a cadascun/a des del seu lloc... Volem, esperem, cridem i exigim que aquesta rebel-lió també comenci el més aviat possible en els mitjans de comunicació que són de tothom.
+Davant d'això és que diem que l'única sortida es una **rebel·lió per la vida**. Aquesta **rebel·lió no violenta** ens apel-la a tothom, a cadascun/a des del seu lloc... Volem, esperem, cridem i exigim que aquesta rebel·lió també comenci el més aviat possible en els mitjans de comunicació que són de tothom.
 
-***Rebel-lió o Extinció Barcelona***
+***Rebel·lió o Extinció Barcelona***
 
 *Barcelona 21 de març de 2019*
 
@@ -296,7 +296,7 @@ Davant d'això és que diem que l'única sortida es una **rebel-lió per la vida
 -   **Xavier Torras Boldú** Biòleg i tècnic al CEAB (CSIC)
 -   **Recollida de signatures en curs.**
 
-### XR Barcelona Declaració de Rebel-lió
+### XR Barcelona Declaració de Rebel·lió
 
 **La humanitat es troba davant d'un esdeveniment sense precedents en la seva història:** la pujada constant de la temperatura per causa de l'augment de la concentració a l'atmosfera de gasos d'efecte hivernacle, conseqüència d'un sistema econòmic capitalista (en les seves diverses formes) basat en el creixement econòmic il-limitat, la crema de combustibles fòssils i en la depredació d'uns béns naturals que són limitats, posant l'economia per sobre del planeta i de les persones, en definitiva, per sobre de la vida. [Llegir més](/ca/blog/2019-01-28-declaracio-de-rebellio/)
 

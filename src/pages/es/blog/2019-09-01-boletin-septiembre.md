@@ -1,17 +1,19 @@
 ---
 templateKey: blog-post
 languageKey: es
-title: Newsletter de Septiembre
+title: Boletín de Septiembre
 date: 2019-09-01T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
 description: >-
+redirect_from:
+  - /ca/blog/2019-09-01-newsletter-septiembre/
 tags:
   - newletter
   - xrbarcelona
 ---
 
-![Newsletter de Septiembre](/img/blog/common/butlleti.jpg)
+![Boletín de Septiembre](/img/blog/common/butlleti.jpg)
 
 Queridos rebeldes,
 
@@ -56,9 +58,9 @@ En la última semana de agosto 45 rebeldes nos reunimos en Barcelona para el Enc
 ### JUNTAS SOMOS MÁS FUERTES
 Durante este mes nos hemos reunido con Fridays For Future y Climacció para preparar la semana de acción del 20 al 27 de septiembre y la Huelga Climática y manifestación del día 27S, que se organizarán conjuntamente, atendiendo a la llamada a la Huelga Climática Internacional en la semana en que tendrá lugar la Cumbre por el Clima en las NN.UU. en Nueva York. Se han constituido comisiones de trabajo y en los próximos días se irán anunciando las acciones y actividades.
 
-Paralelamente una comisión dentro del espacio "Red para la Acción Climática" está trabajando en un posicionamiento crítico sobre el proceso participativo de la Mesa para la Emergencia Climática convocada por el Ayuntamiento de Barcelona, ​​aunque la mayoría de los co lectivos hemos decidido participar, al menos en sus primeras reuniones. La primera reunión tendrá lugar precisamente durante la semana de acción, el 26 de septiembre, y como red se quiere hacer público ese día el posicionamiento conjunto. La "Red para la Acción Climática" está compuesta en estos momentos por: ClimAcció, Ecologistes en Acció, Fridays For Future, Families for Future, Plataforma Ciutadana Residu Zero, Xarxa Economia Solidària, Eixample Respira, Barris pel Clima, Greenpeace, Plataforma per la Qualitat del Aire, Rebel·lió o Extinció, Abril bicis mil, 350 BCN i Aigua és Vida.
+Paralelamente una comisión dentro del espacio "Red para la Acción Climática" está trabajando en un posicionamiento crítico sobre el proceso participativo de la Mesa para la Emergencia Climática convocada por el Ayuntamiento de Barcelona, aunque la mayoría de los co lectivos hemos decidido participar, al menos en sus primeras reuniones. La primera reunión tendrá lugar precisamente durante la semana de acción, el 26 de septiembre, y como red se quiere hacer público ese día el posicionamiento conjunto. La "Red para la Acción Climática" está compuesta en estos momentos por: ClimAcció, Ecologistes en Acció, Fridays For Future, Families for Future, Plataforma Ciutadana Residu Zero, Xarxa Economia Solidària, Eixample Respira, Barris pel Clima, Greenpeace, Plataforma per la Qualitat del Aire, Rebel·lió o Extinció, Abril bicis mil, 350 BCN i Aigua és Vida.
 
-La Federación de Asociaciones de Vecinos y Vecinas de Barcelona, ​​con la que hemos estado en contacto desde que participamos en su escuela de formación, ha sacado un comunicado en el que "hace un llamamiento a las AV, entidades y población en general a activarse por el clima y por una respuesta social y ecológicamente justa. Y, por ello, también nos sumamos a la convocatoria de huelga general para el clima del día 27 de septiembre".
+La Federación de Asociaciones de Vecinos y Vecinas de Barcelona, con la que hemos estado en contacto desde que participamos en su escuela de formación, ha sacado un comunicado en el que "hace un llamamiento a las AV, entidades y población en general a activarse por el clima y por una respuesta social y ecológicamente justa. Y, por ello, también nos sumamos a la convocatoria de huelga general para el clima del día 27 de septiembre".
 
 ![El punto de información móvil empieza en Gràcia](/img/blog/2019-09-01-puntinformacio.jpg)
 

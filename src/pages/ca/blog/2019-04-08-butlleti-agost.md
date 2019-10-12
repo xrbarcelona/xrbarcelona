@@ -1,17 +1,19 @@
 ---
 templateKey: blog-post
 languageKey: ca
-title: Newsletter d'Agost
+title: Butlletí d'Agost
 date: 2019-08-01T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
 description: >-
+redirect_from:
+  - /ca/blog/2019-04-08-newsletter-agost/
 tags:
   - newletter
   - xrbarcelona
 ---
 
-![Newsletter d'Agost](/img/blog/common/butlleti.jpg)
+![Butlletí d'Agost](/img/blog/common/butlleti.jpg)
 
 Estimades rebels,
 

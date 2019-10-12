@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 languageKey: ca
-title: 'Declaració de Rebel-lió'
+title: 'Declaració de Rebel·lió'
 date: 2019-01-28T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-01-28-call-for-rebels_tn.jpg
@@ -32,7 +32,7 @@ Davant d'això ens neguem a la resignació. Qualsevol ésser de pensament sa i r
 
 D'acord amb aquests valors, les virtuts de la veritat i el pes de l'evidència científica, declarem el nostre deure d'actuar en nom de la seguretat i el benestar de les generacions actuals i de les futures, de les nostres comunitats i de la vida al planeta.
 
-Nosaltres, d'acord a les nostres consciències i el nostre raonament, **ens declarem en rebel-lió no violenta contra totes les institucions corruptes i ineptes que amenacen el nostre futur.**
+Nosaltres, d'acord a les nostres consciències i el nostre raonament, **ens declarem en rebel·lió no violenta contra totes les institucions corruptes i ineptes que amenacen el nostre futur.**
 
 El sistema ha declarat la guerra a la vida, ignorant de forma deliberada dues dependències innegables: la ecodependència i la interdependència. Per viure necessitem els sistemes naturals, la resta d'espècies i necessitem cooperar i cuidar-nos entre nosaltres.
 
@@ -50,7 +50,7 @@ Us sona? Per tot això, necessitem recuperar la democràcia, reduir la desigualt
 
 Ara bé, aquesta lluita és una oportunitat per passar a un nou model, que ja no pot seguir basant-se en el creixement econòmic, més saludable i humà, menys consumista però amb més benestar. Existeixen ja moltes experiències reals d'èxit que ens indiquen camins possibles.
 
-Des de fa uns mesos ha sorgit un moviment de desobediència civil anomenat Extinction Rebellion (XR), que aquí traduïm com Rebel-lió o Extinció. **Les demandes que fem, en sintonia amb les que fa el moviment internacional són bàsicament tres:**
+Des de fa uns mesos ha sorgit un moviment de desobediència civil anomenat Extinction Rebellion (XR), que aquí traduïm com Rebel·lió o Extinció. **Les demandes que fem, en sintonia amb les que fa el moviment internacional són bàsicament tres:**
 
 ### Les nostres demandes:
 
@@ -58,10 +58,10 @@ Des de fa uns mesos ha sorgit un moviment de desobediència civil anomenat Extin
 2.  Els governs, cooperant entre ells, han de promulgar polítiques jurídicament vinculants per reduir de forma ràpida i dràstica les emissions de carboni tal i com demanen els científics i prendre mesures addicionals per eliminar l'excés de gasos d'efecte hivernacle no basades en somnis tecnològics inexistents.
 3.  Necessàriament, aquestes demandes requereixen iniciatives i mobilitzacions de grandària i abast semblants a aquelles promulgades en temps de guerra. Tanmateix, no confiem en que els nostres governs facin els canvis audaços, ràpids i a llarg termini necessaris per aconseguir-ho i no tenim la intenció de donar més poder a la classe política. En lloc d'això, proposem assemblees ciutadanes que impulsin i supervisin la revolució ecològica i social, creant una democràcia adequada.
 
-Aquesta rebel-lió necessita l'aportació de molta gent, de cadascú/na des de les seves possibilitats, capacitats i sensibilitats. T'uneixes?
+Aquesta rebel·lió necessita l'aportació de molta gent, de cadascú/na des de les seves possibilitats, capacitats i sensibilitats. T'uneixes?
 
-***Rebel-lió o Extinció. XR Barcelona Gener 2019***
+***Rebel·lió o Extinció. XR Barcelona Gener 2019***
 
-### Uneix-te a la Rebel-lió!
+### Uneix-te a la Rebel·lió!
 
 ![XR Banner](/img/blog/common/xr-banner.jpg)

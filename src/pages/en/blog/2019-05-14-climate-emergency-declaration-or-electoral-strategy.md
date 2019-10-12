@@ -30,7 +30,7 @@ According to the Catalan Studies Institute, an emergency is: a serious event tha
 
 We welcome the declaration as it is the necessary first step, but we will expect that all of our movement's demands will be met in a real way: tell the truth, act immediately and do it with the participation of all social sectors, especially the most vulnerable.
 
-*Barcelona, ​​May 14th, 2019*
+*Barcelona, May 14th, 2019*
 
 ### Join the Rebellion!
 
