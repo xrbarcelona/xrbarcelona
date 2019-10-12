@@ -4,10 +4,17 @@ import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import './all.sass'
-import useSiteMetadata from './SiteMetadata'
+import intl from '../intl/locales'
+
+const siteDefaultHeadData = (languageKey) => {
+return {
+    title: intl[languageKey].headDefaultTitle,
+    description: intl[languageKey].headDefaultDescription
+  }
+}
 
 const Layout = ({ languageKey, baseColorClass, children }) => {
-  const { title, description } = useSiteMetadata()
+  const { title, description } = siteDefaultHeadData(languageKey)
 
   return (
     <div>

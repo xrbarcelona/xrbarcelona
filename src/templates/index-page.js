@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
-import Helmet from 'react-helmet'
 import Layout from '../components/Layout'
 import EventsGrid from '../components/EventsGrid'
 import DemandsGrid from '../components/DemandsGrid'
@@ -12,15 +11,11 @@ import intl from '../intl/locales'
 export const IndexPageTemplate = ({
   languageKey,
   image,
-  title,
   heading,
   subheading,
   intro,
 }) => (
   <div>
-    <Helmet>
-      <title>{`${title}`}</title>
-    </Helmet>
     <div
       className="full-width-image margin-top-0"
       style={{
@@ -91,7 +86,6 @@ export const IndexPageTemplate = ({
 IndexPageTemplate.propTypes = {
   languageKey: PropTypes.string,
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
   intro: PropTypes.shape({
@@ -108,7 +102,6 @@ const IndexPage = ({ data }) => {
       <IndexPageTemplate
         languageKey={frontmatter.languageKey}
         image={frontmatter.image}
-        title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
         intro={frontmatter.intro}
@@ -134,7 +127,6 @@ export const pageQuery = graphql`
           languageKey: { eq: $languageKey }
         }) {
       frontmatter {
-        title
         languageKey
         image {
           childImageSharp {
