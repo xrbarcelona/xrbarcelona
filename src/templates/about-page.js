@@ -10,7 +10,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <div>
+    <>
       <div
         className="full-width-image-container margin-top-0"
         style={{
@@ -31,7 +31,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
           </div>
         </div>
       </section>
-    </div>
+    </>
   )
 }
 

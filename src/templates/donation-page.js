@@ -10,7 +10,7 @@ export const DonationPageTemplate = ({ title, heading, subheading, content, cont
   const PageContent = contentComponent || Content;
 
   return (
-    <div>
+    <>
       <div
         className="full-width-image-container margin-top-0"
         style={{
@@ -38,7 +38,7 @@ export const DonationPageTemplate = ({ title, heading, subheading, content, cont
           </div>
         </div>
       </section>
-    </div>
+    </>
   );
 };
 

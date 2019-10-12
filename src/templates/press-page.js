@@ -10,7 +10,7 @@ export const PressPageTemplate = ({ title, heading, subheading, content, content
   const PageContent = contentComponent || Content;
 
   return (
-    <div>
+    <>
       <div
         className="full-width-image-container margin-top-0"
         style={{
@@ -38,7 +38,7 @@ export const PressPageTemplate = ({ title, heading, subheading, content, content
           </div>
         </div>
       </section>
-    </div>
+    </>
   );
 };
 

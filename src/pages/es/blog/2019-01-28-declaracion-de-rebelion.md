@@ -66,7 +66,7 @@ Existen ya muchas experiencias reales de éxito que nos indican caminos posibles
 
 Esta rebelión necesita la aportación de mucha gente, de cada quien desde sus posibilidades, capacidades y sensibilidades. ¿Te unes?
 
-***Rebel-lió o Extinció. XR Barcelona Enero 2019***
+*** Rebel·lió o Extinció. XR Barcelona Enero 2019***
 
 ### Únete a la Rebelión!
 

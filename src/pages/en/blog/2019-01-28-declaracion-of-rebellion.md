@@ -48,7 +48,7 @@ The changes must be implemented at all levels with co-responsibility and social 
 
 This fight is an opportunity to move towards a new model that will not be based on economic growth, a model that will be healthier, more humane, less consumerist and more focused on the well-being of everyone. There are already many real success stories that are indicating viable paths towards alternative models.
 
-A few months ago, a civil disobedience movement called Extinction Rebellion (XR) which we translate here as '**Rebel-lió o Extinció**' emerged. **The demands we make are in line with the ones made by the international movement, which are basically three**
+A few months ago, a civil disobedience movement called Extinction Rebellion (XR) which we translate here as '** Rebel·lió o Extinció**' emerged. **The demands we make are in line with the ones made by the international movement, which are basically three**
 
 ### Our demands:
 
@@ -58,7 +58,7 @@ A few months ago, a civil disobedience movement called Extinction Rebellion (XR)
 
 This rebellion needs the contribution of many people, and each of their possibilities, abilities and sensibilities. Will you be part of it?
 
-***Rebel-lió o Extinció. XR Barcelona January 2019***
+*** Rebel·lió o Extinció. XR Barcelona January 2019***
 
 ### Join the Rebellion!
 
