@@ -7,7 +7,7 @@ featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
 description: >-
 redirect_from:
-  - /ca/blog/2019-09-01-newsletter-septiembre/
+  - /es/blog/2019-09-01-newsletter-septiembre/
 tags:
   - newletter
   - xrbarcelona
