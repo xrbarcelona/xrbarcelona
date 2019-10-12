@@ -3,9 +3,9 @@ templateKey: 'event-page'
 languageKey: ca
 path: /ca/events
 title: Esdeveniments
-description: >-
-  Si sou nous a Rebel·lió o Extinció Barcelona assistiu a un dels esdeveniments de benvinguda.
+description: Llista d’esdeveniments destacats organitzats per Rebel·lió o Extinció  Barcelona i enllaç al nostre calendari.
 intro:
+  heading: Si sou nous a Rebel·lió o Extinció Barcelona assistiu a un dels esdeveniments de benvinguda.
   blurbs:
     - image: /img/events/2019-09-21-welcome-ca.jpeg
       text: >
@@ -19,7 +19,6 @@ intro:
     - image: /img/events/2019-09-07-october.jpeg
       text: >
         Rebel·lió internacional d’octubre. Ens aixecarem de nou a ciutats, països i continents. Vine amb nosaltres a Madrid.
-  heading: What we offer
 testimonials:
   - author: Cesar Chavez
     quote: >-

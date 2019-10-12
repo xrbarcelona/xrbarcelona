@@ -10,7 +10,8 @@ const ContactThanksPage = ({ data }) => {
   const markdown = data.markdownRemark
 
   return (
-    <Layout languageKey={markdown.frontmatter.languageKey} baseColorClass={baseColorClass}>
+    <Layout languageKey={markdown.frontmatter.languageKey} baseColorClass={baseColorClass}
+            title={markdown.frontmatter.title} >
       <section className="section">
         <div className="container">
           <div className="content">

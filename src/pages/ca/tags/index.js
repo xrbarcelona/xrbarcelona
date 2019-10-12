@@ -12,9 +12,8 @@ const TagsPage = ({
     },
   },
 }) => (
-  <Layout languageKey="ca">
+  <Layout languageKey="ca" title="Tags">
     <section className="section">
-      <Helmet title={`Tags | ${title}`} />
       <div className="container content">
         <div className="columns">
           <div

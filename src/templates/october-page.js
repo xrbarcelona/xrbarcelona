@@ -43,7 +43,11 @@ const OctoberPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout languageKey={post.frontmatter.languageKey} baseColorClass={baseColorClass} >
+    <Layout 
+        languageKey={post.frontmatter.languageKey} 
+        baseColorClass={baseColorClass} 
+        title={post.frontmatter.title}
+    >
       <OctoberPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

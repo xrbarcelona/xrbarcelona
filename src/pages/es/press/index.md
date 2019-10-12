@@ -3,6 +3,7 @@ templateKey: 'press-page'
 languageKey: es
 path: /es/press
 title: Prensa
+description: Últimas menciones y comunicados de prensa
 heading: Últimas menciones
 ---
 

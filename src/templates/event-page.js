@@ -11,8 +11,6 @@ const baseColorClass="bg-xr-purple"
 
 export const EventPageTemplate = ({
   title,
-  heading,
-  description,
   intro,
   testimonials,
   languageKey,
@@ -32,7 +30,7 @@ export const EventPageTemplate = ({
       <div className="container">
           <div className="columns">
             <div className="column is-10 is-offset-1 has-text-centered">
-              <p>{description}</p>
+              <p>{intro.heading}</p>
             </div>
           </div>
           <div className="has-text-centered">
@@ -58,9 +56,9 @@ export const EventPageTemplate = ({
 
 EventPageTemplate.propTypes = {
   title: PropTypes.string,
-  heading: PropTypes.string,
   description: PropTypes.string,
   intro: PropTypes.shape({
+    heading: PropTypes.string,
     blurbs: PropTypes.array,
   }),
   testimonials: PropTypes.array,
@@ -70,11 +68,11 @@ const EventPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <Layout languageKey={frontmatter.languageKey} baseColorClass={baseColorClass} >
+    <Layout languageKey={frontmatter.languageKey} baseColorClass={baseColorClass} 
+            title={frontmatter.title} description={frontmatter.description} >
+    >
       <EventPageTemplate
         title={frontmatter.title}
-        heading={frontmatter.heading}
-        description={frontmatter.description}
         intro={frontmatter.intro}
         testimonials={frontmatter.testimonials}
         languageKey={frontmatter.languageKey}
@@ -99,9 +97,9 @@ export const eventPageQuery = graphql`
       frontmatter {
         languageKey
         title
-        heading
         description
         intro {
+          heading
           blurbs {
             image {
               childImageSharp {

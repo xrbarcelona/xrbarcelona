@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: es
-title: Declaración de rebelión
+title: Declaración de Rebelión
 date: 2019-01-28T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-01-28-call-for-rebels_tn.jpg

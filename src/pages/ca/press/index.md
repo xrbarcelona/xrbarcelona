@@ -3,6 +3,7 @@ templateKey: 'press-page'
 languageKey: ca
 path: /ca/press
 title: Premsa
+description: Últimes mencions i comunicats de premsa 
 heading: Últimes mencions
 ---
 

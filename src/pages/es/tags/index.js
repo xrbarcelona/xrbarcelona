@@ -7,14 +7,10 @@ import Layout from '../../../components/Layout'
 const TagsPage = ({
   data: {
     allMarkdownRemark: { group },
-    site: {
-      siteMetadata: { title },
-    },
   },
 }) => (
-  <Layout languageKey="es">
+  <Layout languageKey="es" title="Tags">
     <section className="section">
-      <Helmet title={`Tags | ${title}`} />
       <div className="container content">
         <div className="columns">
           <div
@@ -42,11 +38,6 @@ export default TagsPage
 
 export const tagPageQuery = graphql`
   query TagsQueryESs {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(limit: 1000, filter: {frontmatter: {languageKey: {eq: "es"}}}) {
       group(field: frontmatter___tags) {
         fieldValue

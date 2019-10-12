@@ -4,8 +4,9 @@ languageKey: en
 path: /en/events
 title: Events
 description: >-
-  If you're new to Extintion Rebellion Barcelona attend one of our Welcome events. 
+  List of featured events organised by Extinction Rebellion Barcelona and link to our calendar
 intro:
+  heading: If you're new to Extintion Rebellion Barcelona attend one of our Welcome events.
   blurbs:
     - image: /img/events/2019-09-21-welcome-ca.jpeg
       text: >
@@ -19,12 +20,6 @@ intro:
     - image: /img/events/2019-09-07-october.jpeg
       text: >
         International Rebellion of October. We will rise again, across cities, countries and continents. Come with us to Madrid.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
 testimonials:
   - author: Cesar Chavez
     quote: >-

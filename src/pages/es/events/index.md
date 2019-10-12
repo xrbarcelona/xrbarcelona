@@ -3,9 +3,9 @@ templateKey: 'event-page'
 languageKey: es
 path: /es/events
 title: Eventos
-description: >-
-  Si eres nuevo en Rebel·lió o Extinció Barcelona asiste a uno de nuestros eventos de bienvenida.
+description: Lista de eventos destacados organizados por Extinction Rebellion Barcelona y enlace a nuestro calendario
 intro:
+  heading: Si eres nuevo en Rebel·lió o Extinció Barcelona asiste a uno de nuestros eventos de bienvenida.
   blurbs:
     - image: /img/events/2019-09-21-welcome-ca.jpeg
       text: >
@@ -19,9 +19,6 @@ intro:
     - image: /img/events/2019-09-07-october.jpeg
       text: >
         Rebelión internacional de octubre. Volveremos a levantarnos en ciudades, países y continentes. Ven con nosotros a Madrid.
-  heading: none
-  description: >
-    none
 testimonials:
   - author: Cesar Chavez
     quote: >-

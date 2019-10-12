@@ -45,7 +45,8 @@ const AboutPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout languageKey={post.frontmatter.languageKey} baseColorClass={baseColorClass}>
+    <Layout languageKey={post.frontmatter.languageKey} baseColorClass={baseColorClass}
+            title={post.frontmatter.title} >
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

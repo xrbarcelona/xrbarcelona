@@ -2,10 +2,11 @@
 templateKey: contact-index-page
 languageKey: en
 title: Contact
+description: Contact channels and general contact form
 formTitle: General contact form
 ---
 
-XRBarcelona is the local group in Barcelona of the international movement Extinction Rebellion.
+XR Barcelona is the local group in Barcelona of the international movement Extinction Rebellion.
 
 Contact us through these channels:
 

@@ -18,7 +18,8 @@ class ContactIndexPage extends React.Component {
     const languageKey = markdown.frontmatter.languageKey
 
     return (
-      <Layout languageKey={languageKey} baseColorClass={baseColorClass}>
+      <Layout languageKey={languageKey} baseColorClass={baseColorClass}
+              title={markdown.frontmatter.title} description={markdown.frontmatter.description} >
         <div
           className="full-width-image-container margin-top-0"
           style={{
@@ -108,6 +109,7 @@ ContactIndexPage.propTypes = {
       frontmatter: PropTypes.shape({
         languageKey: PropTypes.string,
         title: PropTypes.string,
+        description: PropTypes.string,
         formTitle: PropTypes.string
       }),
     }),
@@ -126,6 +128,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        description
         languageKey
         formTitle
       }

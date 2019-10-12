@@ -3,6 +3,7 @@ templateKey: 'donation-page'
 languageKey: es
 path: /es/donation
 title: Donaciones
+description: Ayuda a los rebeldes con tus contribuciónes
 heading: Ayuda a los rebeldes
 ---
 # https://opencollective.com/xr-barcelona

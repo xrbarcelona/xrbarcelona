@@ -3,6 +3,7 @@ templateKey: 'press-page'
 languageKey: en
 path: /en/press
 title: Press
+description: Latest mentions and press releases
 heading: Latest mentions
 ---
 

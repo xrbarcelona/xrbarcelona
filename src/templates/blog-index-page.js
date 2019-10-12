@@ -11,7 +11,8 @@ const BlogIndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <Layout languageKey={frontmatter.languageKey} baseColorClass={baseColorClass}>
+    <Layout languageKey={frontmatter.languageKey} baseColorClass={baseColorClass}
+            title={frontmatter.title} description={frontmatter.description} >
       <div
         className="full-width-image-container margin-top-0"
         style={{
@@ -39,6 +40,7 @@ BlogIndexPage.propTypes = {
       frontmatter: PropTypes.shape({
         languageKey: PropTypes.string,
         title: PropTypes.string,
+        description: PropTypes.string,
       }),
     }),
   }),
@@ -57,6 +59,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         languageKey
+        description
       }
     }
   }

@@ -57,6 +57,8 @@ const DonationPage = ({ data }) => {
     <Layout
       languageKey={post.frontmatter.languageKey}
       baseColorClass={baseColorClass}
+      title={post.frontmatter.title} 
+      description={post.frontmatter.description} 
     >
       <DonationPageTemplate
         contentComponent={HTMLContent}
@@ -81,7 +83,8 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         languageKey
-        title  
+        title
+        description
         heading
         subheading
       }

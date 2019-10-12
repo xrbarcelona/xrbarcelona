@@ -3,8 +3,8 @@ templateKey: 'donation-page'
 languageKey: en
 path: /en/donation
 title: Donations
+description: Help the rebels with your contributions
 heading: Help the rebels
-
 ---
 # https://opencollective.com/xr-barcelona
 
