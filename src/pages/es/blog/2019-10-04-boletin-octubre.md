@@ -5,7 +5,8 @@ title: Boletín de Octubre
 date: 2019-10-04T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
-description: >-
+description: >
+  Lee más sobre la Huelga Mundial para el Clima, nuestra reunión con Ada Colau, la acción contra Repsol y la preparación para la Rebelión Internacional de octubre
 redirect_from:
   - /ca/blog/2019-10-04-XR-BCN-boletín-octubre/
 tags:

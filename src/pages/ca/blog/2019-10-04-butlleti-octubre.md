@@ -5,7 +5,8 @@ title: Butlletí d'Octubre
 date: 2019-10-04T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/common/butlleti.jpg
-description: >-
+description: >
+  Més informació sobre la Vaga Global pel Clima, la nostra reunió amb Ada Colau, l'acció contra Repsol i la preparació per la Rebel·lió Internacional d'Octubre
 redirect_from:
   - /ca/blog/2019-10-04-XR-BCN-Butlleti-Octubre/
 tags:
