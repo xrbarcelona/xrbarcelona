@@ -1,6 +1,5 @@
 import React from 'react'
 import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../../components/Layout'
 
@@ -41,11 +40,6 @@ export default TagsPage
 
 export const tagPageQuery = graphql`
   query TagsQueryCAs {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(limit: 1000, filter: {frontmatter: {languageKey: {eq: "ca"}}}) {
       group(field: frontmatter___tags) {
         fieldValue
