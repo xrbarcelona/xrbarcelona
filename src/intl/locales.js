@@ -5,7 +5,7 @@ const intl = {
     ca: {
         languageName: "Català",
         languageNavBarName: "CA",
-        languageChoice: "Trieu l’idioma",
+        languageChoice: "Tria l'idioma",
         defaultPageTitle: "Rebel·lió o Extinció | XR Barcelona",
         defaultMetaDescription: "Moviment internacional de desobediència civil. En basem en l'acció directa no violenta per a frenar l'extinció massiva i minimitzar el risc de col·lapse social",
         keepReading: "Segueix llegint",
@@ -71,7 +71,7 @@ const intl = {
     en: {
         languageName: "English",
         languageNavBarName: "EN",
-        languageChoice: "Choose you language",
+        languageChoice: "Choose your language",
         defaultPageTitle: "Extinction Rebellion | XR Barcelona",
         defaultMetaDescription: "International civil disobedience movement. We use non-violent direct action to curb mass extinction and minimize the risk of social collapse",
         keepReading: "Keep reading",
