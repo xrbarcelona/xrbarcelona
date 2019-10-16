@@ -7,8 +7,28 @@ description: Últimes mencions i comunicats de premsa
 heading: Últimes mencions
 ---
 
+13/10/2019 - EL PAÍS  
+[Yo soy Extinction Rebellion. Arrésteme por el planeta](https://elpais.com/sociedad/2019/10/10/actualidad/1570720832_976495.html)  
+_(Castellano)_
+
+
+10/10/2019 - El Salto  
+[La Acampada por el Clima dice adiós tras exigir hechos contra la crisis ante la ministra Ribera](https://www.elsaltodiario.com/cambio-climatico/acampada-clima-exige-hechos-contra-crisis-ministra-ribera)  
+_(Castellano)_
+
+
+08/10/2019 - NacióDigital  
+[Per què parlen tant de la noviolència si no la practiquen?](https://www.naciodigital.cat/opinio/20267/parlen/tant/no-violencia/si/no/practiquen)  
+_(Català)_
+
+
 08/10/2019 - Público  
 [Centenares de activistas se formaron en un polideportivo para la "Rebelión climática"](https://www.publico.es/sociedad/lucha-cambio-climatico-embargado-fecha-fraguado-madrid-accion-desobediencia-civil-2020-rebelion-clima-organizado-rebelion-climatica-madrid.html)  
+_(Castellano)_
+
+
+07/10/2019 - Informativos Telecinco  
+[Informativo mediodía](https://www.telecinco.es/informativos/informativo_15_horas/informativo-mediodia-telecinco-david-cantero-isabel-cjimenez_18_2831070231.html)  
 _(Castellano)_
 
 
