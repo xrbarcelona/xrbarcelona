@@ -302,9 +302,6 @@ This is why we say the only way out is a **rebellion for life**. This **non-viol
 
 ###
 
-
-![](static/img/blog/2019-02-21-rebel.jpg)  
-
 ![](static/img/blog/2019-02-21-carta-oberta-mitjans-comunicacio.jpg)  
 
 ![](static/img/blog/2019-02-21-carta-oberta-demostracio.jpg)  

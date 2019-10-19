@@ -302,9 +302,6 @@ Davant d'això és que diem que l'única sortida es una **rebel·lió per la vid
 
 ###
 
-
-![](static/img/blog/2019-02-21-rebel.jpg)  
-
 ![](static/img/blog/2019-02-21-carta-oberta-mitjans-comunicacio.jpg)  
 
 ![](static/img/blog/2019-02-21-carta-oberta-demostracio.jpg)  
