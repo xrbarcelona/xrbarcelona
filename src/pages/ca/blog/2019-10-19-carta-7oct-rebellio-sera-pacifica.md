@@ -6,9 +6,9 @@ date: 2019-11-19T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-10-19-carta-7oct-rebellio-sera-pacifica-3.jpg
 description: >-
-Els manifestants de Extinction Rebellion en protesta pacífica van experimentar una resposta desproporcionada per part de les autoritats.
+  Els manifestants de Extinction Rebellion en protesta pacífica van experimentar una resposta desproporcionada per part de les autoritats.
 tags:
-- xrbarcelona
+  - xrbarcelona
 ---
 
 ![Acción 7oct en Madrid](/img/blog/2019-10-19-carta-7oct-rebellio-sera-pacifica-1.png)
