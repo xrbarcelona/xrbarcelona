@@ -1,6 +1,6 @@
 ---
 templateKey: 'blog-post'
-languageKey: es
+languageKey: en
 title: 'The Rebellion will be Paceful'
 date: 2019-10-19T15:04:10.000Z
 featuredpost: false
