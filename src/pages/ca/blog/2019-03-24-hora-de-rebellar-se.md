@@ -15,7 +15,7 @@ tags:
 
 Greta Thunberg, activista climàtica sueca de 16 anys, parla al Consell Econòmic i Social de la Unió Europea, davant de Jean Claude Juncker, president de la Comissió Europea. Fa un discurs contundent: “els nostres líders polítics han malbaratat dècades a través del negacionisme i la inacció”. En altres paraules, “no han fet els seus deures”.
 
-Ara girem la vista enrere una mica. L’any 1972 es publica el famós The Limits to Growth (Els límits del creixement), un informe del MIT (Massachussets Institute of Technology) a petició del Club de Roma. Un informe que avisava que el creixement econòmic té uns límits marcats pel planeta i que ens hi estàvem acostant perillosament.
+Ara girem la vista enrere una mica. L’any 1972 es publica el famós ‘The Limits to Growth’ (Els límits del creixement), un informe del MIT (Massachussets Institute of Technology) a petició del Club de Roma. Un informe que avisava que el creixement econòmic té uns límits marcats pel planeta i que ens hi estàvem acostant perillosament.
 
 Vint anys desprès , a l’any 1992, se celebra a Rio de Janeiro la Conferència de la ONU sobre Medi Ambient i Desenvolupament. Allà es va aprovar la Convenció Marc de les Nacions Unides sobre el Canvi Climàtic, que va dur a l’aprovació del Protocol de Kioto l’any 1997. L’objectiu principal era reduir les emissions d’efecte hivernacle per aturar l’escalfament global.
 
