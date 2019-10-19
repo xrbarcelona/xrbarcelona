@@ -6,11 +6,12 @@ date: 2019-09-27T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-09-27-meeting-mayor-of-barcelona.jpg
 description: >-
+  Milers de persones es rebel len contra l'emergència climàtica en la vaga mundial pel clima
 tags:
   - xrbarcelona
 ---
 
-## Milers de persones es rebel len contra l emergència climàtica en la vaga mundial pel clima
+## Milers de persones es rebel len contra l'emergència climàtica en la vaga mundial pel clima
 
 Rebel·lió o Extinció Barcelona, com a part de les plataformes convocants de les mobilitzacions, ha estat activa durant tota la setmana per tal de reclamar accions immediates per a aturar l’emergència climàtica i exposar la crisi a la societat.
 

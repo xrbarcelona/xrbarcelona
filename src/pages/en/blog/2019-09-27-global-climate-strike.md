@@ -6,6 +6,7 @@ date: 2019-09-27T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-09-27-meeting-mayor-of-barcelona.jpg
 description: >-
+  Thousands of people rebel against the climate emergency in the global climate strike
 tags:
   - xrbarcelona
 ---
