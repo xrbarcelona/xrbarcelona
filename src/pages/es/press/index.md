@@ -7,6 +7,11 @@ description: Últimas menciones y comunicados de prensa
 heading: Últimas menciones
 ---
 
+17/10/2019 - eldiario.es    
+[Tender puentes con la desobediencia climática ](https://www.eldiario.es/ultima-llamada/Tender-puentes-desobediencia-climatica_6_951964802.html)  
+_(Castellano)_
+
+
 13/10/2019 - EL PAÍS  
 [Yo soy Extinction Rebellion. Arrésteme por el planeta](https://elpais.com/sociedad/2019/10/10/actualidad/1570720832_976495.html)  
 _(Castellano)_
