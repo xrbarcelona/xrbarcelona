@@ -1,12 +1,12 @@
 ---
 templateKey: 'blog-post'
 languageKey: es
-title: 'La Rebelión Sera Pacífica'
+title: 'The Rebellion will be Paceful'
 date: 2019-10-19T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-10-19-carta-7oct-rebellio-sera-pacifica-3.jpg
 description: >-
-  Los manifestantes de Extinction Rebellion en protesta pacífica experimentaron una respuesta desproporcionada por parte de las autoridades.
+  Extinction Rebellion demonstrators in peaceful protest experienced a disproportionate response from the authorities.
 tags:
   - xrbarcelona
 ---

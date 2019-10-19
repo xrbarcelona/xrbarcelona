@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 languageKey: es
-title: 'La Rebelión Sera Pacífica'
+title: 'La Rebelión sera Pacífica'
 date: 2019-10-19T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-10-19-carta-7oct-rebellio-sera-pacifica-3.jpg
