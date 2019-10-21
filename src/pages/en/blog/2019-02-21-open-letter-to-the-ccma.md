@@ -8,7 +8,6 @@ featuredimage: /img/blog/common/xr-banner_tn.jpg
 description: >-
 tags:
   - xrbarcelona
-  - mitjans de comunicació
 ---
 
 ![XR Mural Photo](/img/blog/common/xr-banner.jpg)
