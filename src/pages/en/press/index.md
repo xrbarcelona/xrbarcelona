@@ -7,8 +7,13 @@ description: Latest mentions and press releases
 heading: Latest mentions
 ---
 
-17/10/2019 - eldiario.es    
-[Tender puentes con la desobediencia climática ](https://www.eldiario.es/ultima-llamada/Tender-puentes-desobediencia-climatica_6_951964802.html)  
+18/10/2019 - Público  
+[Más de mil científicos por la desobediencia civil no violenta ante la crisis climática](https://m.publico.es/ciencias/2120067/mas-de-mil-cientificos-por-la-desobediencia-civil-no-violenta-ante-la-crisis-climatica)  
+_(Castellano)_
+
+
+17/10/2019 - eldiario.es  
+[Tender puentes con la desobediencia climática](https://www.eldiario.es/ultima-llamada/Tender-puentes-desobediencia-climatica_6_951964802.html)  
 _(Castellano)_
 
 
