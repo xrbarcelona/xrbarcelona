@@ -2,7 +2,7 @@
 templateKey: blog-post
 languageKey: ca
 title: Carta d'un Rebel
-date: 2019-11-19T15:04:10.000Z
+date: 2019-10-10T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-10-10-letter-from-a-rebel1.jpg
 description: >-
