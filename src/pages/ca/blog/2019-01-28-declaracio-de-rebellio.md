@@ -1,5 +1,5 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 languageKey: ca
 title: 'Declaració de Rebel·lió'
 date: 2019-01-28T15:04:10.000Z
@@ -10,7 +10,7 @@ tags:
 - xrbarcelona
 ---
 
-![XR Call For Rebels](/img/blog/2019-01-28-call-for-rebels.png)
+![XR Call For Rebels](/img/blog/2019-01-28-call-for-rebels.jpg)
 
 **La humanitat es troba davant d'un esdeveniment sense precedents en la seva història:** la pujada constant de la temperatura per causa de l'augment de la concentració a l'atmosfera de gasos d'efecte hivernacle, conseqüència d'un sistema econòmic capitalista (en les seves diverses formes) basat en el creixement econòmic il-limitat, la crema de combustibles fòssils i en la depredació d'uns béns naturals que són limitats, posant l'economia per sobre del planeta i de les persones, en definitiva, per sobre de la vida.
 

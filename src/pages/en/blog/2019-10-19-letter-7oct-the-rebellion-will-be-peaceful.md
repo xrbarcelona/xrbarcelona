@@ -1,5 +1,5 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 languageKey: en
 title: 'The Rebellion will be Peaceful'
 date: 2019-10-19T15:04:10.000Z

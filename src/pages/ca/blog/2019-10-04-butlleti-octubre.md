@@ -35,7 +35,7 @@ Entre el 20 i el 27 de setembre, milions de ciutadans de tot el món van prendre
 
 Mentre molts de nosaltres ens preparàvem per a  la manifestació del divendres 27 de setembre, membres de cinc dels moviments ecologistes de Barcelona es reunien amb l'alcaldessa de Barcelona, Ada Colau. Representants de XR, Fridays for Future, Families for Future, Climacció i el Moviment per la Justícia Climàtica es van reunir amb Colau per a discutir set possibles mesures que, com a col·lectiu, li vam proposar per a que les implement-hi durant el present mandat com alcaldessa per a combatre la crisi climàtica i ecològica a Barcelona. Podeu [llegir la nostra posició en respecte a la reunió aquí.](https://xrbarcelona.org/en/blog/2019-10-03-meeting-evaluation-ada-colau/)
 
-![Una classe de ioga a l’Avinguda Meridiana](2019-10-04-yoga-Avinguda-Meridiana.png)
+![Una classe de ioga a l’Avinguda Meridiana](2019-10-04-yoga-Avinguda-Meridiana.jpg)
 
 ### REBEL·LIÓ EN EL “DIA SENSE COTXES” DE BARCELONA
 
@@ -66,7 +66,7 @@ El Comitè de Xerrades de XR Barcelona ha estat fent un  treball excel·lent aqu
 El Comitè d’Art ha sigut una força imparable aquest mes, amb sessions bisetmanals d’estampació de samarretes i banderes com  material de protesta, així com tallers especials dedicats a la fabricació de màscares amb paper maixé.  Una artista rebel ens va inspirar a tots amb el seu mural pintat a prop d’una escola local, mentre que la Brigada Blava de XR Barcelona cada nit anava a llocs estratègics per a donar a conèixer la rebel·lió a la gent.
 Em dit ja que són imparables?
 
-![Un emotiu mural d’una rebel](2019-10-04-Climate-crisis-mural-Barcelona.png)
+![Un emotiu mural d’una rebel](2019-10-04-Climate-crisis-mural-Barcelona.jpg)
 
 ### LA MÚSICA DE LA REBEL·LIÓ
 

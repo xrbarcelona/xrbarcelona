@@ -1,5 +1,5 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 languageKey: en
 title: Declaration of Rebellion
 date: 2019-01-28T15:04:10.000Z
@@ -10,7 +10,7 @@ tags:
 - xrbarcelona
 ---
 
-![XR Call For Rebels](/img/blog/2019-01-28-call-for-rebels.png)
+![XR Call For Rebels](/img/blog/2019-01-28-call-for-rebels.jpg)
 
 **Humanity is facing an unprecedented event in its history:** the constant rise of the planet's temperature due to an increasing concentration of greenhouse gases in the atmosphere. This is the consequence of a capitalist economic system (in its various forms) that is based on unlimited economic growth, the use of fossil fuels as source of energy, and the depredation of natural resources which are limited.
 

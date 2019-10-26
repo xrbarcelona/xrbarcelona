@@ -31,7 +31,7 @@ From the 20-27 September, millions of citizens across the world took part in the
 
 While many of us were preparing for the march on Friday 27 September, members of five of Barcelona’s environmental activism groups were meeting with the city’s mayor, Ada Colau. Representatives from XR, Fridays For Future, Families For Future, Climacció and the Moviment per la Justícia Climática met with Colau to discuss seven feasible measures that, as a collective, we have proposed she implement during her current term as mayor to fight the climate and ecological crisis in Barcelona. You can [read our response to the meeting here.](https://xrbarcelona.org/en/blog/2019-10-03-meeting-evaluation-ada-colau/)
 
-![A yoga class on Avinguda Meridiana](2019-10-04-yoga-Avinguda-Meridiana.png)
+![A yoga class on Avinguda Meridiana](2019-10-04-yoga-Avinguda-Meridiana.jpg)
 
 ### REBELLION ON BARCELONA’S “DAY WITHOUT CARS”
 
@@ -61,7 +61,7 @@ XR Barcelona’s Speaking Committee has been doing extraordinary work this month
 
 The Art Committee has been an unstoppable force this month, with twice-weekly flag and t-shirt stamping sessions for rebels to make protest materials, as well as a special workshop dedicated to mask making with paper maché. One artistic rebel inspired us all with their beautiful mural painted near a local school, while XR Barcelona’s Blue Brigade was out night after night meeting the public at strategic locations to spread the word about the rebellion. Didn’t we say they were unstoppable?  
 
-![One rebel’s moving mural](2019-10-04-Climate-crisis-mural-Barcelona.png)
+![One rebel’s moving mural](2019-10-04-Climate-crisis-mural-Barcelona.jpg)
 
 ### THE MUSIC OF REBELLION
 

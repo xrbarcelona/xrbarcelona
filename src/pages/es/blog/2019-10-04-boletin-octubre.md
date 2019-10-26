@@ -34,7 +34,7 @@ Del 20 al 27 de septiembre, millones de ciudadanas de todo el mundo tomaron part
 
 Mientras muchas de nosotras nos preparábamos para la manifestación del viernes 27 de septiembre, miembros de los cinco grupos de activismo por el clima de Barcelona se reunieron con la alcadesa de la ciudad, Ada Colau. Representantes de XR, Fridays For Future, Families For Future, Climacció y el Moviment per la Justícia Climática se reunieron con Colau para discutir siete medidas posibles que, como colectivo, le propusimos para implementar durante su madato para combatir la crisis climática y ecológica en Barcelona. Puedes leer [nuestro posicionamiento sobre la reunión aquí.](https://xrbarcelona.org/en/blog/2019-10-03-meeting-evaluation-ada-colau/)
 
-![Una clase de yoga en Avinguda Meridiana](2019-10-04-yoga-Avinguda-Meridiana.png)
+![Una clase de yoga en Avinguda Meridiana](2019-10-04-yoga-Avinguda-Meridiana.jpg)
 
 ### REBELIÓN EN EL “DÍA SIN COCHES” DE BARCELONA
 
@@ -64,7 +64,7 @@ El comité de charlas de XR Barcelona ha estado llevando a cabo trabajo extra es
 
 La comisión de arte ha sido una fuerza imparable este mes, con sesiones bisemanales de estampar camisetas y banderas para que las rebeldes pudiéramos hacer materiales de protesta, así como un taller especial de creación de máscaras con papel maché. Un rebelde artístico nos inspiró con un mural hecho cerca de una escuela local, mientras que la Blue Brigade de XR Barcelona estuvo noche tras noche reuniéndose con el público general en ubicaciones específicas para difundir la rebelión. ¿No habíamos dicho que eran imparables?
 
-![El mural conmoviente de un rebelde](2019-10-04-Climate-crisis-mural-Barcelona.png)
+![El mural conmoviente de un rebelde](2019-10-04-Climate-crisis-mural-Barcelona.jpg)
 
 ### LA MÚSICA DE LA REBELIÓN
 

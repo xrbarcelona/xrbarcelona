@@ -1,5 +1,5 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 languageKey: en
 title: 'Time to Rebel'
 date: 2019-03-24T15:04:10.000Z

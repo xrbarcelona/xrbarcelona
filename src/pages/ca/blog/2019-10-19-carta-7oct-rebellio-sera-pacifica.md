@@ -1,5 +1,5 @@
 ---
-templateKey: 'blog-post'
+templateKey: blog-post
 languageKey: ca
 title: 'La Rebel·lió serà Pacífica'
 date: 2019-11-19T15:04:10.000Z
