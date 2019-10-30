@@ -13,7 +13,7 @@ tags:
 
 Tornar a la “normalitat” no sempre és fàcil.
 
-Aquest període de rebel·lió ha estat alhora enriquidor i desafiador per a nosaltres, rebels. Hem hagut d'enfrontar-nos amb un ús desproporcionat i il·legal de la [força per part de la policia a Madrid](/en/blog/2019-10-19-letter-7oct-the-rebellion-will-be-peaceful/), mentre ens manteníem valentament 'pacífiques' bloquejant el trànsit al pont de'Villaverde. Hem compartit emocions fortes i intenses: sentiment de pertinença, impaciència, excitació, desil·lusió pel que podria haver estat i sensació d'apoderament pel [que vam aconseguir amb èxit](https://elpais.com/sociedad/2019/10/07/actualidad/1570430675_051785.html).
+Aquest període de rebel·lió ha estat alhora enriquidor i desafiador per a nosaltres, rebels. Hem hagut d'enfrontar-nos amb un ús desproporcionat i il·legal de la [força per part de la policia a Madrid](/ca/blog/2019-10-19-carta-7oct-rebellio-sera-pacifica/), mentre ens manteníem valentament 'pacífiques' bloquejant el trànsit al pont de'Villaverde. Hem compartit emocions fortes i intenses: sentiment de pertinença, impaciència, excitació, desil·lusió pel que podria haver estat i sensació d'apoderament pel [que vam aconseguir amb èxit](https://elpais.com/sociedad/2019/10/07/actualidad/1570430675_051785.html).
 
 Una cultura regenerativa i cicles d'acció regeneratius poden ajudar aquest moviment a prolongar la seva tasca i desenvolupar resiliència enfront de l'emergència. Reflexió i aprenentatge són part del procés de cures regeneratives i hi ha molta feina per fer. Volem tornar de l'acció amb una base més forta, unides contra el col·lapse climàtic i ecològic.
 
