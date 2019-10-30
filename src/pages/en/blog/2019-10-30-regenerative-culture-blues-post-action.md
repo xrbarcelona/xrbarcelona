@@ -40,7 +40,8 @@ The Regenerative Action Cycle invites us to:
 - Accept, debrief, feedback and honour the emotions raised by our actions (Dusk/End of Autumn)
 - Rest, reflect and dream new visions (Midnight/Mid-Winter)
 - With gratitude, come together again to develop new ideas and intentions (First Light/Beginning of Spring)  
-This then leads into the next steps for future actions:
+
+This then leads into the next steps for future actions:  
 - Creating teams, training for actions. (Sunrise/Mid Spring) 
 - Practical Preparation, Pre Arrest prep etc (Mid Morning/Beginning of Summer) 
 - The Action – (Midday/ Height of Summer) 
