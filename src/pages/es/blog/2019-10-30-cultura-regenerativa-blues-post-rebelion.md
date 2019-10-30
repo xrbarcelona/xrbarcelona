@@ -62,7 +62,7 @@ Los círculos expandidos de apoyo son:
 
 **Apoyo local cualificado** – Recurrir a apoyo y contribuciones cualificados
 
-**XR Cultura Regenerativa** – Recursos y servicios para apoyar la cultura regenerativa local y a los activistas individuales. Infórmate sobre el Rebel’s Rehab: clases de yoga y meditación los viernes (¡gratis para rebeldes!) 😊
+**XR Cultura Regenerativa** – Recursos y servicios para apoyar la cultura regenerativa local y a los activistas individuales. Infórmate sobre el Rebel’s Rehab: clases de yoga y meditación los viernes (¡gratis para rebeldes!) :)
 
 ### Conexión, Gratitud y Celebración
 
