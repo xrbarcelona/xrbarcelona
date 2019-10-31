@@ -26,7 +26,7 @@ const Layout = ({ languageKey, baseColorClass,
   return (
     <div className={baseColorClass}>
       <Helmet>
-        <html lang={languageKey} />
+        <html lang={languageKey} prefix="og: http://ogp.me/ns#"/>
         <title>{currentTitle}</title>
         <meta name="description" content={currentDescription} />
 
@@ -34,18 +34,18 @@ const Layout = ({ languageKey, baseColorClass,
         <link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32" />
         <link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16" />
         <link rel="mask-icon" href="/img/logo-xr.svg" color="#ff4400" />
-        <meta name="theme-color" content="#fff" />
+        <meta property="theme-color" content="#fff" />
 
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="@XRBarcelona" />
-        <meta name="twitter:title" content={currentTitle} />
-        <meta name="twitter:image" content={"https://xrbarcelona.org" + currentFeaturedImage} />
-        <meta name="twitter:description" content={currentDescription} />
+        <meta property="twitter:card" content="summary" />
+        <meta property="twitter:site" content="@XRBarcelona" />
+        {/* <meta property="twitter:title" content={currentTitle} />
+        <meta property="twitter:image" content={"https://xrbarcelona.org" + currentFeaturedImage} />
+        <meta property="twitter:description" content={currentDescription} /> */}
 
-        <meta name="og:type" content="summary" />
-        <meta name="og:title" content={currentTitle} />
-        <meta name="og:image" content={currentFeaturedImage} />
-        <meta name="og:description" content={currentDescription} />
+        <meta property="og:type" content="summary" />
+        <meta property="og:title" content={currentTitle} />
+        <meta property="og:image" content={currentFeaturedImage} />
+        <meta property="og:description" content={"https://xrbarcelona.org" + currentDescription} />
 
         <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700&display=swap" rel="stylesheet" /> 
         
