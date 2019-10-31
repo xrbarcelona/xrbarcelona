@@ -39,7 +39,7 @@ const Layout = ({ languageKey, baseColorClass,
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@XRBarcelona" />
         <meta name="twitter:title" content={currentTitle} />
-        <meta name="twitter:image" content={currentFeaturedImage} />
+        <meta name="twitter:image" content={"https://xrbarcelona.org" + currentFeaturedImage} />
         <meta name="twitter:description" content={currentDescription} />
 
         <meta name="og:type" content="summary" />
