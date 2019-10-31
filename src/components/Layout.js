@@ -36,10 +36,10 @@ const Layout = ({ languageKey, baseColorClass,
         <link rel="mask-icon" href="/img/logo-xr.svg" color="#ff4400" />
         <meta name="theme-color" content="#fff" />
 
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content={currentTitle} />
-        <meta property="og:image" content={currentFeaturedImage} />
-        <meta property="og:description" content={currentDescription} />
+        <meta name="og:type" content="website" />
+        <meta name="og:title" content={currentTitle} />
+        <meta name="og:image" content={currentFeaturedImage} />
+        <meta name="og:description" content={currentDescription} />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@XRBarcelona" />
