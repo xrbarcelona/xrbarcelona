@@ -41,6 +41,12 @@ const Layout = ({ languageKey, baseColorClass,
         <meta property="og:image" content={currentFeaturedImage} />
         <meta property="og:description" content={currentDescription} />
 
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@XRBarcelona" />
+        <meta name="twitter:title" content={currentTitle} />
+        <meta name="twitter:image" content={currentFeaturedImage} />
+        <meta name="twitter:description" content={currentDescription} />
+
         <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700&display=swap" rel="stylesheet" /> 
         
       </Helmet>
