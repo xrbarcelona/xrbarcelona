@@ -42,7 +42,7 @@ const Layout = ({ languageKey, baseColorClass,
         <meta name="twitter:image" content={currentFeaturedImage} />
         <meta name="twitter:description" content={currentDescription} />
 
-        <meta name="og:type" content="website" />
+        <meta name="og:type" content="summary" />
         <meta name="og:title" content={currentTitle} />
         <meta name="og:image" content={currentFeaturedImage} />
         <meta name="og:description" content={currentDescription} />
