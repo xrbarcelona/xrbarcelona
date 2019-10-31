@@ -40,8 +40,8 @@ const Layout = ({ languageKey, baseColorClass,
         <meta property="twitter:site" content="@XRBarcelona" />
         <meta property="og:type" content="summary_large_image" />
         <meta property="og:title" content={currentTitle} />
-        <meta property="og:image" content={currentFeaturedImage} />
-        <meta property="og:description" content={"https://xrbarcelona.org" + currentDescription} />
+        <meta property="og:image" content={"https://xrbarcelona.org" + currentFeaturedImage} />
+        <meta property="og:description" content={currentDescription} />
 
         <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700&display=swap" rel="stylesheet" /> 
         
