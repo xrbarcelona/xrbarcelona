@@ -1,68 +1,69 @@
 ---
 templateKey: blog-post
-languageKey: ca
-title: 'Carta oberta a la CCMA'
-date: 2019-02-21T16:31:09.940Z
+languageKey: en
+title: 'Open Letter to the CCMA'
+date: 2019-03-21T16:31:09.940Z
 featuredpost: false
 featuredimage: /img/blog/common/xr-banner_tn.jpg
-description: >-
+description: >
+  Given the gravity of the situation of climate and ecological emergency in which we find ourselves, we are calling on the media to fulfil their responsibility to the people
 tags:
   - xrbarcelona
 ---
 
 ![XR Mural Photo](/img/blog/common/xr-banner.jpg)
 
-Davant la gravetat de la situació d'emergència climàtica i ecològica en la que ens trobem, fem una crida als mitjans de comunicació per complir amb la seva responsabilitat amb la societat, reconeixent explícitament aquesta situació d'emergència i tractant el tema amb la importància i la coherència que es mereix.
+Open letter to the CCMA
 
-Ens adrecem inicialment als mitjans públics del nostre país, donat que són propietat de tothom i són els que tenen un mandat més palès de servei públic.
+Given the gravity of the situation of climate and ecological emergency in which we find ourselves, we are calling on the media to fulfil their responsibility to the people by clearly recognising this situation of emergency, and treating the subject with the importance and coherence it deserves.
 
-*a les treballadores i treballadors de la CCMA,*
+We are addressing ourselves firstly to our country’s media, given that they are the property of everyone and are the ones who hold a more obvious mandate of public service.
 
-*al Consell de Govern,*
+*To the workers at the CCMA,*
 
-*al Consell Assessor,*
+*To the Consell de Govern,*
 
-*a la Defensora de l'Audiència,*
+*To the Consell Assessor,*
 
-*al Comitè de Direcció i*
+*To the Defensor de L´Audiència,*
 
-*a la Presidenta de la Corporació Catalana de Mitjans Audiovisuals*
+*To the Comitè de Direcció and to the Presidenta de la Corporació Catalana de Mitjans Audiovisuals*
 
-En els darrers anys els treballadors i treballadores de la **Corporació Catalana de Mitjans Audiovisuals** s'han adreçat a la ciutadania diverses vegades expressant la necessitat de defensar el paper fonamental d'aquests mitjans per la salut democràtica, social i cultural d'un país. Ho han fet en moments especialment crítics com han estat les retallades del 2011:
+In recent years the workers of the **Catalan Corporation of Audio-visual Media** (CCMA) have addressed the people on various occasions, expressing the necessity of defending the media’s fundamental role in maintaining the democratic, social and cultural health of the country. They have done so in especially critical moments such as the cuts in 2011:
 
-> _"Els mitjans de comunicació de la Generalitat tenen un paper clau per garantir una informació lliure i contrastada que permeti a la ciutadania fer-se una opinió clara de la situació social i nacional, i, per això mateix, no es pot permetre que es debilitin, cosa que afebliria la seva oferta pública, de proximitat i de servei a la societat catalana"._
+> _“The media of the regional government hold a key role in guaranteeing free and contrasting information which allows citizens to form clear opinions about both social and national situations and for this reason we cannot allow them to become debilitated, which would weaken their public services, of community and service to the Catalan people”_
 
-O arrel de la intervenció de la Generalitat de Catalunya en aplicació de l'article 155:
+Or because of the regional government of Catalonia´s the intervention in the application of Article 155:
 
-> _"Es fa més necessària que mai l'existència d'un espai públic de comunicació que garanteixi una relació virtuosa entre els seus professionals i la societat i que compti amb el suport dels representants democràticament elegits"_
+> _“The existence of a public communication platform which guarantees an honest relationship between its professionals and the general public, and which counts on the support of the democratically elected representatives, is more necessary than ever”_
 
-Justament per què coincidim plenament i fem nostres aquestes afirmacions, creiem fonamental alertar sobre **la responsabilitat dels mitjans de comunicació respecte a l'enorme repte que la nostra societat té plantejat front l'emergència climàtica.** Es tracta d'una realitat que ja tenim al damunt, amb conseqüències ambientals, energètiques, socials, polítiques, culturals, etc. sense precedents històrics. És el repte més greu que té i ha tingut mai la humanitat, i per tant, naturalment, també el nostre país.
+Precisely because we agree with, and take on these statements as ours, we believe that it is fundamental to highlight **the media’s responsibility to communicate regarding the enormity of the challenge our society is facing from the climate emergency**. It’s a reality already hanging over us, with many consequences without historic precedents; environmental, energy, social, political and cultural, etc. it is the most serious challenge humanity, and of course our country, has, and has ever had, to face.
 
-Fa més d'una dècada és va popularitzar la qualificació del canvi climàtic com "una veritat incòmoda". Però ara, a les portes de la tercera dècada del segle, aquesta qualificació ha quedat abastament superada. Avui parlar de canvi climàtic ja és confús i poc precís, hem de reconèixer en primer lloc que el **que estem enfrontant és una autèntica emergència climàtica a escala planetària**. La comunitat científica és molt clara al respecte. I ja no es tracta d'una veritat incòmoda, sinó d'una realitat ineludible.
+More than a decade ago climate change was popularly labelled “an uncomfortable truth”. But now, on the brink of the third decade of the century, this label has been easily exceeded. Nowadays talk about climate change is confusing and imprecise. We first have to recognise that **what we are facing is a real climate emergency on a worldwide scale**. The scientific community is very clear in this respect. And now it is no longer an uncomfortable truth, but an inescapable reality.
 
-I tot el que no sigui parlar i informar en aquests termes és amagar, eludir, confondre i desarmar la capacitat de reacció de la nostra societat.
+And anything that isn’t open dialogue and information on the subject, is hiding, evading, confusing and disarming society’s ability to react.
 
-És en aquest context que fem una crida, tant als òrgans rectors dels mitjans de la CCMA (Catalunya Ràdio i Televisió de Catalunya), com a les i els professionals que hi treballen, per complir amb aquesta responsabilitat envers la societat a la que serveixen.
+And it is in this context that we appeal to both the governing bodies of the CCMA (Catalonia Radio and Catalonia television), and to all the professionals who work there, to comply with this responsibility to the society that they serve.
 
-- Perquè el paper dels mitjans públics de comunicació és fonamental per traslladar al conjunt de la ciutadania un tractament del tema amb rigor, responsabilitat, serenitat, però a la vegada amb claredat, coherència, sense eufemismes ni embuts, de forma no marginal, sinó proporcionada a la seva importància, tant en els serveis informatius com en els meteorològics, com en altres espais de gran audiència.
+- Because the role of public media is fundamental to present to all citizens a rigorous, responsible, calm analysis of this subject, explained clearly, coherently, without euphemisms, without marginalisation, in proportion to its importance, either in informative, meteorological or other large-audience media services and platforms.
 
-- Perquè des del sector públic, i en aliança amb la ciutadania, és l'única forma possible de resistir la pressió dels lobbys i interessos empresarials, que avui encara pesen massa en la forma en què s'emmascara l'emergència climàtica en la majoria de mitjans.
+- Because from the public sector, and allied with the general public, it is the only possible way to resist the pressure of lobbies and business interests, which still today have more weight in the way the climate emergency is disguised by most of the media.
 
-- Perquè cal una nova manera de mirar la realitat, una nova visió de la vida, del clima i de les seves repercussions. Hem de deixar de considerar "bon temps" que als mesos d'hivern tinguem temperatures primaverals. O hem de fixar-nos en l'augment de les temperatures mínimes, no només de les màximes, perquè també incideixen en l'increment de la mortalitat i de la morbiditat. O en altres qüestions importants com la relació entre els factors climàtics i els cicles dels éssers vius. I per a aquesta nova mirada, els mitjans públics han de jugar un paper fonamental.
+- Because we need a new way to look at reality, a new vision of life, and of the climate and its repercussions. We have to stop considering spring temperatures in winter as “good weather”. Or we have to focus on the rising minimum temperatures, not only the maximum, since these also have an impact on the increase in mortality and disease. Or on other important questions like the relationship between climate factors and human cycles. And the public media have to play an important part in this new perspective.
 
-- Perquè, per això mateix, els mitjans públics poden jugar un paper clau en liderar i arrossegar a la resta de mitjans a afrontar clarament els reptes de l'emergència climàtica. Caldrà un esforç informatiu de qualitat per acompanyar i donar suport a l'enorme procés de transició econòmica, energètica, productiva, social i cultural que la nostra societat haurà d'afrontar, i cal fer-ho amb prou temps perquè aquest procés es pugui fer de la forma més inclusiva i democràtica, amb justícia social i ambiental.
+- Because, for these reasons, the public media can play a key role of leadership and influence the rest of the media to confront the challenges of the climate emergency. A well planned informational effort will be needed to support and accompany the enormous process of transition, economic, energy, production, social and cultural, which we will have to face up to. And we need this soon enough to make sure the process is inclusive and democratic and is socially and environmentally just.
+ 
+- Because looking reality in the eye, painful as it may be, explaining what is happening and why it is happening, is the only way the social unrest we see all around us is not infected by fascism nor encourages authoritarian solutions and hate speech, as is already beginning to happen. It is the only way to build collective and democratic alternatives.
 
-- Perquè mirar als ulls a la realitat, per crua que sigui, explicar què passa i per què passa, és l'únic antídot perquè el malestar social, que percebem per tot arreu, no sigui capitalitzat pel feixisme i aboni sortides autoritàries i discursos d'odi, com ja està començant a passar. És l'única forma de construir alternatives col-lectiva i democràticament.
+We are seeing before our eyes how all over Europe and the five continents a movement is growing, a movement of thousands of people, social groups, international networks, an important part of the scientific community and,notably, young people to whom the coming decades belong. A movement that appeals to us to take the future into our own hands so as not to leave it in the hands of elitist politicians and global economies, who until now and for decades, have shown their stubborn incapability to act for the common good, never giving up an ounce of their power nor benefits, not even when humanity and the planet are at risk.
 
-Estem veient en temps real com per tota Europa i als cinc continents creix un moviment de milers de persones, entitats socials, xarxes internacionals, una part important de la comunitat científica i, de forma destacada, la joventut a qui pertoquen les properes dècades. Un moviment que crida a prendre aquest futur a les nostres mans, per no deixar-lo en mans de les elits polítiques i econòmiques globals que fins ara i durant dècades han demostrat la seva tossuda incapacitat per actuar per al bé comú, per cedir ni una engruna del seu poder i els seus beneficis, ni tant sols quan és la humanitat i el planeta el que està en joc.
+This is why we say the only way out is a **rebellion for life**. This **non-violent rebellion** calls to each and every one of us, wherever we are from... We want, we hope, we entreat and we urge the media, which belongs to everyone, to begin this rebellion as soon as possible.
 
-Davant d'això és que diem que l'única sortida es una **rebel·lió per la vida**. Aquesta **rebel·lió no violenta** ens apel-la a tothom, a cadascun/a des del seu lloc... Volem, esperem, cridem i exigim que aquesta rebel·lió també comenci el més aviat possible en els mitjans de comunicació que són de tothom.
+**Barcelona Rebellion or Extinction**
 
-***Rebel·lió o Extinció Barcelona***
+*Barcelona March 21st 2019*
 
-*Barcelona 21 de març de 2019*
-
-### Signatures carta a la CCMA
+### Signatures to the letter to the CCMA
 
 -   **Ada Parellada Garrell** Restauradora
 -   **Aitziber Zufiaurre Martínez** Investigadora doctoral del CREAF
