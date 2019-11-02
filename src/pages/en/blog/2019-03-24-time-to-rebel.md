@@ -5,7 +5,8 @@ title: 'Time to Rebel'
 date: 2019-03-24T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-03-24-hora-de-rebellar-se.jpg
-description: >-
+description: >
+  We are experiencing the sixth mass extinction event. We declare ourselves in nonviolent rebellion for life and against institutions that threaten our future and we demand 'Truth', 'Action', 'Real democracy'
 tags:
 - xrbarcelona
 ---
