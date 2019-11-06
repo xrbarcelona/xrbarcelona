@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: es
-title: La Fantasía de invulnerabilidad
+title: La Fantasía de Invulnerabilidad
 date: 2019-11-05T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-11-05-the-myth-of-invulnerability.jpg
