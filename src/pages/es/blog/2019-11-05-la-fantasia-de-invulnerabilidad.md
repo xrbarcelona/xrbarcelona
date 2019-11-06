@@ -6,7 +6,7 @@ date: 2019-11-05T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-11-05-the-myth-of-invulnerability.jpg
 description: >-
-    Hay algo que nos amenaza como nunca antes nada lo ha hecho. El colapso de una civilización repleta de individuos convencidos de su invulnerabilidad.
+    Hay algo que que nos amenaza como nada nos ha amenazado nunca. El colapso de una civilización repleta de individuos convencidos de su invulnerabilidad.
 tags:
   - xrbarcelona
 ---
@@ -47,7 +47,7 @@ Y honestamente, parte de la culpa la tiene el capitalismo/neoliberalismo, que ac
 
 No hemos sabido conformar una sociedad de individuos diversos sin que estos vivan sumidos en la más fuerte fantasía de invulnerabilidad. El colonialismo acabó con todos aquellos que se sentían más tribu que individuo, que aceptaban más la interconexión de todo y todos , la interdependencia y ecodependencia, y sólo dejó sitio para la desconexión y el orgullo de ser un individuo aislado, un sujeto libre. 
 
-Ahora hay algo más grande que todos nosotros, más grande que la historia, más grande que todos nuestros ideales, que nos amenaza como nunca antes nada lo ha hecho. El colapso. 
+Ahora hay algo más grande que todos nosotros, más grande que la historia, más grande que todos nuestros ideales, que nos amenaza como nada nos ha amenazado nunca. El colapso. 
 
 El colapso de una civilización repleta de individuos convencidos de su invulnerabilidad.  Individuos desconectados que tienen la responsabilidad de frenar colectivamente una catástrofe global. La solución pasa únicamente por lo colectivo, en un momento en donde esto parece casi desvanecerse. Decir que es un reto es decir poco. 
 
