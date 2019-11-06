@@ -94,7 +94,7 @@ const Navbar = class extends React.Component {
                 <OutboundLink title="Telegram" href="https://t.me/XRBarcelona">
                   <img src={telegram} alt="Telegram" />
                 </OutboundLink>
-                <OutboundLink title="Facebook" href="https://www.facebook.com/ExtinctionRebellionBarcelona/">
+                <OutboundLink title="Facebook" href="https://www.facebook.com/XRBarcelona/">
                   <img src={facebook} alt="Facebook" />
                 </OutboundLink>
                 <OutboundLink title="Twitter" href="https://twitter.com/XRBarcelona">
