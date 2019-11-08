@@ -11,7 +11,7 @@ tags:
   - xrbarcelona
 ---
 
-![XR BCN November Newsletter Header](2019-11-07-XR-Barcelona-Newsletter-november.jpg) 
+![XR BCN November Newsletter Header](2019-11-07-xr-barcelona-newsletter-november.jpg) 
 
 Dear rebels, 
 
