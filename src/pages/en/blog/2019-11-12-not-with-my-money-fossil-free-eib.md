@@ -9,6 +9,8 @@ description: >
   The EIB is the largest public financier in the world. So far, it has supported with our tax money fossil fuel infrastructures. Today we'll gather at 5pm in front of the European Commission demanding to stop the financing of all types of fossil fuels  projects including natural gas.
 tags:
   - xrbarcelona
+  - press
+  - actions
 ---
 
 ![Banner: Fossil free EIB - Not with my money](/img/blog/2019-11-12-fossil-free-eib-no-con-mi-dinero.jpg) 
