@@ -38,9 +38,3 @@ Extinction Rebellion manté un compromís indiscutible amb la no-violència, aix
 *Amor y rabia,* 
 
 *XR Barcelona*
-
-
-
-
-4 https://www.carbontracker.org/tools-and-insights/video-2020-vision-why-you-should-see-the-fossil-fuel-peak-coming/
-5 https://www.lasexta.com/noticias/economia/combustibles-fosiles-estan-creando-nueva-burbuja-economica-que-puede-reventar-como-crisis-2007_201806045b1563450cf299d80b54c5ae.html
