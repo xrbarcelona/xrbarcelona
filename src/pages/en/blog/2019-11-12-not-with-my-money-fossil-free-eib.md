@@ -6,14 +6,14 @@ date: 2019-11-12T16:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-11-12-fossil-free-eib-no-con-mi-dinero.jpg
 description: >
-  El BEI es el financiador público más grande del mundo. Hasta ahora ha alimentado con nuestros impuestos infraestructuras de combustibles fósiles. Hoy nos concentramos a las 17h delante de la Comisión Europea pidiendo de cesar totalmente la financiación de proyectos de todo tipo de combustibles fósiles.
+  The EIB is the largest public financier in the world. So far, it has supported with our tax money fossil fuel infrastructures. Today we'll gather at 5pm in front of the European Commission demanding to stop the financing of all types of fossil fuels  projects including natural gas.
 tags:
   - xrbarcelona
 ---
 
 ![Banner: Fossil free EIB - Not with my money](/img/blog/2019-11-12-fossil-free-eib-no-con-mi-dinero.jpg) 
 
-Today, November 12, 2019, we'll gather at 5pm in front of the European Commission (Paseo de Gracia, 90). Extinction Rebellion Barcelona and [350BCN](https://world.350.org/350bcn/) demand European political leaders to invest on life, completely ceasing the financing of projects of all types of fossil fuels -including natural gas- by the European Investment Bank (EIB).
+Today, November 12, 2019, we'll gather at 5pm in front of the European Commission (Paseo de Gracia, 90). Extinction Rebellion Barcelona and [350BCN](https://world.350.org/350bcn/) demand European political leaders to invest on life, completely ceasing the financing of all types of fossil fuels projects -including natural gas- by the European Investment Bank (EIB).
 This is an initial minimum step that must be taken to deal with the climate and ecological crises and establish a climate justice framework.
 
 On November 14, the Minister of Economy and Business, Nadia Calviño, and the ministers of the other countries meet together and could make a decision.

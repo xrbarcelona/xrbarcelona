@@ -6,7 +6,7 @@ date: 2019-11-12T16:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-11-12-fossil-free-eib-no-con-mi-dinero.jpg
 description: >
-  El BEI es el financiador público más grande del mundo. Hasta ahora ha alimentado con nuestros impuestos infraestructuras de combustibles fósiles. Hoy nos concentramos a las 17h delante de la Comisión Europea pidiendo de cesar totalmente la financiación de proyectos de todo tipo de combustibles fósiles.
+  El BEI es el financiador público más grande del mundo. Hasta ahora ha alimentado con nuestros impuestos infraestructuras de combustibles fósiles. Hoy nos concentramos a las 17h delante de la Comisión Europea pidiendo de cesar totalmente la financiación de proyectos de todo tipo de combustibles fósiles incluido el gas natural.
 tags:
   - xrbarcelona
 ---
