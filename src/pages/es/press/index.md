@@ -7,6 +7,16 @@ description: Últimas menciones y comunicados de prensa
 heading: Últimas menciones
 ---
 
+18/11/2019 - CLIMÁTICA (lamarea.com)  
+[Extinction Rebellion inicia una huelga de hambre global para denunciar la emergencia climática y ecológica](https://www.climatica.lamarea.com/extinction-rebellion-inicia-una-huelga-de-hambre-global-para-denunciar-la-emergencia-climatica-y-ecologica/)  
+_(Castellano)_
+
+
+11/11/2019 - La Penúltima  
+[Extinction Rebellion: el éxito en la comunicación de la crisis climática](http://lapenultima.info/articulos/extinction-rebellion/)  
+_(Castellano)_
+
+
 18/10/2019 - Público  
 [Más de mil científicos por la desobediencia civil no violenta ante la crisis climática](https://m.publico.es/ciencias/2120067/mas-de-mil-cientificos-por-la-desobediencia-civil-no-violenta-ante-la-crisis-climatica)  
 _(Castellano)_
