@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: ca
-title: Vaga de fam pel clima
+title: Vaga de Fam pel Clima
 date: 2019-11-19T16:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-11-19-huelga-de-hambre-por-el-clima.jpg
@@ -35,6 +35,6 @@ Intentant evitar aquest desastre i el col·lapse de la nostra civilització Exti
 2. Els governs han d'actuar ara per a detenir la pèrdua de biodiversitat i reduir les emissions de gasos d'efecte d'hivernacle a zero net per a 2025.
 3. Els governs han de crear i ser guiats per les decisions d'una Assemblea Ciutadana assessorada per persones expertes, centrades en justícia climàtica i ecològica.
 
-*Amor y rabia,* 
+*Amor i ràbia,* 
 
 *XR Barcelona*

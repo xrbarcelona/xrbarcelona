@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 languageKey: es
-title: Huelga de hambre por el clima
+title: Huelga de Hambre por el Clima
 date: 2019-11-19T16:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-11-19-huelga-de-hambre-por-el-clima.jpg
@@ -9,7 +9,7 @@ description: >
   Més de 400 rebels en 27 països al voltant del món es van declarar en vaga de fam contra la inacció política davant la crisi climàtica i ecològica e l'impacte devastador sobre els subministraments mundials d'aliments.
 tags:
   - xrbarcelona
-  - premsa
+  - prensa
   - accion
 ---
 
