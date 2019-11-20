@@ -38,3 +38,8 @@ Intentando evitar este desastre y el colapso de nuestra civilización Extinction
 *Amor y rabia,* 
 
 *XR Barcelona*
+
+### Descarga las declaraciones de los rebeldes
+
+*(English)*
+[![Informacio Rebeles](/img/blog/2019-11-19-huelga-de-hambre-por-el-clima-3.jpg)](/docs/2019-11-19-hunger_strike.pdf)

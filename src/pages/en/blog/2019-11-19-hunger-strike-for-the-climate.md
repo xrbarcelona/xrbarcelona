@@ -38,3 +38,8 @@ Trying to avoid this disaster and the collapse of our civilization Extinction Re
 *Lova and rage,* 
 
 *XR Barcelona*
+
+### Download the declarations of the rebels
+
+*(English)*
+[![Informacio Rebeles](/img/blog/2019-11-19-huelga-de-hambre-por-el-clima-3.jpg)](/docs/2019-11-19-hunger_strike.pdf)
