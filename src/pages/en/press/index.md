@@ -7,6 +7,11 @@ description: Latest mentions and press releases
 heading: Latest mentions
 ---
 
+21/11/2019 - 20 minutos  
+[Once activistas españoles secundan la huelga de hambre iniciada por Extinction Rebellion: "España no se va a librar"](https://www.20minutos.es/noticia/4062195/0/tercer-dia-huelga-hambre-crisis-climatica-iniciada-extinction-rebellion-espana-librar/)  
+_(Castellano)_
+
+
 18/11/2019 - CLIMÁTICA (lamarea.com)  
 [Extinction Rebellion inicia una huelga de hambre global para denunciar la emergencia climática y ecológica](https://www.climatica.lamarea.com/extinction-rebellion-inicia-una-huelga-de-hambre-global-para-denunciar-la-emergencia-climatica-y-ecologica/)  
 _(Castellano)_
