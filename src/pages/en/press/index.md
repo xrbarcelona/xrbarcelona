@@ -7,6 +7,11 @@ description: Latest mentions and press releases
 heading: Latest mentions
 ---
 
+22/11/2019 - EL PAÍS  
+[El canvi climàtic multiplica les desigualtats](https://cat.elpais.com/cat/2019/11/22/catalunya/1574441744_384493.html)  
+_(Català)_
+
+
 21/11/2019 - 20 minutos  
 [Once activistas españoles secundan la huelga de hambre iniciada por Extinction Rebellion: "España no se va a librar"](https://www.20minutos.es/noticia/4062195/0/tercer-dia-huelga-hambre-crisis-climatica-iniciada-extinction-rebellion-espana-librar/)  
 _(Castellano)_
