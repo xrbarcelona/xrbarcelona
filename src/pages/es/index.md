@@ -32,7 +32,7 @@ intro:
         Inundaciones en Barcelona. Nos levantamos cada fin de semana en un nuevo lugar de la ciudad.
     - image: /img/events/2019-09-16-art-ca.jpeg
       text: >
-        Únaete a las sesiones semanales con el grupo de arte para diseñar e imprimir tu propia camisetas, pancartas y más.
+        Únete a las sesiones semanales con el grupo de arte para diseñar e imprimir tu propia camisetas, pancartas y más.
     - image: /img/events/2019-09-07-october.jpeg
       text: >
         Rebelión internacional de octubre. Volveremos a levantarnos en ciudades, países y continentes. Ven con nosotros a Madrid.
