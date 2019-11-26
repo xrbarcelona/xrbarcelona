@@ -47,7 +47,8 @@ XR se posiciona como vigilante de la COP25 y Conferencias sucesivas de modo que,
 
 ### ALOJAMIENTO
 
-Hay dos opciones: puedes bien ser alojado por un rebelde, bien en lugares colectivos. Si necesitas alojamiento, [completa este formulario](https://forms.organise.earth/index.php?r=survey/index&sid=296848&lang=en)
+Hay dos opciones: puedes bien ser alojado por un rebelde, bien en lugares colectivos. Si necesitas alojamiento, [completa este formulario](https://forms.organise.earth/index.php?r=survey/index&sid=296848&lang=en).
+
 Igualmente, ¡piensa en traer tu tumbona y tu saco de dormir!
 
 ### TRANSPORTE

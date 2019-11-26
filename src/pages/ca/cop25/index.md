@@ -45,6 +45,15 @@ Volem que els nostres objectius es compleixin via accions directes pacífiques r
 
 XR es posiciona com a guardià de la COP25 i de conferències posteriors de manera que, amb l’objectiu de crear un context de vigilància perenne, les accions prèvies a l’arribada dels participants seran coincidents amb una acció específicament referida a aquesta vigilància, que a partir d’aquest moment se succeirà mensualment.
 
+### ALOJAMIENT
+
+Hi ha dues opcions: es pot allotjar bé per a rebelde, bé en llocs col·lectius. Si cal allotjament, és complet aquest formulari.
+Igualment, ple a la teva mida i a la teva boca de dormir!
+
+Hay dos opciones: puedes bien ser alojado por un rebelde, bien en lugares colectivos. Si necesitas alojamiento, [completa este formulario](https://forms.organise.earth/index.php?r=survey/index&sid=296848&lang=en).
+
+Igualmente, ¡piensa en traer tu tumbona y tu saco de dormir!
+
 ### TRANSPORT
 
 Des de Barcelona, hi ha dues opcions disponibles de transport:

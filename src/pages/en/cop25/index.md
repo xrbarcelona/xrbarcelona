@@ -48,6 +48,7 @@ XR is positioned as a COP25 vigilant and subsequent conferences so that, with th
 ### ACCOMMODATION
 
 There are two options: you can either be housed by a rebel, or in collective places. If you need accommodation, [complete this form](https://forms.organise.earth/index.php?r=survey/index&sid=296848&lang=en).
+
 Also, think about bringing your sunbed and your sleeping bag!
 
 ### TRANSPORT
