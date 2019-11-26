@@ -48,7 +48,7 @@ XR es posiciona com a guardià de la COP25 i de conferències posteriors de mane
 Des de Barcelona, hi ha dues opcions disponibles de transport:
 
 - **Bus**: XR Barcelona organitza dos busos. L’horari de sortida serà el dia 6 de desembre a les 8 del matí, amb tornada el dia 8 de desembre a les 14h o les 16h. El preu total és de 36€. [Compra el teu bitllet aquí](https://vivetix.com/entradas-puente-de-diciembre-en-madrid?s=link)
-En cas de tenir dificultats per pagar el bitllet, escriu un correu a xrbarcelona@riseup.net i mirarem d’ajudar-te.
+En cas de tenir dificultats per pagar el bitllet, escriu un correu a [xrbarcelona@riseup.net](xrbarcelona@riseup.net) i mirarem d’ajudar-te.
 
 - **Tren**: Ecologistes en Acció organitza l’anada a Madrid en tren lent (només anada) el dia 6 de desembre a les 8 del matí, per arribar a les 6 de la tarda a Madrid i afegir-se a la manifestació n cop ja començada. [Més informació aquí](https://forms.gle/bubBz4zWRSJGQgyK6)
 

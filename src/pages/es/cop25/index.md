@@ -53,7 +53,7 @@ Igualmente, ¡piensa en traer tu tumbona y tu saco de dormir!
 Des de Barcelona, hay dos opciones disponibles de transporte:
 
 - **Bus**: XR Barcelona organiza dos autobuses. El horario de salida es el día 6 de diciembre a las 8 de la mañana, con vuelta el día 8 de diciembre a las 14h o las 16h. El precio total es de 36€. [Compra tu billete aquí](https://vivetix.com/entradas-puente-de-diciembre-en-madrid?s=link) 
-En caso de tener dificultades para pagar el billete, escribe un correo a xrbarcelona@riseup.net y miraremos de ayudarte. 
+En caso de tener dificultades para pagar el billete, escribe un correo a [xrbarcelona@riseup.net](xrbarcelona@riseup.net) y miraremos de ayudarte. 
 
 - **Tren**: Ecologistas en Acción organiza la ida a Madrid en tren lento (solo ida) el día 6 de diciembre a las 8 de la mañana, para llegar a las 6 de la tarde a Madrid y añadirse a la manifestación una vez ya empezada. [Más información aquí](https://forms.gle/bubBz4zWRSJGQgyK6) 
 

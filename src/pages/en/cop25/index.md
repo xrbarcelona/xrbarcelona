@@ -53,7 +53,7 @@ Also, think about bringing your sunbed and your sleeping bag!
 From Barcelona, ​​there are two transport options available:
 
 - **Bus**: XR Barcelona organizes two buses. The departure time is December the 6th at 8am, and return on December the 8th at 2 p.m. or 4p.m. The total price is € 36. [Buy your ticket here](https://vivetix.com/entradas-puente-de-diciembre-en-madrid?s=link)  
-If you have difficulties to pay the ticket, write an email to xrbarcelona@riseup.net and we will try to help you.
+If you have difficulties to pay the ticket, write an email to [xrbarcelona@riseup.net](xrbarcelona@riseup.net) and we will try to help you.
 
 - **Train**: Ecologistas en Acción organizes the trip to Madrid by slow train (one way) on December the 6th at 8am, to arrive to Madrid at 6pm and join the demonstration. [More information here](https://forms.gle/bubBz4zWRSJGQgyK6) 
 
