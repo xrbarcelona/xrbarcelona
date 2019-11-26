@@ -1,12 +1,14 @@
 ---
 templateKey: 'cop25-page'
 languageKey: en
-path: /en/cop25-madrid
-title: COP25, Madrid, 2-13 Dec 2019
+path: /en/cop25
+title: COP25
 description: Learn more how to participate in the event of COP25 in Madrid
 featuredimage: /img/blog/2019-01-28-call-for-rebels_tn.jpg
 ---
-  
+
+## Madrid, 2-13 Dec 2019
+
 ### WHAT?
 
 The planet is in an extreme situation. As a consequence of human activity, ecosystems are in danger and with it, life as we know it. We are in a borderline situation of climate emergency, in front of which Governments are failing to protect us, and thus become illegitimate. COP25 is a unique opportunity to denounce that elites and governments are colaborating in the destruction of the planet.

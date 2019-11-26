@@ -1,12 +1,14 @@
 ---
 templateKey: 'cop25-page'
 languageKey: ca
-path: /ca/cop25-madrid
-title: COP25, Madrid, 2-13 Dic 2019
+path: /ca/cop25
+title: COP25
 description: Informaciónes sobre cómo participar en el evento de la COP25 en Madrid
 featuredimage: /img/blog/2019-01-28-call-for-rebels_tn.jpg
 ---
-  
+
+## Madrid, 2-13 Dic 2019
+
 ### QUÈ?
 
 El planeta es troba en una situació extrema. A conseqüència de l’activitat humana els ecosistemes estan en perill i amb ells la vida tal com la coneixem. Així, ens trobem en una situació límit d’emergència climàtica, davant la qual els governs queden deslegitimats donada  la seva ineficàcia a l’hora protegir els/les ciutadans/nes. La COP25 és una oportunitat única per a denunciar les elits i els Governs de ser còmplices de la destrucció del nostre planeta.
