@@ -3,11 +3,13 @@ templateKey: 'cop25-page'
 languageKey: en
 path: /en/cop25
 title: COP25
-description: Learn more how to participate in the event of COP25 in Madrid
+description: Learn more how rebels can  participate in the event of COP25 in Madrid
 featuredimage: /img/blog/2019-01-28-call-for-rebels_tn.jpg
 ---
 
 ## Madrid, 2-13 Dec 2019
+
+Learn more how rebels can participate in the event of the COP25 in Madrid
 
 ### WHAT?
 

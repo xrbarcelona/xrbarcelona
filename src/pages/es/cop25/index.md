@@ -3,11 +3,13 @@ templateKey: 'cop25-page'
 languageKey: es
 path: /es/cop25
 title: COP25
-description: Informaciónes sobre cómo participar en el evento de la COP25 en Madrid
+description: Informaciónes para los rebedles sobre cómo participar en el evento de la COP25 en Madrid
 featuredimage: /img/blog/2019-01-28-call-for-rebels_tn.jpg
 ---
   
 ## Madrid, 2-13 Dic 2019
+
+Informaciónes para los rebedles sobre cómo participar en el evento de la COP25 en Madrid
 
 ### ¿QUÉ?
 
