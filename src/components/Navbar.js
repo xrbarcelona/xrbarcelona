@@ -70,8 +70,8 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item main-menu" to={`/${languageKey}/about`}>
                 {intl[languageKey].navBar.about}
               </Link>
-              <Link className="navbar-item main-menu" to={`/${languageKey}/october-seventh`}>
-                {intl[languageKey].navBar.oct7}
+              <Link className="navbar-item main-menu" to={`/${languageKey}/cop25-madrid`}>
+                {intl[languageKey].navBar.cop25}
               </Link>
               <Link className="navbar-item main-menu" to={`/${languageKey}/events`}>
                 {intl[languageKey].navBar.events}

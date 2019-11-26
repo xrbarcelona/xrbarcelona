@@ -27,7 +27,7 @@ const intl = {
         navBar: {
             home: "Home",
             about: "About",
-            oct7: "7Oct",
+            cop25: "COP25",
             events: "Esdeveniments",
             blog: "Blog",
             contact: "Contacte",
@@ -60,7 +60,7 @@ const intl = {
         navBar: {
             home: "Home",
             about: "About",
-            oct7: "7Oct",
+            cop25: "COP25",
             events: "Eventos",
             blog: "Blog",
             contact: "Contacto",
@@ -93,7 +93,7 @@ const intl = {
         navBar: {
             home: "Home",
             about: "About",
-            oct7: "7Oct",
+            cop25: "COP25",
             events: "Events",
             blog: "Blog",
             contact: "Contact",
