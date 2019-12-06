@@ -10,6 +10,7 @@ tags:
   - xrbarcelona
 ---
 
+![Brisa Fenoy in concert](/img/blog/2019-09-27-brisafenoy1.jpg)
 
 On September 27, after participating in the multitudinous demonstration against the climate emergency, **we had the opportunity to present Extinction Rebellion during the concert of Brisa Fenoy at Prat de Llobregat**.  
 This artist, known among other things by the feminist hymn that he composed last year that the hole country sang and danced, is very sensitive to the climate crisis. She defends an art that not only serves to share emotions, but also serves to encourage reflection/action. In this frame, that fits perfectly with Extinction Rebellion, is why she invited us to her concert.
@@ -28,5 +29,3 @@ We are already suffering the consequences of climate change. Therefore, immediat
 We explained to the audience the action that took place in London on April 15, when Extinction Rebellion blocked the center of the city, filling the streets of desire for change and hope.  
 We encouraged the public to investigate and search for the terrible data that is available to everyone.   
 Finally we invited them to join networks such as Extinction Rebellion and to use their voices to fight for climate justice.
-
-![Brisa Fenoy in concert](/img/blog/2019-09-27-brisafenoy1.jpg)

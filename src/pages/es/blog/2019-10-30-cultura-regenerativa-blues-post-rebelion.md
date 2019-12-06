@@ -6,7 +6,7 @@ date: 2019-10-30T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog/2019-10-30-regenerative-culture-blues-post-action-2.jpg
 description: >-
-  Volver a la "normalidad" no siempre es fácil. Una guía práctica para volver a poner los pies sobre la tierra practical guide to coming down to earth.
+  Volver a la "normalidad" no siempre es fácil. Una guía práctica para volver a poner los pies sobre la tierra.
 tags:
   - xrbarcelona
 ---
