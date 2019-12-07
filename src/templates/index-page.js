@@ -57,15 +57,6 @@ export const IndexPageTemplate = ({
                 </h3>
                 <JoinUsForm languageKey={languageKey} />
               </div>
-              <h3 className="has-text-centered">
-                {intl[languageKey].events}
-              </h3>
-              <EventsGrid gridItems={intro.blurbs} />
-              <div className="has-text-centered">
-                <Link className="button" to={`/${languageKey}/events`}>
-                  {intl[languageKey].seeAllEvents} →
-                </Link>
-              </div>
               <h3 className="latest-stories has-text-centered">
                 {intl[languageKey].latestStories}
               </h3>
@@ -73,6 +64,15 @@ export const IndexPageTemplate = ({
               <div className="has-text-centered">
                 <Link className="button" to={`/${languageKey}/blog`}>
                   {intl[languageKey].readMore} →
+                </Link>
+              </div>
+              <h3 className="has-text-centered">
+                {intl[languageKey].events}
+              </h3>
+              <EventsGrid gridItems={intro.blurbs} />
+              <div className="has-text-centered">
+                <Link className="button" to={`/${languageKey}/events`}>
+                  {intl[languageKey].seeAllEvents} →
                 </Link>
               </div>
             </div>
